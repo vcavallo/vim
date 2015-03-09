@@ -8,3 +8,5 @@ git submodule update
 ```
 
 _Make sure to update the machine's dotfiles as well [git@github.com:vcavallo/dotfiles]_
+
+ctags or exuberent ctags will likely need tobe installed as well
