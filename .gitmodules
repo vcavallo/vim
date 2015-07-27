@@ -55,9 +55,6 @@
 [submodule "bundle/vim-bundler"]
 	path = bundle/vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
-[submodule "vim-livedown"]
-	path = vim-livedown
-	url = https://github.com/shime/vim-livedown
 [submodule "bundle/scratch.vim"]
 	path = bundle/scratch.vim
 	url = https://github.com/mtth/scratch.vim
