@@ -55,3 +55,6 @@
 [submodule "bundle/vim-bundler"]
 	path = bundle/vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "bundle/nvim"]
+	path = bundle/nvim
+	url = git@github.com:cwoac/nvim.git

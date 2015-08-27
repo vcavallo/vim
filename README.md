@@ -1,3 +1,11 @@
+## To add a plugin:
+
+```
+git submodule add git@github... bundle/submodule-name
+git commit
+git push
+```
+
 ## To 'install' this vim environment on another machine:
 
 ```
