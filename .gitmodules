@@ -61,3 +61,6 @@
 [submodule "bundle/itchy"]
 	path = bundle/itchy
 	url = git@github.com:idbrii/itchy.vim.git
+[submodule "bundle/vim-pad"]
+	path = bundle/vim-pad
+	url = git@github.com:fmoralesc/vim-pad.git
