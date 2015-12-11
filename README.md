@@ -1,7 +1,9 @@
 ## To add a new plugin:
 
 ```
-git submodule add git://github.com/thoughtbot/vim-rspec
+git submodule add git@github... bundle/submodule-name
+git commit
+git push
 ```
 
 ## To 'install' this vim environment on another machine:

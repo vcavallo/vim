@@ -4,9 +4,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
-[submodule "bundle/MatchTag"]
-	path = bundle/MatchTag
-	url = https://github.com/gregsexton/MatchTag
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim
@@ -55,9 +52,21 @@
 [submodule "bundle/vim-bundler"]
 	path = bundle/vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "bundle/nvim"]
+	path = bundle/nvim
+	url = git@github.com:cwoac/nvim.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git@github.com:tpope/vim-markdown.git
 [submodule "bundle/itchy"]
 	path = bundle/itchy
 	url = git@github.com:idbrii/itchy.vim.git
+[submodule "bundle/vim-pad"]
+	path = bundle/vim-pad
+	url = git@github.com:fmoralesc/vim-pad.git
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = git@github.com:thoughtbot/vim-rspec.git
+[submodule "bundle/vim-rspec"]
+	path = bundle/vim-rspec
+	url = git@github.com:thoughtbot/vim-rspec.git
