@@ -1,3 +1,9 @@
+## To add a new plugin:
+
+```
+git submodule add git://github.com/thoughtbot/vim-rspec
+```
+
 ## To 'install' this vim environment on another machine:
 
 ```
