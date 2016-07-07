@@ -73,11 +73,11 @@
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = https://github.com/rust-lang/rust.vim
-[submodule "bundle/vimwiki.git"]
-	path = bundle/vimwiki.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
 	url = https://github.com/vimwiki/vimwiki.git
-[submodule "/Users/vinney/.vim/bundle/gruvbox"]
-	path = /Users/vinney/.vim/bundle/gruvbox
+[submodule "bundle/gruvbox"]
+	path = bundle/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "bundle/vim-elixir"]
 	path = bundle/vim-elixir
