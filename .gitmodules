@@ -46,9 +46,6 @@
 [submodule "bundle/nvim"]
 	path = bundle/nvim
 	url = git@github.com:cwoac/nvim.git
-[submodule "bundle/vim-markdown"]
-	path = bundle/vim-markdown
-	url = git@github.com:tpope/vim-markdown.git
 [submodule "bundle/itchy"]
 	path = bundle/itchy
 	url = git@github.com:idbrii/itchy.vim.git
