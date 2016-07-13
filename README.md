@@ -1,3 +1,7 @@
+## To update this repo on another machine (after updates elsewhere):
+
+may need to `git submodule update --init` if submodule directories are empty
+
 ## To add a new plugin:
 
 ```
