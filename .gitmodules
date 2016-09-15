@@ -82,3 +82,6 @@
 [submodule "bundle/html-autoclosetag"]
 	path = bundle/html-autoclosetag
 	url = git@github.com:amirh/HTML-AutoCloseTag.git
+[submodule "bundle/tender"]
+	path = bundle/tender
+	url = git@github.com:jacoborus/tender.vim.git
