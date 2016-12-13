@@ -85,3 +85,6 @@
 [submodule "bundle/tender"]
 	path = bundle/tender
 	url = git@github.com:jacoborus/tender.vim.git
+[submodule "bundle/vim-tmux-focus-events"]
+	path = bundle/vim-tmux-focus-events
+	url = git@github.com:tmux-plugins/vim-tmux-focus-events.git
