@@ -88,3 +88,6 @@
 [submodule "bundle/vim-tmux-focus-events"]
 	path = bundle/vim-tmux-focus-events
 	url = git@github.com:tmux-plugins/vim-tmux-focus-events.git
+[submodule "bundle/vim-ledger"]
+	path = bundle/vim-ledger
+	url = git@github.com:ledger/vim-ledger.git
