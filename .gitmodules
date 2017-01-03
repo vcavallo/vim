@@ -91,3 +91,6 @@
 [submodule "bundle/vim-ledger"]
 	path = bundle/vim-ledger
 	url = git@github.com:ledger/vim-ledger.git
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
