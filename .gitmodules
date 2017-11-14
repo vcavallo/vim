@@ -40,9 +40,6 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = git://github.com/tpope/vim-rails.git
-[submodule "bundle/vim-bundler"]
-	path = bundle/vim-bundler
-	url = git://github.com/tpope/vim-bundler.git
 [submodule "bundle/nvim"]
 	path = bundle/nvim
 	url = git@github.com:cwoac/nvim.git
@@ -98,5 +95,3 @@
 	path = bundle/python-syntax
 	url = https://github.com/hdima/python-syntax.git
 [submodule "bundle/vim-jsx"]
-	path = bundle/vim-jsx
-	url = https://github.com/mxw/vim-jsx.git
