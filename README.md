@@ -25,6 +25,10 @@ ctags or exuberent ctags will likely need tobe installed as well
 
 ## reminders
 
-- if you're getting issues with `submodule update`, make sure the machine you're
-  using has an ssh key on github. then make sure that no submodules have local
-  changes (not sure what this is about, but it seemed to happen once.)
+- if you're getting issues with `submodule update` or `submodule init`:
+  - `git rm --cached bundle/the-problematic-submodule` and try again (repeat).
+    I think this means the local machine you're on has directories for
+    submodules but the `.gitmodules` file doesn't contain them anymore.
+  - make sure the machine you're
+    using has an ssh key on github. then make sure that no submodules have local
+    changes (not sure what this is about, but it seemed to happen once.)
