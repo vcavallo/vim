@@ -97,3 +97,6 @@
 [submodule "bundle/vim-wakatime"]
 	path = bundle/vim-wakatime
 	url = git://github.com/wakatime/vim-wakatime.git
+[submodule "bundle/vim-vue"]
+	path = bundle/vim-vue
+	url = git@github.com:posva/vim-vue.git
