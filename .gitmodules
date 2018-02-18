@@ -100,3 +100,6 @@
 [submodule "bundle/vim-vue"]
 	path = bundle/vim-vue
 	url = git@github.com:posva/vim-vue.git
+[submodule "bundle/vim-beancount"]
+	path = bundle/vim-beancount
+	url = git@github.com:nathangrigg/vim-beancount.git
