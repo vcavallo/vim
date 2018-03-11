@@ -103,3 +103,6 @@
 [submodule "bundle/vim-beancount"]
 	path = bundle/vim-beancount
 	url = git@github.com:nathangrigg/vim-beancount.git
+[submodule "bundle/falcon"]
+	path = bundle/falcon
+	url = https://github.com/fenetikm/falcon.git
