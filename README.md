@@ -15,7 +15,7 @@ git push
 ```
 git clone git@github.com:vcavallo/vim ~/.vim
 cd ~/.vim
-git submodule init
+git submodule init # [maybe add --init]
 git submodule update
 ```
 
