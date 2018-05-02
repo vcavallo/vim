@@ -106,3 +106,6 @@
 [submodule "bundle/falcon"]
 	path = bundle/falcon
 	url = https://github.com/fenetikm/falcon.git
+[submodule "/home/vcavallo/.vim/bundle/todo.txt-vim"]
+	path = /home/vcavallo/.vim/bundle/todo.txt-vim
+	url = git@github.com:vim-scripts/todo-txt.vim.git
