@@ -109,3 +109,6 @@
 [submodule "/home/vcavallo/.vim/bundle/todo.txt-vim"]
 	path = /home/vcavallo/.vim/bundle/todo.txt-vim
 	url = git@github.com:vim-scripts/todo-txt.vim.git
+[submodule "bundle/bundle/vim-obsession"]
+	path = bundle/bundle/vim-obsession
+	url = git@github.com:tpope/vim-obsession.git
