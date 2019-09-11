@@ -112,3 +112,6 @@
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle/vim-tmux-navigator
 	url = git@github.com:christoomey/vim-tmux-navigator.git
+[submodule "/home/vcavallo/.vim/bundle/colorschemes"]
+	path = /home/vcavallo/.vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
