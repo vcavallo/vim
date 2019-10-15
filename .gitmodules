@@ -121,3 +121,9 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = git@github.com:fatih/vim-go.git
+[submodule "/home/vcavallo/.vim/bundle/typescript-vim"]
+	path = /home/vcavallo/.vim/bundle/typescript-vim
+	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "/home/vcavallo/.vim/bundle/ale"]
+	path = /home/vcavallo/.vim/bundle/ale
+	url = git@github.com:dense-analysis/ale.git
