@@ -127,3 +127,6 @@
 [submodule "/home/vcavallo/.vim/bundle/ale"]
 	path = /home/vcavallo/.vim/bundle/ale
 	url = git@github.com:dense-analysis/ale.git
+[submodule "bundle/deoplete"]
+	path = bundle/deoplete
+	url = git@github.com:Shougo/deoplete.nvim.git
