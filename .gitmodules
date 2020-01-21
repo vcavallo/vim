@@ -130,3 +130,6 @@
 [submodule "bundle/deoplete"]
 	path = bundle/deoplete
 	url = git@github.com:Shougo/deoplete.nvim.git
+[submodule "bundle/fzf.vim"]
+	path = bundle/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
