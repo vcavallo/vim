@@ -11,28 +11,69 @@
 # hlsearch on (H) or off (h):
 ~H
 # Last Search Pattern:
-~MSle0~/notes
+~MSle0~/color
+
+# Last Substitute Search Pattern:
+~MSle0&user_review
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:wqa
-|2,0,1582993962,,"wqa"
-:colorscheme preto
-|2,0,1582993777,,"colorscheme preto"
+:q
+|2,0,1583171789,,"q"
+:qa
+|2,0,1583170909,,"qa"
+:e ~/.vimrc
+|2,0,1583013633,,"e ~/.vimrc"
+:AirlineTheme badwolf
+|2,0,1583013628,,"AirlineTheme badwolf"
 :w
-|2,0,1582993775,,"w"
+|2,0,1583012576,,"w"
+:wq
+|2,0,1583011502,,"wq"
+:e ~/Documents/cscie-28/
+|2,0,1583008971,,"e ~/Documents/cscie-28/"
+:wqa
+|2,0,1582995400,,"wqa"
+:w /home/vcavallo/code/vss-rails-vue/app/policies/shift_review_policy.rb
+|2,0,1582907407,,"w /home/vcavallo/code/vss-rails-vue/app/policies/shift_review_policy.rb"
+:%s/user_review/shift_review/g
+|2,0,1582905815,,"%s/user_review/shift_review/g"
+:!cp app/views/user_reviews/_user_review.json.jbuilder app/views/shift_reviews/_shift_review.json.jbuilder
+|2,0,1582905789,,"!cp app/views/user_reviews/_user_review.json.jbuilder app/views/shift_reviews/_shift_review.json.jbuilder"
+:w! app/javascript/src/components/calendar/sar-notes.vue
+|2,0,1582912038,,"w! app/javascript/src/components/calendar/sar-notes.vue"
+:w app/javascript/src/components/calendar/sar-notes.vue
+|2,0,1582912033,,"w app/javascript/src/components/calendar/sar-notes.vue"
+:w /home/vcavallo/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue
+|2,0,1582911801,,"w /home/vcavallo/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue"
+:tabnew
+|2,0,1582917159,,"tabnew"
+:colorscheme yin
+|2,0,1582995298,,"colorscheme yin"
+:AirlineTheme 
+|2,0,1582995294,,"AirlineTheme "
+:AirlineTheme badcat
+|2,0,1582993901,,"AirlineTheme badcat"
+:AirlineTheme ayu_dark
+|2,0,1582993893,,"AirlineTheme ayu_dark"
+:AirlineTheme gotham256
+|2,0,1582993889,,"AirlineTheme gotham256"
+:AirlineTheme gotham_256
+|2,0,1582993885,,"AirlineTheme gotham_256"
+:AirlineTheme dark_minimal
+|2,0,1582993877,,"AirlineTheme dark_minimal"
+:colorscheme yang
+|2,0,1582993808,,"colorscheme yang"
+:colorscheme preto
+|2,0,1582993800,,"colorscheme preto"
+:colorscheme 256_noir
+|2,0,1582993628,,"colorscheme 256_noir"
+:colorscheme paramount
+|2,0,1582993617,,"colorscheme paramount"
 :colorscheme plain
 |2,0,1582993753,,"colorscheme plain"
-:colorscheme yin
-|2,0,1582993722,,"colorscheme yin"
-:colorscheme yang
-|2,0,1582993718,,"colorscheme yang"
-:wq
-|2,0,1582993714,,"wq"
-:q
-|2,0,1582908830,,"q"
 :GoLint
 |2,0,1582845244,,"GoLint"
 :ALELint
@@ -41,8 +82,6 @@ $
 |2,0,1582845222,,"Ale"
 :a
 |2,0,1582843362,,"a"
-:tabnew
-|2,0,1582842546,,"tabnew"
 :colorscheme smyck
 |2,0,1582840838,,"colorscheme smyck"
 :colorscheme tender
@@ -55,8 +94,6 @@ $
 |2,0,1582840536,,"set -g status \"on\""
 :e
 |2,0,1582649860,,"e"
-:e ~/.vimrc
-|2,0,1582840437,,"e ~/.vimrc"
 :Gblame
 |2,0,1582659204,,"Gblame"
 :w ~/test3.js
@@ -67,10 +104,6 @@ $
 |2,0,1582662731,,"e ~/test.js"
 :e ~/.tmux.conf
 |2,0,1582840292,,"e ~/.tmux.conf"
-:qa
-|2,0,1582840132,,"qa"
-:AirlineTheme 
-|2,0,1582839853,,"AirlineTheme "
 :AirlineTheme tender
 |2,0,1582821319,,"AirlineTheme tender"
 :reg
@@ -146,13 +179,159 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1582993770,,"@$"
+|2,1,1583171775,,"@$"
+?/color
+|2,1,1583013644,47,"color"
+?/yang
+|2,1,1583013643,47,"yang"
+??yin
+|2,1,1583013640,63,"yin"
+??slot
+|2,1,1583010175,63,"slot"
+??stat
+|2,1,1583009281,63,"stat"
+?/stic
+|2,1,1582905263,47,"stic"
+??\a
+|2,1,1582905261,63,"\\a"
+?/npm
+|2,1,1582909641,47,"npm"
+?/client
+|2,1,1582908271,47,"client"
+?/read
+|2,1,1582907810,47,"read"
+?/index
+|2,1,1582907757,47,"index"
+?/view
+|2,1,1582907430,47,"view"
+?/pol
+|2,1,1582907392,47,"pol"
+?/shiftre
+|2,1,1582907077,47,"shiftre"
+?/create
+|2,1,1582907064,47,"create"
+?/post
+|2,1,1582906977,47,"post"
+?/submit
+|2,1,1582906429,47,"submit"
+?/todo
+|2,1,1582906121,47,"todo"
+?/user
+|2,1,1582905906,47,"user"
+?/review
+|2,1,1582905856,47,"review"
+? user_review
+|2,1,1582905815,,"user_review"
+?/user_review
+|2,1,1582905806,47,"user_review"
+?/reviewable
+|2,1,1582910707,47,"reviewable"
+?/import
+|2,1,1582910683,47,"import"
+?/shiftreview
+|2,1,1582910681,47,"shiftreview"
+?/trade re
+|2,1,1582910672,47,"trade re"
+?/trade
+|2,1,1582910666,47,"trade"
+??shiftreview
+|2,1,1582910660,63,"shiftreview"
+?/then
+|2,1,1582910317,47,"then"
+?/anyRe
+|2,1,1582910240,47,"anyRe"
+?/canAu
+|2,1,1582910239,47,"canAu"
+?/contact
+|2,1,1582910151,47,"contact"
+?/sarnote
+|2,1,1582912702,47,"sarnote"
 ?/notes
-|2,1,1582911465,47,"notes"
-?/shift
-|2,1,1582911462,47,"shift"
+|2,1,1582912681,47,"notes"
+??tab
+|2,1,1582912525,63,"tab"
+?/sarno
+|2,1,1582912518,47,"sarno"
+?/apifi
+|2,1,1582912105,47,"apifi"
 ?/note
-|2,1,1582911388,47,"note"
+|2,1,1582912062,47,"note"
+?/createNo
+|2,1,1582912058,47,"createNo"
+?/click
+|2,1,1582912053,47,"click"
+?/sar
+|2,1,1582912045,47,"sar"
+?/setup
+|2,1,1582911865,47,"setup"
+?/com
+|2,1,1582911853,47,"com"
+?/intern
+|2,1,1582911813,47,"intern"
+?/tab
+|2,1,1582911734,47,"tab"
+?/internal
+|2,1,1582911725,47,"internal"
+?/shifrt
+|2,1,1582917797,47,"shifrt"
+?/saractive
+|2,1,1582917739,47,"saractive"
+?/sara
+|2,1,1582917496,47,"sara"
+?/sarac
+|2,1,1582917477,47,"sarac"
+?/tabs
+|2,1,1582917442,47,"tabs"
+?/tab-item
+|2,1,1582917317,47,"tab-item"
+?/tab-itm
+|2,1,1582917315,47,"tab-itm"
+?/v-tab
+|2,1,1582917247,47,"v-tab"
+?/shiftHasPassed
+|2,1,1582916954,47,"shiftHasPassed"
+?/{{ shif
+|2,1,1582916838,47,"{{ shif"
+?/shift
+|2,1,1582916772,47,"shift"
+?/wrapp
+|2,1,1582916676,47,"wrapp"
+?/pick
+|2,1,1582916609,47,"pick"
+?/pickUp
+|2,1,1582916605,47,"pickUp"
+?/shif
+|2,1,1582916570,47,"shif"
+?/userId
+|2,1,1582916559,47,"userId"
+?/show
+|2,1,1582916538,47,"show"
+?/getShift
+|2,1,1582916524,47,"getShift"
+?/viewedShift
+|2,1,1582916490,47,"viewedShift"
+?/haveShift
+|2,1,1582916364,47,"haveShift"
+?/shiftInUser
+|2,1,1582916352,47,"shiftInUser"
+?/SAR
+|2,1,1582916044,47,"SAR"
+?/pdf
+|2,1,1582915674,47,"pdf"
+?/certifica
+|2,1,1582915622,47,"certifica"
+?/cer
+|2,1,1582915617,47,"cer"
+?/profile_picture
+|2,1,1582915305,47,"profile_picture"
+?/profile
+|2,1,1582915298,47,"profile"
+?/{{
+|2,1,1582993566,47,"{{"
+?/airl
+|2,1,1582995343,47,"airl"
+?/vimrc
+|2,1,1582995313,47,"vimrc"
 ?/ntoe
 |2,1,1582911386,47,"ntoe"
 ?/client notes
@@ -217,8 +396,6 @@ $
 |2,1,1582842769,47,"struct"
 ?/offenderAPI
 |2,1,1582842574,47,"offenderAPI"
-?/color
-|2,1,1582840440,47,"color"
 ? \<user_review_params\>
 |2,1,1582660705,,"\\<user_review_params\\>"
 ?//
@@ -229,8 +406,6 @@ $
 |2,1,1582660537,47,"clear"
 ??review
 |2,1,1582660266,63,"review"
-?/review
-|2,1,1582660172,47,"review"
 ??refreshRe
 |2,1,1582659821,63,"refreshRe"
 ?/save
@@ -343,8 +518,6 @@ $
 |2,1,1582818510,47,"addaccomp"
 ?/addacc
 |2,1,1582818469,47,"addacc"
-?/show
-|2,1,1582818358,47,"show"
 ?/canAdd
 |2,1,1582818288,47,"canAdd"
 ? \<AccompanyingChildrenTable\>
@@ -403,8 +576,6 @@ $
 |2,1,1582777961,47,"birthDate"
 ?/makeTestPerson
 |2,1,1582777571,47,"makeTestPerson"
-?/post
-|2,1,1582777416,47,"post"
 ?/ps
 |2,1,1582777403,47,"ps"
 ?/zone
@@ -453,8 +624,6 @@ $
 |2,1,1582776038,47,")"
 ?/paren
 |2,1,1582776036,47,"paren"
-??\a
-|2,1,1582776028,63,"\\a"
 ?/pare
 |2,1,1582776024,47,"pare"
 ?/swap
@@ -535,8 +704,6 @@ $
 |2,1,1582575159,47,"shifts"
 ?/still expec
 |2,1,1582574986,47,"still expec"
-?/trade
-|2,1,1582574981,47,"trade"
 ?/empl
 |2,1,1582574978,47,"empl"
 ?/team
@@ -549,8 +716,6 @@ $
 |2,1,1582577046,47,"shiftToo"
 ?/i under
 |2,1,1582576674,47,"i under"
-?/contact
-|2,1,1582576637,47,"contact"
 ?/continue
 |2,1,1582576469,47,"continue"
 ?/shiftTooSoon
@@ -563,6 +728,18 @@ $
 |2,2,1582821873,,"p"
 
 # Input Line History (newest to oldest):
+@show.json.jbuilder
+|2,3,1582906660,,"show.json.jbuilder"
+@/home/vcavallo/code/vss-rails-vue/app/views/api/v1/shift_reviews
+|2,3,1582905934,,"/home/vcavallo/code/vss-rails-vue/app/views/api/v1/shift_reviews"
+@index.json.jbuilder
+|2,3,1582905901,,"index.json.jbuilder"
+@shift_review
+|2,3,1582905886,,"shift_review"
+@/home/vcavallo/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder
+|2,3,1582905796,,"/home/vcavallo/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder"
+@shift_reviews
+|2,3,1582905763,,"shift_reviews"
 @preto.vim
 |2,3,1582993772,,"preto.vim"
 @plain.vim
@@ -587,36 +764,36 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	
-|3,0,0,1,1,0,1582993772,""
-""1	LINE	0
-	
-|3,1,1,1,1,0,1582993774,""
+""0	CHAR	0
+	#
+|3,1,0,0,1,0,1583171775,"#"
+"1	LINE	0
+	.swp
+|3,0,1,1,1,0,1583171775,".swp"
 "2	LINE	0
-	.yin.vim.swp
-|3,0,2,1,1,0,1582993770,".yin.vim.swp"
+	.postcssrc.yml.swp
+|3,0,2,1,1,0,1583171775,".postcssrc.yml.swp"
 "3	LINE	0
-	.yang.vom.swp
-|3,0,3,1,1,0,1582993770,".yang.vom.swp"
+	.notes.md.swp
+|3,0,3,1,1,0,1583171775,".notes.md.swp"
 "4	LINE	0
-	.yang.vim.swp
-|3,0,4,1,1,0,1582993770,".yang.vim.swp"
+	.babelrc.swp
+|3,0,4,1,1,0,1583171775,".babelrc.swp"
 "5	LINE	0
-	.plain.vim.swp
-|3,0,5,1,1,0,1582993770,".plain.vim.swp"
+	.CHANGELOG.md.swp
+|3,0,5,1,1,0,1583171775,".CHANGELOG.md.swp"
 "6	LINE	0
-	../
-|3,0,6,1,1,0,1582993770,"../"
+	.3.swp
+|3,0,6,1,1,0,1583171775,".3.swp"
 "7	LINE	0
-	./
-|3,0,7,1,1,0,1582993770,"./"
+	.yarn.lock.swo
+|3,0,7,1,1,0,1583171775,".yarn.lock.swo"
 "8	LINE	0
-	
-|3,0,8,1,1,0,1582993770,""
+	.swo
+|3,0,8,1,1,0,1583171775,".swo"
 "9	LINE	0
-	
-|3,0,9,1,1,0,1582993750,""
+	.swn
+|3,0,9,1,1,0,1583171775,".swn"
 "q@	CHAR	0
 	veyA€ýa^ea: €ýaa"€ýabiax€kbc.€ýaea,€ýald$j^
 |3,2,26,0,1,0,1582844233,"veyA€ýa^ea: €ýaa\"€ýabiax€kbc.€ýaea,€ýald$j^"
@@ -624,232 +801,513 @@ $
 	jj"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk
 |3,0,31,0,1,0,1582821048,"jj\"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk"
 "-	CHAR	0
-	, !true
-|3,0,36,0,1,0,1582845289,", !true"
+	#
+|3,0,36,0,1,0,1583012541,"#"
 
 # global variables:
 
 # File marks:
-'0  137  0  ~/.vim/colors/preto.vim
-|4,48,137,0,1582993962,"~/.vim/colors/preto.vim"
-'1  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,49,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
-'2  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,50,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
-'3  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,51,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
-'4  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,52,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
-'5  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,53,13,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
-'6  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,54,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
-'7  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,55,1,0,1582905177,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
-'8  62  18  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,56,62,18,1582905168,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
-'9  62  18  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,57,62,18,1582905168,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
+'0  165  8  ~/Documents/cscie-28/lecture4.md
+|4,48,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+'1  105  2  ~/.vimrc
+|4,49,105,2,1583013894,"~/.vimrc"
+'2  146  0  ~/Documents/cscie-28/lecture4.md
+|4,50,146,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+'3  136  0  ~/Documents/cscie-28/lecture4.md
+|4,51,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+'4  10  0  ~/Desktop/sticky.md
+|4,52,10,0,1582995400,"~/Desktop/sticky.md"
+'5  10  0  ~/Desktop/sticky.md
+|4,53,10,0,1582995400,"~/Desktop/sticky.md"
+'6  344  0  ~/code/jssp-af/Makefile
+|4,54,344,0,1582995375,"~/code/jssp-af/Makefile"
+'7  344  0  ~/code/jssp-af/Makefile
+|4,55,344,0,1582995375,"~/code/jssp-af/Makefile"
+'8  33  4  ~/code/vss-rails-vue/app/policies/shift_review_policy.rb
+|4,56,33,4,1582995363,"~/code/vss-rails-vue/app/policies/shift_review_policy.rb"
+'9  728  4  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue
+|4,57,728,4,1582995363,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue"
 
 # Jumplist (newest first):
--'  137  0  ~/.vim/colors/preto.vim
-|4,39,137,0,1582993962,"~/.vim/colors/preto.vim"
--'  20  0  ~/.vim/colors/plain.vim
-|4,39,20,0,1582993770,"~/.vim/colors/plain.vim"
--'  29  38  ~/.vim/colors/yang.vim
-|4,39,29,38,1582993743,"~/.vim/colors/yang.vim"
--'  1  0  ~/.vim/colors/yin.vim
-|4,39,1,0,1582993714,"~/.vim/colors/yin.vim"
--'  1  0  ~/.vim/colors
-|4,39,1,0,1582993699,"~/.vim/colors"
--'  1  0  ~/.vim/colors/yang.vom
-|4,39,1,0,1582993696,"~/.vim/colors/yang.vom"
--'  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
--'  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
--'  627  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,627,15,1582911467,"~/code/vss-rails-vue/app/models/shift.rb"
--'  627  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,627,15,1582911467,"~/code/vss-rails-vue/app/models/shift.rb"
--'  623  13  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,623,13,1582911466,"~/code/vss-rails-vue/app/models/shift.rb"
--'  623  13  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,623,13,1582911466,"~/code/vss-rails-vue/app/models/shift.rb"
--'  88  23  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,88,23,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  1  0  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,1,0,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  88  23  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,88,23,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  1  0  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,1,0,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  4  0  ~/code/vss-rails-vue/app/models/user_shift_note.rb
-|4,39,4,0,1582911458,"~/code/vss-rails-vue/app/models/user_shift_note.rb"
--'  4  0  ~/code/vss-rails-vue/app/models/user_shift_note.rb
-|4,39,4,0,1582911458,"~/code/vss-rails-vue/app/models/user_shift_note.rb"
--'  412  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,412,6,1582911448,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  412  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,412,6,1582911448,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  535  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,535,8,1582911406,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  535  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,535,8,1582911406,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  486  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,486,6,1582911400,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  486  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,486,6,1582911400,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  470  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,470,8,1582911398,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  470  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,470,8,1582911398,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  302  18  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,302,18,1582911388,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  302  18  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,302,18,1582911388,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  1  0  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,1,0,1582911357,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  1  0  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,1,0,1582911357,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
 -'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1582911313,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1582911313,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
+|4,39,1,0,1583171775,"~/code/vss-rails-vue"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  144  11  ~/Documents/cscie-28/lecture4.md
+|4,39,144,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  144  11  ~/Documents/cscie-28/lecture4.md
+|4,39,144,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  134  11  ~/Documents/cscie-28/lecture4.md
+|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
+-'  141  77  ~/Documents/cscie-28/lecture4.md
+|4,39,141,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  141  77  ~/Documents/cscie-28/lecture4.md
+|4,39,141,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  131  77  ~/Documents/cscie-28/lecture4.md
+|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  95  2  ~/Documents/cscie-28/lecture4.md
+|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
+-'  139  5  ~/Documents/cscie-28/lecture4.md
+|4,39,139,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  139  5  ~/Documents/cscie-28/lecture4.md
+|4,39,139,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  126  5  ~/Documents/cscie-28/lecture4.md
+|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  93  53  ~/Documents/cscie-28/lecture4.md
+|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  100  44  ~/Documents/cscie-28/lecture4.md
+|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  111  0  ~/Documents/cscie-28/lecture4.md
+|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
+-'  114  11  ~/Documents/cscie-28/lecture4.md
+|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
+-'  114  11  ~/Documents/cscie-28/lecture4.md
+|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
+-'  114  11  ~/Documents/cscie-28/lecture4.md
+|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
+-'  114  11  ~/Documents/cscie-28/lecture4.md
+|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/cscie-28/lecture4.md
+	*	1583170907	0
+	"	165	8
+	^	176	4
+	.	176	3
+	+	105	0
+	+	106	0
+	+	107	19
+	+	120	0
+	+	115	14
+	+	118	14
+	+	120	0
+	+	100	44
+	+	119	35
+	+	117	13
+	+	114	13
+	+	119	12
+	+	114	14
+	+	113	0
+	+	114	0
+	+	119	34
+	+	107	27
+	+	101	81
+	+	119	34
+	+	108	33
+	+	131	0
+	+	121	79
+	+	122	14
+	+	115	10
+	+	100	37
+	+	119	53
+	+	100	1
+	+	101	1
+	+	99	0
+	+	85	0
+	+	102	47
+	+	101	89
+	+	102	83
+	+	103	76
+	+	102	150
+	+	101	101
+	+	103	143
+	+	93	66
+	+	95	150
+	+	96	71
+	+	139	4
+	+	139	36
+	+	139	0
+	+	98	6
+	+	95	11
+	+	94	0
+	+	88	54
+	+	141	11
+	+	142	7
+	+	142	6
+	+	144	25
+	+	143	63
+	+	145	30
+	+	145	67
+	+	147	0
+	+	145	75
+	+	139	0
+	+	137	2
+	+	150	0
+	+	129	2
+	+	128	7
+	+	129	6
+	+	128	6
+	+	130	6
+	+	133	59
+	+	134	0
+	+	150	0
+	+	152	81
+	+	155	66
+	+	158	16
+	+	164	25
+	+	165	23
+	+	164	32
+	+	165	7
+	+	166	15
+	+	164	19
+	+	165	8
+	+	166	38
+	+	164	30
+	+	166	19
+	+	170	29
+	+	172	32
+	+	174	0
+	+	173	5
+	+	174	0
+	+	161	59
+	+	163	103
+	+	163	0
+	+	178	32
+	+	180	0
+	+	179	43
+	+	181	23
+	+	178	73
+	+	179	56
+	+	181	55
+	+	182	2
+	+	175	0
+	+	177	1
+	+	162	74
+	+	176	3
+
+> ~/.vimrc
+	*	1583013650	0
+	"	114	5
+	^	363	30
+	.	363	29
+	+	55	18
+	+	57	14
+	+	46	63
+	+	56	27
+	+	362	28
+	+	374	1
+	+	353	0
+	+	107	17
+	+	108	15
+	+	107	1
+	+	362	2
+	+	363	29
+
+> ~/reading.md
+	*	1582995726	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/xclip
+	*	1582995719	0
+	"	1	0
+
+> ~/time.txt
+	*	1582995717	0
+	"	1	0
+
+> ~/package.json
+	*	1582995714	0
+	"	1	0
+
+> ~/code/jssp-af/Makefile
+	*	1582995375	0
+	"	344	0
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue
+	*	1582995363	0
+	"	4	42
+	^	4	43
+	.	4	42
+	+	83	0
+	+	76	17
+	+	54	0
+	+	58	0
+	+	46	0
+	+	34	0
+	+	33	0
+	+	48	0
+	+	5	0
+	+	33	0
+	+	36	0
+	+	49	0
+	+	47	0
+	+	4	42
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue
+	*	1582995363	0
+	"	728	4
+	^	595	0
+	.	728	0
+	+	594	0
+	+	596	0
+	+	595	0
+	+	611	0
+	+	665	0
+	+	660	0
+	+	678	0
+	+	728	0
+
+> ~/code/vss-rails-vue/app/policies/shift_review_policy.rb
+	*	1582995363	0
+	"	33	4
+	^	32	0
+	.	32	0
+	+	1	16
+	+	9	0
+	+	11	0
+	+	16	22
+	+	16	60
+	+	16	23
+	+	24	0
+	+	16	26
+	+	16	38
+	+	16	61
+	+	23	0
+	+	23	76
+	+	26	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	36	4
+	+	8	5
+	+	36	0
+	+	10	10
+	+	16	0
+	+	16	18
+	+	16	0
+	+	16	68
+	+	16	0
+	+	18	0
+	+	16	17
+	+	17	51
+	+	18	0
+	+	23	0
+	+	15	0
+	+	23	63
+	+	22	37
+	+	23	0
+	+	20	78
+	+	23	0
+	+	22	45
+	+	22	44
+	+	22	0
+	+	16	18
+	+	35	0
+	+	29	16
+	+	35	39
+	+	31	0
+	+	35	0
+	+	31	15
+	+	34	50
+	+	31	0
+	+	34	63
+	+	35	0
+	+	33	51
+	+	33	14
+	+	31	62
+	+	33	0
+	+	32	0
+
+> ~/.config/i3/config
+	*	1582995318	0
+	"	260	28
+	^	143	57
+	.	143	58
+	+	72	24
+	+	71	0
+	+	71	24
+	+	31	0
+	+	34	74
+	+	355	0
+	+	354	0
+	+	355	26
+	+	213	30
+	+	212	29
+	+	212	37
+	+	213	32
+	+	213	0
+	+	212	30
+	+	214	0
+	+	144	0
+	+	34	0
+	+	34	24
+	+	30	45
+	+	143	58
+	u	260	28
+
+> ~/code/vss-rails-vue/app/javascript/src/components/reports/all-time-ordered-tile.vue
+	*	1582995307	0
+	"	153	0
+	^	153	0
+	.	153	0
+	+	153	0
+
+> ~/code/vss-rails-vue/app/models/client_business.rb
+	*	1582993902	0
+	"	60	0
 
 > ~/.vim/colors/preto.vim
 	*	1582993783	0
@@ -879,23 +1337,109 @@ $
 	.	1	0
 	+	1	0
 
+> ~/code/vss-rails-vue/app/javascript/src/components/profile/employee-profile.vue
+	*	1582993560	0
+	"	36	8
+
+> ~/code/vss-rails-vue/app/models/user_shift_note.rb
+	*	1582993528	0
+	"	4	0
+
+> ~/code/vss-rails-vue/app/javascript/src/components/hr/employee-detail-for-client.vue
+	*	1582917198	0
+	"	75	10
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-wrapper.vue
+	*	1582916832	0
+	"	53	2
+	.	3	0
+	+	3	0
+
+> ~/code/vss-rails-vue/app/controllers/api/v1/shifts_controller.rb
+	*	1582916627	0
+	"	180	30
+	^	1	3
+	.	1	0
+	+	1	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/shifts/show.json.jbuilder
+	*	1582916627	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/shifts/for_user.json.jbuilder
+	*	1582916580	0
+	"	3	0
+
+> ~/code/vss-rails-vue/app/views/shifts/_shift.json.jbuilder
+	*	1582916559	0
+	"	38	5
+
+> ~/code/vss-rails-vue/app/javascript/src/api/shift.js
+	*	1582916534	0
+	"	89	2
+
+> ~/code/vss-rails-vue/app/javascript/src/store/modules/shifts.js
+	*	1582916515	0
+	"	124	15
+
+> ~/code/vss-rails-vue/app/views/employees/_employee.json.jbuilder
+	*	1582916027	0
+	"	25	0
+
+> ~/code/vss-rails-vue/app/uploaders/pdf_uploader.rb
+	*	1582915680	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/models/concerns/internal_notable.rb
+	*	1582915667	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/models/concerns/attachable.rb
+	*	1582915664	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/models/certification.rb
+	*	1582915660	0
+	"	37	0
+
+> ~/code/vss-rails-vue/db/migrate/20190429193444_add_profile_picture_to_user.rb
+	*	1582915618	0
+	"	3	0
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-employee.vue
+	*	1582912703	0
+	"	253	7
+	^	266	13
+	.	326	0
+	+	225	0
+	+	228	12
+	+	234	40
+	+	253	32
+	+	266	12
+	+	114	0
+	+	274	0
+	+	327	0
+	+	239	0
+	+	326	0
+
 > ~/code/vss-rails-vue/app/models/shift.rb
 	*	1582911559	0
 	"	624	15
 
-> ~/code/vss-rails-vue/app/models/user_shift_note.rb
-	*	1582911455	0
-	"	4	0
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-manager.vue
+	*	1582910708	0
+	"	600	0
+	^	450	0
+	.	557	0
+	+	451	0
+	+	450	0
+	+	600	0
+	+	548	0
+	+	557	0
 
 > ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-	*	1582911421	0
-	"	412	6
-	.	412	0
-	+	302	0
-	+	470	0
-	+	486	0
-	+	535	0
-	+	412	0
+	*	1582910212	0
+	"	453	9
 
 > ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
 	*	1582908882	0
@@ -917,6 +1461,206 @@ $
 	.	14	0
 	+	13	0
 	+	14	0
+
+> ~/Desktop/sticky.md
+	*	1582908773	0
+	"	10	0
+	^	5	26
+	.	46	0
+	+	10	3
+	+	10	0
+	+	40	0
+	+	16	0
+	+	42	0
+	+	28	126
+	+	28	115
+	+	28	0
+	+	27	78
+	+	5	25
+	+	11	0
+	+	9	0
+	+	27	0
+	+	46	0
+
+> ~/code/vss-rails-vue/app/controllers/api/v1/shift_reviews_controller.rb
+	*	1582908348	0
+	"	10	8
+	^	8	40
+	.	6	0
+	+	15	68
+	+	18	0
+	+	14	10
+	+	18	0
+	+	19	0
+	+	20	0
+	+	6	47
+	+	6	0
+	+	10	0
+	+	6	15
+	+	10	22
+	+	26	42
+	+	21	14
+	+	27	0
+	+	25	23
+	+	15	8
+	+	17	0
+	+	16	16
+	+	20	0
+	+	23	0
+	+	24	0
+	+	22	0
+	+	23	73
+	+	8	0
+	+	7	0
+	+	9	0
+	+	8	39
+	+	20	0
+	+	6	0
+
+> ~/code/vss-rails-vue/app/controllers/api/v1/shift_trade_controller.rb
+	*	1582907793	0
+	"	8	0
+
+> ~/code/vss-rails-vue/app/policies/shift_policy.rb
+	*	1582907793	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/javascript/src/api/shiftReview.js
+	*	1582907792	0
+	"	5	8
+	^	6	43
+	.	6	42
+	+	6	42
+
+> ~/code/vss-rails-vue/app/javascript/src/store/modules/shift-reviews.js
+	*	1582907790	0
+	"	23	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/shift_reviews/show.json.jbuilder
+	*	1582907789	0
+	"	1	0
+	^	1	71
+	.	2	0
+	+	1	0
+	+	2	0
+	+	1	70
+	+	2	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/user_reviews/show.json.jbuilder
+	*	1582907789	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/shift_reviews/index.json.jbuilder
+	*	1582907788	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/shift_review/index.json.jbuilder
+	*	1582907787	0
+	"	1	0
+	^	1	77
+	.	1	76
+	+	1	76
+
+> ~/code/vss-rails-vue/app/controllers/api/v1/shift_notes_controller.rb
+	*	1582907787	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/pick-up-button.vue
+	*	1582907787	0
+	"	93	0
+
+> ~/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder
+	*	1582907785	0
+	"	8	0
+	^	8	34
+	.	9	0
+	+	6	0
+	+	1	0
+	+	9	0
+	+	8	33
+	+	9	0
+
+> ~/code/vss-rails-vue/app/views/api/v1/user_reviews/index.json.jbuilder
+	*	1582907785	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/policies/coordinated_coverage_request_policy.rb
+	*	1582907776	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/policies/employee_policy.rb
+	*	1582907752	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/policies/internal_note_policy.rb
+	*	1582907748	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/policies/manager_policy.rb
+	*	1582907746	0
+	"	1	0
+
+> ~/code/vss-rails-vue/app/models/user.rb
+	*	1582907741	0
+	"	67	2
+
+> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-review.vue
+	*	1582907058	0
+	"	100	13
+	^	25	14
+	.	25	13
+	+	43	0
+	+	43	34
+	+	57	0
+	+	43	0
+	+	42	0
+	+	41	38
+	+	53	21
+	+	53	0
+	+	51	35
+	+	52	47
+	+	54	36
+	+	53	0
+	+	52	66
+	+	51	36
+	+	54	34
+	+	4	30
+	+	30	37
+	+	30	0
+	+	21	21
+	+	33	18
+	+	30	0
+	+	21	0
+	+	22	17
+	+	32	11
+	+	30	0
+	+	22	44
+	+	21	0
+	+	22	0
+	+	22	17
+	+	21	43
+	+	22	0
+	+	22	31
+	+	22	0
+	+	24	0
+	+	22	0
+	+	23	16
+	+	28	0
+	+	29	0
+	+	31	13
+	+	28	13
+	+	30	0
+	+	24	0
+	+	23	0
+	+	24	0
+	+	27	85
+	+	25	0
+	+	26	0
+	+	25	13
+
+> ~/Desktop/st
+	*	1582905260	0
+	"	1	0
 
 > ~/code/jssp-af/web/src/components/offender/housing/AccompanyingChildrenTable.vue
 	*	1582845480	0
@@ -1321,42 +2065,12 @@ $
 	*	1582840771	0
 	"	3	0
 
-> ~/Desktop/sticky.md
-	*	1582840732	0
-	"	7	5
-	^	5	26
-	.	5	25
-	+	9	3
-	+	9	0
-	+	41	0
-	+	16	0
-	+	43	0
-	+	29	126
-	+	29	115
-	+	29	0
-	+	27	78
-	+	5	25
-
 > ~/.tmux.conf
 	*	1582840470	0
 	"	3	0
 	^	156	2
 	.	156	1
 	+	156	1
-
-> ~/.vimrc
-	*	1582840446	0
-	"	107	17
-	^	107	18
-	.	107	17
-	+	55	18
-	+	57	14
-	+	46	63
-	+	56	27
-	+	361	28
-	+	372	1
-	+	352	0
-	+	107	17
 
 > /.vimrc
 	*	1582840433	0
@@ -1735,488 +2449,3 @@ $
 > ~/code/jssp-af/internal/domainmodel/model.go
 	*	1582820062	0
 	"	1	0
-
-> ~/code/jssp-af/internal/offender/offender.go
-	*	1582820050	0
-	"	11	1
-
-> ~/code/jssp-af/web/src/vuex/offender/leave.ts
-	*	1582820028	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/vuex/offender/offender.ts
-	*	1582820023	0
-	"	31	11
-	^	199	30
-	.	199	29
-	+	6	0
-	+	7	32
-	+	8	36
-	+	9	40
-	+	10	36
-	+	11	27
-	+	129	26
-	+	142	28
-	+	157	30
-	+	200	0
-	+	199	29
-
-> ~/code/jssp-af/web/src/vuex/offender/detentionExtension.ts
-	*	1582819764	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/vuex/offender/classificationOptions.ts
-	*	1582819369	0
-	"	23	8
-
-> ~/code/jssp-af/web/src/components/offender/housing/LeavesTable.vue
-	*	1582818578	0
-	"	255	0
-
-> /tmp/vu8Fxbz/15.fugitiveblame
-	*	1582818577	0
-	"	254	0
-
-> ~/code/jssp-af/web/src/components/offender/housing/LeaveRequestDialog.vue
-	*	1582818535	0
-	"	1	0
-
-> ~/code/jssp-af/README.md
-	*	1582817687	0
-	"	247	3
-
-> ~/code/jssp-af/internal/config/migrations/2020-02-27_15-00_AddMotherIncarceratedWithChildToClassifications.sql
-	*	1582817588	0
-	"	2	150
-	^	2	152
-	.	2	150
-	+	1	0
-	+	2	1
-	+	4	0
-	+	2	77
-	+	3	0
-	+	2	150
-
-> ~/code/jssp-af/internal/config/migrations/2019-12-12_17-28_CreateClassificationTables.sql
-	*	1582817340	0
-	"	114	0
-
-> ~/code/jssp-af/internal/offender/classification.go
-	*	1582817111	0
-	"	32	0
-
-> ~/code/jssp-af/internal/offender/classification_test.go
-	*	1582817109	0
-	"	90	0
-
-> ~/code/jssp-af/cmd/cms/cms.go
-	*	1582816656	0
-	"	1	0
-
-> /tmp/vQjFmNp/509.fugitiveblame
-	*	1582816133	0
-	"	32	0
-
-> ~/code/jssp-af/internal/housing/facility.go
-	*	1582816111	0
-	"	229	9
-	.	229	3
-	+	229	3
-
-> ~/code/jssp-af/internal/housing/facility_test.go
-	*	1582816104	0
-	"	72	0
-
-> ~/code/jssp-af/docs/mothers-incarcerated-with-children.md
-	*	1582815771	0
-	"	1	0
-
-> ~/go/src/hello/hello.go
-	*	1582813918	0
-	"	6	26
-	.	6	26
-	+	6	26
-
-> ~/code/jssp-af/internal/offender/intake-health-screening.go
-	*	1582812858	0
-	"	65	22
-
-> ~/code/jssp-af/internal/offender/flag.go
-	*	1582812853	0
-	"	32	59
-
-> ~/code/jssp-af/internal/offender/escape_test.go
-	*	1582812836	0
-	"	64	7
-
-> ~/code/jssp-af/internal/offender/escape.go
-	*	1582812828	0
-	"	131	7
-
-> ~/code/jssp-af/internal/offender/offender_test.go
-	*	1582812683	0
-	"	46	9
-
-> ~/code/jssp-af/internal/person/person.go
-	*	1582812659	0
-	"	229	1
-
-> ~/.config/i3/config
-	*	1582811938	0
-	"	260	28
-	^	143	57
-	.	143	58
-	+	72	24
-	+	71	0
-	+	71	24
-	+	31	0
-	+	34	74
-	+	355	0
-	+	354	0
-	+	355	26
-	+	213	30
-	+	212	29
-	+	212	37
-	+	213	32
-	+	213	0
-	+	212	30
-	+	214	0
-	+	144	0
-	+	34	0
-	+	34	24
-	+	30	45
-	+	143	58
-	u	260	28
-
-> ~/.config/i3/lock-with-dunst.sh
-	*	1582811928	0
-	"	25	1
-	^	28	2
-	.	28	1
-	+	3	27
-	+	4	12
-	+	12	0
-	+	4	0
-	+	21	0
-	+	14	45
-	+	22	0
-	+	24	32
-	+	4	0
-	+	24	32
-	+	5	4
-	+	25	27
-	+	23	9
-	+	8	0
-	+	7	0
-	+	8	10
-	+	8	102
-	+	8	0
-	+	6	0
-	+	7	12
-	+	21	21
-	+	8	23
-	+	7	14
-	+	15	11
-	+	19	0
-	+	14	19
-	+	18	0
-	+	21	24
-	+	15	34
-	+	14	0
-	+	20	0
-	+	13	24
-	+	23	23
-	+	10	36
-	+	11	0
-	+	11	100
-	+	27	0
-	+	26	0
-	+	27	16
-	+	28	98
-	+	11	82
-	+	28	0
-	+	11	99
-	+	10	48
-	+	11	1
-	+	28	1
-	k	21	8
-
-> /tmp/bash-fc.gdwFb2
-	*	1582811653	0
-	"	1	97
-	^	1	98
-	.	1	97
-	+	1	0
-	+	1	97
-
-> /tmp/bash-fc.pcqfeD
-	*	1582810916	0
-	"	1	24
-	^	1	25
-	.	1	24
-	+	1	24
-
-> /tmp/vQjFmNp/162.fugitiveblame
-	*	1582777940	0
-	"	25	0
-
-> ~/code/jssp-af/docker-compose.testdb.yml
-	*	1582777430	0
-	"	9	0
-
-> ~/code/jssp-af/.env
-	*	1582777408	0
-	"	41	43
-
-> ~/code/jssp-af/internal/offender/program_test.go
-	*	1582776941	0
-	"	159	5
-
-> ~/code/jssp-af/Makefile
-	*	1582775759	0
-	"	261	20
-
-> ~/code/jssp-af/docs/first-time-setup.md
-	*	1582775143	0
-	"	145	0
-
-> ~/code/jssp-af/docs/README.md
-	*	1582775119	0
-	"	1	0
-
-> ~/code/jssp-af/docker-compose.yml
-	*	1582775011	0
-	"	29	4
-
-> /tmp/vRzJ9PZ/15.fugitiveblame
-	*	1582774995	0
-	"	46	0
-
-> ~/code/jssp-af/internal/offender/mental-disorder_test.go
-	*	1582774881	0
-	"	1	0
-
-> ~/Documents/cscie-28/lecture5.md
-	*	1582772483	0
-	"	146	2
-	^	146	3
-	.	146	2
-	+	132	28
-	+	50	32
-	+	53	19
-	+	132	73
-	+	55	44
-	+	57	61
-	+	58	0
-	+	132	3
-	+	59	3
-	+	69	2
-	+	71	33
-	+	132	0
-	+	39	0
-	+	40	0
-	+	71	34
-	+	77	19
-	+	73	36
-	+	74	35
-	+	77	0
-	+	76	62
-	+	79	0
-	+	84	0
-	+	78	2
-	+	82	0
-	+	81	1
-	+	83	42
-	+	82	45
-	+	86	58
-	+	85	0
-	+	94	0
-	+	90	24
-	+	93	130
-	+	91	88
-	+	76	125
-	+	96	0
-	+	93	0
-	+	97	3
-	+	131	0
-	+	99	4
-	+	103	18
-	+	103	0
-	+	108	20
-	+	102	17
-	+	105	2
-	+	108	0
-	+	110	18
-	+	108	69
-	+	110	28
-	+	112	37
-	+	110	58
-	+	116	2
-	+	115	0
-	+	110	53
-	+	115	0
-	+	114	1
-	+	115	0
-	+	105	0
-	+	106	19
-	+	120	49
-	+	122	43
-	+	120	24
-	+	128	22
-	+	124	12
-	+	121	20
-	+	122	23
-	+	130	89
-	+	132	0
-	+	95	0
-	+	97	82
-	+	132	18
-	+	134	0
-	+	136	34
-	+	144	8
-	+	140	29
-	+	138	17
-	+	140	33
-	+	142	1
-	+	143	1
-	+	144	1
-	+	141	0
-	+	145	0
-	+	146	34
-	+	151	2
-	+	150	6
-	+	154	19
-	+	156	29
-	+	168	9
-	+	169	17
-	+	167	45
-	+	168	9
-	+	169	0
-	+	168	35
-	+	169	35
-	+	168	26
-	+	167	34
-	+	168	17
-	+	167	17
-	+	168	11
-	+	169	75
-	+	146	2
-
-> ~/dotfiles/readme.md
-	*	1582756460	0
-	"	77	0
-
-> ~/code/jssp-af/web/src/lib/vuex-domainmodel.ts
-	*	1582756300	0
-	"	105	3
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/resources.vue
-	*	1582749049	0
-	"	166	0
-
-> ~/test5.md
-	*	1582670656	0
-	"	38	0
-	^	69	59
-	.	69	59
-	+	26	30
-	+	18	31
-	+	43	11
-	+	45	82
-	+	47	39
-	+	50	16
-	+	32	1
-	+	30	39
-	+	31	0
-	+	32	52
-	+	34	54
-	+	32	9
-	+	34	88
-	+	41	2
-	+	40	0
-	+	51	86
-	+	53	79
-	+	66	2
-	+	59	31
-	+	66	0
-	+	63	9
-	+	63	0
-	+	66	0
-	+	63	39
-	+	69	33
-	+	4	82
-	+	5	21
-	+	6	83
-	+	8	22
-	+	9	86
-	+	10	61
-	+	13	26
-	+	12	0
-	+	22	41
-	+	23	40
-	+	24	75
-	+	33	79
-	+	40	0
-	+	37	49
-	+	39	61
-	+	38	51
-	+	39	62
-	+	37	0
-	+	48	35
-	+	51	83
-	+	51	0
-	+	52	21
-	+	61	4
-	+	65	0
-	+	63	40
-	+	63	0
-	+	69	59
-
-> ~/test3.js
-	*	1582665383	0
-	"	12	26
-	^	1	0
-	.	1	0
-	+	3	20
-	+	4	3
-	+	10	3
-	+	8	32
-	+	9	17
-	+	15	3
-	+	12	0
-	+	13	29
-	+	4	0
-	+	2	0
-	+	1	0
-
-> ~/test2.js
-	*	1582665368	0
-	"	1	0
-	^	2	0
-	.	2	0
-	+	3	14
-	+	5	44
-	+	7	22
-	+	9	3
-	+	8	11
-	+	5	25
-	+	8	30
-	+	7	20
-	+	8	31
-	+	12	3
-	+	11	28
-	+	2	1
-	+	1	0
-	+	2	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/employee-skill-box.vue
-	*	1582664109	0
-	"	29	0
-
-> ~/code/vss-rails-vue/app/javascript/src/store/modules/calendar.js
-	*	1582663592	0
-	"	159	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/certifications.vue
-	*	1582663582	0
-	"	196	3
