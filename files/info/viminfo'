@@ -9,7 +9,7 @@
 
 
 # hlsearch on (H) or off (h):
-~H
+~h
 # Last Search Pattern:
 ~MSle0~/color
 
@@ -21,7 +21,17 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1583171789,,"q"
+|2,0,1583172023,,"q"
+:Goyo
+|2,0,1583171995,,"Goyo"
+:Limelight 0.8
+|2,0,1583171991,,"Limelight 0.8"
+:Limelight 1.0
+|2,0,1583171985,,"Limelight 1.0"
+:Limelight
+|2,0,1583171967,,"Limelight"
+:Goyo!
+|2,0,1583171885,,"Goyo!"
 :qa
 |2,0,1583170909,,"qa"
 :e ~/.vimrc
@@ -179,7 +189,9 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1583171775,,"@$"
+|2,1,1583171951,,"@$"
+??\a
+|2,1,1583171848,63,"\\a"
 ?/color
 |2,1,1583013644,47,"color"
 ?/yang
@@ -192,8 +204,6 @@ $
 |2,1,1583009281,63,"stat"
 ?/stic
 |2,1,1582905263,47,"stic"
-??\a
-|2,1,1582905261,63,"\\a"
 ?/npm
 |2,1,1582909641,47,"npm"
 ?/client
@@ -766,34 +776,34 @@ $
 # Registers:
 ""0	CHAR	0
 	#
-|3,1,0,0,1,0,1583171775,"#"
+|3,1,0,0,1,0,1583171952,"#"
 "1	LINE	0
 	.swp
-|3,0,1,1,1,0,1583171775,".swp"
+|3,0,1,1,1,0,1583171951,".swp"
 "2	LINE	0
-	.postcssrc.yml.swp
-|3,0,2,1,1,0,1583171775,".postcssrc.yml.swp"
+	.netrwhist
+|3,0,2,1,1,0,1583171951,".netrwhist"
 "3	LINE	0
-	.notes.md.swp
-|3,0,3,1,1,0,1583171775,".notes.md.swp"
+	.gitmodules
+|3,0,3,1,1,0,1583171951,".gitmodules"
 "4	LINE	0
-	.babelrc.swp
-|3,0,4,1,1,0,1583171775,".babelrc.swp"
+	.git/
+|3,0,4,1,1,0,1583171951,".git/"
 "5	LINE	0
-	.CHANGELOG.md.swp
-|3,0,5,1,1,0,1583171775,".CHANGELOG.md.swp"
+	../
+|3,0,5,1,1,0,1583171951,"../"
 "6	LINE	0
-	.3.swp
-|3,0,6,1,1,0,1583171775,".3.swp"
+	./
+|3,0,6,1,1,0,1583171951,"./"
 "7	LINE	0
-	.yarn.lock.swo
-|3,0,7,1,1,0,1583171775,".yarn.lock.swo"
+	
+|3,0,7,1,1,0,1583171951,""
 "8	LINE	0
-	.swo
-|3,0,8,1,1,0,1583171775,".swo"
+	../
+|3,0,8,1,1,0,1583171853,"../"
 "9	LINE	0
-	.swn
-|3,0,9,1,1,0,1583171775,".swn"
+	./
+|3,0,9,1,1,0,1583171853,"./"
 "q@	CHAR	0
 	veyA€ýa^ea: €ýaa"€ýabiax€kbc.€ýaea,€ýald$j^
 |3,2,26,0,1,0,1582844233,"veyA€ýa^ea: €ýaa\"€ýabiax€kbc.€ýaea,€ýald$j^"
@@ -807,38 +817,102 @@ $
 # global variables:
 
 # File marks:
-'0  165  8  ~/Documents/cscie-28/lecture4.md
-|4,48,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
-'1  105  2  ~/.vimrc
-|4,49,105,2,1583013894,"~/.vimrc"
-'2  146  0  ~/Documents/cscie-28/lecture4.md
-|4,50,146,0,1583011502,"~/Documents/cscie-28/lecture4.md"
-'3  136  0  ~/Documents/cscie-28/lecture4.md
-|4,51,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
-'4  10  0  ~/Desktop/sticky.md
-|4,52,10,0,1582995400,"~/Desktop/sticky.md"
-'5  10  0  ~/Desktop/sticky.md
-|4,53,10,0,1582995400,"~/Desktop/sticky.md"
-'6  344  0  ~/code/jssp-af/Makefile
-|4,54,344,0,1582995375,"~/code/jssp-af/Makefile"
-'7  344  0  ~/code/jssp-af/Makefile
-|4,55,344,0,1582995375,"~/code/jssp-af/Makefile"
-'8  33  4  ~/code/vss-rails-vue/app/policies/shift_review_policy.rb
-|4,56,33,4,1582995363,"~/code/vss-rails-vue/app/policies/shift_review_policy.rb"
-'9  728  4  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue
-|4,57,728,4,1582995363,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue"
+'0  1  0  ~/.vim/README.md
+|4,48,1,0,1583172023,"~/.vim/README.md"
+'1  1  0  ~/.vim/README.md
+|4,49,1,0,1583171925,"~/.vim/README.md"
+'2  165  8  ~/Documents/cscie-28/lecture4.md
+|4,50,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+'3  105  2  ~/.vimrc
+|4,51,105,2,1583013894,"~/.vimrc"
+'4  146  0  ~/Documents/cscie-28/lecture4.md
+|4,52,146,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+'5  136  0  ~/Documents/cscie-28/lecture4.md
+|4,53,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+'6  10  0  ~/Desktop/sticky.md
+|4,54,10,0,1582995400,"~/Desktop/sticky.md"
+'7  10  0  ~/Desktop/sticky.md
+|4,55,10,0,1582995400,"~/Desktop/sticky.md"
+'8  344  0  ~/code/jssp-af/Makefile
+|4,56,344,0,1582995375,"~/code/jssp-af/Makefile"
+'9  344  0  ~/code/jssp-af/Makefile
+|4,57,344,0,1582995375,"~/code/jssp-af/Makefile"
 
 # Jumplist (newest first):
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1583172023,"~/.vim/README.md"
+-'  12  0  ~/.vim/README.md
+|4,39,12,0,1583172022,"~/.vim/README.md"
+-'  14  0  ~/.vim/README.md
+|4,39,14,0,1583171994,"~/.vim/README.md"
+-'  21  0  ~/.vim/README.md
+|4,39,21,0,1583171994,"~/.vim/README.md"
+-'  23  0  ~/.vim/README.md
+|4,39,23,0,1583171993,"~/.vim/README.md"
+-'  25  0  ~/.vim/README.md
+|4,39,25,0,1583171972,"~/.vim/README.md"
+-'  27  0  ~/.vim/README.md
+|4,39,27,0,1583171972,"~/.vim/README.md"
+-'  13  0  ~/.vim/README.md
+|4,39,13,0,1583171970,"~/.vim/README.md"
+-'  1  0  ~/.vim
+|4,39,1,0,1583171951,"~/.vim"
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1583171925,"~/.vim/README.md"
+-'  1  0  ~/.vim
+|4,39,1,0,1583171839,"~/.vim"
+-'  1  0  ~/code/vss-rails-vue
+|4,39,1,0,1583171775,"~/code/vss-rails-vue"
+-'  1  0  ~/code/vss-rails-vue
+|4,39,1,0,1583171775,"~/code/vss-rails-vue"
+-'  1  0  ~/code/vss-rails-vue
+|4,39,1,0,1583171775,"~/code/vss-rails-vue"
 -'  1  0  ~/code/vss-rails-vue
 |4,39,1,0,1583171775,"~/code/vss-rails-vue"
 -'  165  8  ~/Documents/cscie-28/lecture4.md
 |4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
 -'  165  8  ~/Documents/cscie-28/lecture4.md
 |4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
+-'  165  8  ~/Documents/cscie-28/lecture4.md
+|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
 -'  105  2  ~/.vimrc
 |4,39,105,2,1583013894,"~/.vimrc"
 -'  105  2  ~/.vimrc
 |4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  105  2  ~/.vimrc
+|4,39,105,2,1583013894,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
+-'  363  29  ~/.vimrc
+|4,39,363,29,1583013777,"~/.vimrc"
 -'  363  29  ~/.vimrc
 |4,39,363,29,1583013777,"~/.vimrc"
 -'  363  29  ~/.vimrc
@@ -851,6 +925,42 @@ $
 |4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
 -'  1  0  ~/Documents/cscie-28/project2
 |4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  1  0  ~/Documents/cscie-28/project2
+|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
+-'  163  0  ~/Documents/cscie-28/lecture4.md
+|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
 -'  163  0  ~/Documents/cscie-28/lecture4.md
 |4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
 -'  163  0  ~/Documents/cscie-28/lecture4.md
@@ -859,6 +969,30 @@ $
 |4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
 -'  150  0  ~/Documents/cscie-28/lecture4.md
 |4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  150  0  ~/Documents/cscie-28/lecture4.md
+|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
+-'  146  0  ~/Documents/cscie-28/lecture4.md
+|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
 -'  146  0  ~/Documents/cscie-28/lecture4.md
 |4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
 -'  146  0  ~/Documents/cscie-28/lecture4.md
@@ -879,156 +1013,42 @@ $
 |4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
 -'  136  0  ~/Documents/cscie-28/lecture4.md
 |4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  144  11  ~/Documents/cscie-28/lecture4.md
-|4,39,144,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  144  11  ~/Documents/cscie-28/lecture4.md
-|4,39,144,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  134  11  ~/Documents/cscie-28/lecture4.md
-|4,39,134,11,1583011498,"~/Documents/cscie-28/lecture4.md"
--'  141  77  ~/Documents/cscie-28/lecture4.md
-|4,39,141,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  141  77  ~/Documents/cscie-28/lecture4.md
-|4,39,141,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  131  77  ~/Documents/cscie-28/lecture4.md
-|4,39,131,77,1583011365,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  95  2  ~/Documents/cscie-28/lecture4.md
-|4,39,95,2,1583010881,"~/Documents/cscie-28/lecture4.md"
--'  139  5  ~/Documents/cscie-28/lecture4.md
-|4,39,139,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  139  5  ~/Documents/cscie-28/lecture4.md
-|4,39,139,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  126  5  ~/Documents/cscie-28/lecture4.md
-|4,39,126,5,1583010846,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  93  53  ~/Documents/cscie-28/lecture4.md
-|4,39,93,53,1583010444,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  100  44  ~/Documents/cscie-28/lecture4.md
-|4,39,100,44,1583010175,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  111  0  ~/Documents/cscie-28/lecture4.md
-|4,39,111,0,1583009989,"~/Documents/cscie-28/lecture4.md"
--'  114  11  ~/Documents/cscie-28/lecture4.md
-|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
--'  114  11  ~/Documents/cscie-28/lecture4.md
-|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
--'  114  11  ~/Documents/cscie-28/lecture4.md
-|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
--'  114  11  ~/Documents/cscie-28/lecture4.md
-|4,39,114,11,1583009988,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  136  0  ~/Documents/cscie-28/lecture4.md
+|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vim/README.md
+	*	1583172022	0
+	"	1	0
+
+> ~/Smyck-Color-Scheme/README.md
+	*	1583171882	0
+	"	15	0
 
 > ~/Documents/cscie-28/lecture4.md
 	*	1583170907	0
@@ -2441,11 +2461,3 @@ $
 > ~/code/jssp-af/db/devdata/default.sql
 	*	1582820788	0
 	"	52	0
-
-> ~/code/jssp-af/internal/platform/web/service.go
-	*	1582820072	0
-	"	1	0
-
-> ~/code/jssp-af/internal/domainmodel/model.go
-	*	1582820062	0
-	"	1	0
