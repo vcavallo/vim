@@ -145,3 +145,9 @@
 [submodule "bundle/vim-wakatime"]
 	path = bundle/vim-wakatime
 	url = git://github.com/wakatime/vim-wakatime.git
+[submodule "bundle/goyo.vim"]
+	path = bundle/goyo.vim
+	url = git@github.com:junegunn/goyo.vim.git
+[submodule "bundle/limelight.vim"]
+	path = bundle/limelight.vim
+	url = git@github.com:junegunn/limelight.vim.git
