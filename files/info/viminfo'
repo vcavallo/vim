@@ -9,30 +9,91 @@
 
 
 # hlsearch on (H) or off (h):
-~H
+~h
 # Last Search Pattern:
-~MSle0~/notes
+~MSle0~/new yok
+
+# Last Substitute Search Pattern:
+~MSle0&jobs an
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1584494034,,"wq"
+:w
+|2,0,1584494032,,"w"
+:q
+|2,0,1584493993,,"q"
+:.,.+1q
+|2,0,1584493992,,".,.+1q"
+:!cp ~/Pictures/china-cases-graph.png ./assets/images/
+|2,0,1584245540,,"!cp ~/Pictures/china-cases-graph.png ./assets/images/"
+:!cp ~/Pictures/logistic.png ./assets/images/
+|2,0,1584245423,,"!cp ~/Pictures/logistic.png ./assets/images/"
+:'<,'>+y
+|2,0,1584248390,,"'<,'>+y"
+:q!
+|2,0,1584144276,,"q!"
+:e
+|2,0,1584144265,,"e"
 :wqa
-|2,0,1582993962,,"wqa"
+|2,0,1584144253,,"wqa"
+:e ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
+|2,0,1584136184,,"e ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt"
+:'<,'>s/)/,/g
+|2,0,1584137953,,"'<,'>s/)/,/g"
+:w ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
+|2,0,1584129042,,"w ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt"
+:%s/jobs an/!jobs an/g
+|2,0,1583765265,,"%s/jobs an/!jobs an/g"
+:%s/infosec /!infosec /g
+|2,0,1583765224,,"%s/infosec /!infosec /g"
+:%s/
+|2,0,1583765160,,"%s/"
+:infosec
+|2,0,1583765123,,"infosec"
+:e .circleci/config.yml
+|2,0,1583603575,,"e .circleci/config.yml"
+:w /home/vcavallo/code/vss/bin/test_server
+|2,0,1583603436,,"w /home/vcavallo/code/vss/bin/test_server"
+:terminal
+|2,0,1583602217,,"terminal"
+:redraw!
+|2,0,1583601392,,"redraw!"
+:redraw
+|2,0,1583601389,,"redraw"
+:Redraw
+|2,0,1583601383,,"Redraw"
+:e config/database.yml
+|2,0,1583599992,,"e config/database.yml"
+:e .env
+|2,0,1583553077,,"e .env"
+:qa
+|2,0,1583606367,,"qa"
+:Goyo
+|2,0,1583293430,,"Goyo"
+:goyo
+|2,0,1583293427,,"goyo"
+:colorscheme yin
+|2,0,1583293421,,"colorscheme yin"
+:tabnew
+|2,0,1583168077,,"tabnew"
+:colorscheme elflord
+|2,0,1583164191,,"colorscheme elflord"
+:tabnew package.json
+|2,0,1583163234,,"tabnew package.json"
+:noh
+|2,0,1583161461,,"noh"
+:w !sudo tee %
+|2,0,1583087703,,"w !sudo tee %"
 :colorscheme preto
 |2,0,1582993777,,"colorscheme preto"
-:w
-|2,0,1582993775,,"w"
 :colorscheme plain
 |2,0,1582993753,,"colorscheme plain"
-:colorscheme yin
-|2,0,1582993722,,"colorscheme yin"
 :colorscheme yang
 |2,0,1582993718,,"colorscheme yang"
-:wq
-|2,0,1582993714,,"wq"
-:q
-|2,0,1582908830,,"q"
 :GoLint
 |2,0,1582845244,,"GoLint"
 :ALELint
@@ -41,8 +102,6 @@ $
 |2,0,1582845222,,"Ale"
 :a
 |2,0,1582843362,,"a"
-:tabnew
-|2,0,1582842546,,"tabnew"
 :colorscheme smyck
 |2,0,1582840838,,"colorscheme smyck"
 :colorscheme tender
@@ -53,8 +112,6 @@ $
 |2,0,1582840553,,"set window-status-attr \"none\""
 :set -g status "on"
 |2,0,1582840536,,"set -g status \"on\""
-:e
-|2,0,1582649860,,"e"
 :e ~/.vimrc
 |2,0,1582840437,,"e ~/.vimrc"
 :Gblame
@@ -67,8 +124,6 @@ $
 |2,0,1582662731,,"e ~/test.js"
 :e ~/.tmux.conf
 |2,0,1582840292,,"e ~/.tmux.conf"
-:qa
-|2,0,1582840132,,"qa"
 :AirlineTheme 
 |2,0,1582839853,,"AirlineTheme "
 :AirlineTheme tender
@@ -115,12 +170,8 @@ $
 |2,0,1582812243,,"AirlineTheme deep_space"
 :w!
 |2,0,1582777665,,"w!"
-:e .env
-|2,0,1582777399,,"e .env"
 :w ~/Desktop/vuex-and-api-notes.md
 |2,0,1582649970,,"w ~/Desktop/vuex-and-api-notes.md"
-:colorscheme elflord
-|2,0,1582667900,,"colorscheme elflord"
 :w ~/test5.md
 |2,0,1582667895,,"w ~/test5.md"
 :w ~/test4.js
@@ -145,8 +196,192 @@ $
 |2,0,1582561493,,".w"
 
 # Search String History (newest to oldest):
+?/nval
+|2,1,1584494014,47,"nval"
 ? @$
-|2,1,1582993770,,"@$"
+|2,1,1584217377,,"@$"
+?/watch
+|2,1,1584480729,47,"watch"
+?/npm
+|2,1,1584480009,47,"npm"
+?/makef
+|2,1,1584480004,47,"makef"
+?/web
+|2,1,1584479873,47,"web"
+?/she
+|2,1,1584477691,47,"she"
+?/aybe
+|2,1,1584246717,47,"aybe"
+?/mab
+|2,1,1584246714,47,"mab"
+?/exp
+|2,1,1584246681,47,"exp"
+?/...
+|2,1,1584246428,47,"..."
+?/live
+|2,1,1584246357,47,"live"
+??below
+|2,1,1584246285,63,"below"
+?/vid
+|2,1,1584246088,47,"vid"
+?/willing
+|2,1,1584246061,47,"willing"
+?/gem
+|2,1,1584244037,47,"gem"
+?/new york
+|2,1,1584216976,47,"new york"
+?/new yok
+|2,1,1584137870,47,"new yok"
+?/nyc
+|2,1,1584136682,47,"nyc"
+?/city
+|2,1,1584136680,47,"city"
+? )
+|2,1,1584137953,,")"
+?/new
+|2,1,1584133642,47,"new"
+?/new-win
+|2,1,1584133573,47,"new-win"
+?/>>>
+|2,1,1584132476,47,">>>"
+?/crypt
+|2,1,1583961276,47,"crypt"
+? jobs an
+|2,1,1583765265,,"jobs an"
+?/jobs an
+|2,1,1583765256,47,"jobs an"
+? infosec 
+|2,1,1583765224,,"infosec "
+?/infosec
+|2,1,1583765126,47,"infosec"
+?/infos
+|2,1,1583765111,47,"infos"
+?/cryp
+|2,1,1583765020,47,"cryp"
+?/un
+|2,1,1583689009,47,"un"
+?/test
+|2,1,1583603438,47,"test"
+?/create_client
+|2,1,1583602721,47,"create_client"
+?/create
+|2,1,1583602624,47,"create"
+??seed
+|2,1,1583602412,63,"seed"
+??parent is
+|2,1,1583602110,63,"parent is"
+?/can
+|2,1,1583602041,47,"can"
+?/skip
+|2,1,1583601817,47,"skip"
+?/clock_entries.*create
+|2,1,1583600803,47,"clock_entries.*create"
+?/calculate.*dif!
+|2,1,1583600776,47,"calculate.*dif!"
+?/clock_entries\.create
+|2,1,1583600759,47,"clock_entries\\.create"
+??clock
+|2,1,1583600655,63,"clock"
+?/PG
+|2,1,1583554120,47,"PG"
+?/storages
+|2,1,1583553801,47,"storages"
+?/api_key
+|2,1,1583552958,47,"api_key"
+?/hel
+|2,1,1583605727,47,"hel"
+?/spe
+|2,1,1583605724,47,"spe"
+?/cache
+|2,1,1583554649,47,"cache"
+?/cache-resto
+|2,1,1583554647,47,"cache-resto"
+?/cach-sa
+|2,1,1583554480,47,"cach-sa"
+??\a
+|2,1,1583552527,63,"\\a"
+?/green
+|2,1,1583451995,47,"green"
+?/lang
+|2,1,1583451968,47,"lang"
+?/tender
+|2,1,1583451930,47,"tender"
+?/long
+|2,1,1583293585,47,"long"
+?/color
+|2,1,1583293402,47,"color"
+?/selectedTab
+|2,1,1583169289,47,"selectedTab"
+?/tabsB
+|2,1,1583168633,47,"tabsB"
+?/selec
+|2,1,1583168623,47,"selec"
+?/created
+|2,1,1583168481,47,"created"
+?/id
+|2,1,1583168242,47,"id"
+?/page
+|2,1,1583168126,47,"page"
+?/getEmpl
+|2,1,1583167984,47,"getEmpl"
+?/clear
+|2,1,1583167927,47,"clear"
+?/wrapper
+|2,1,1583167923,47,"wrapper"
+?/ripp
+|2,1,1583167666,47,"ripp"
+?/empl.*detail
+|2,1,1583167610,47,"empl.*detail"
+?/clearDe
+|2,1,1583167503,47,"clearDe"
+?/clearDetails
+|2,1,1583167501,47,"clearDetails"
+?/employeedetail
+|2,1,1583167485,47,"employeedetail"
+?/detail
+|2,1,1583167480,47,"detail"
+?/class
+|2,1,1583166903,47,"class"
+?/password
+|2,1,1583165591,47,"password"
+?/PasswordReset
+|2,1,1583165566,47,"PasswordReset"
+?/passwordReset
+|2,1,1583165553,47,"passwordReset"
+?/info
+|2,1,1583165544,47,"info"
+?/experience
+|2,1,1583165430,47,"experience"
+?/Exp
+|2,1,1583165422,47,"Exp"
+?/peron
+|2,1,1583165389,47,"peron"
+?/sele
+|2,1,1583163676,47,"sele"
+?/mounted
+|2,1,1583163344,47,"mounted"
+?/vuetify
+|2,1,1583163236,47,"vuetify"
+?/console
+|2,1,1583163028,47,"console"
+?/top
+|2,1,1583162957,47,"top"
+?/mount
+|2,1,1583161709,47,"mount"
+?/topsheet
+|2,1,1583161453,47,"topsheet"
+?/TopSheet
+|2,1,1583161336,47,"TopSheet"
+?/employeeId
+|2,1,1583161190,47,"employeeId"
+?/employee
+|2,1,1583161152,47,"employee"
+?/item
+|2,1,1583161126,47,"item"
+?/tab
+|2,1,1583161109,47,"tab"
+?/employee-detail
+|2,1,1583161097,47,"employee-detail"
 ?/notes
 |2,1,1582911465,47,"notes"
 ?/shift
@@ -161,8 +396,6 @@ $
 |2,1,1582908876,47,"bonus"
 ?/>>>>
 |2,1,1582908872,47,">>>>"
-?/>>>
-|2,1,1582908858,47,">>>"
 ?/<<<
 |2,1,1582905074,47,"<<<"
 ?/<>><<
@@ -217,16 +450,12 @@ $
 |2,1,1582842769,47,"struct"
 ?/offenderAPI
 |2,1,1582842574,47,"offenderAPI"
-?/color
-|2,1,1582840440,47,"color"
 ? \<user_review_params\>
 |2,1,1582660705,,"\\<user_review_params\\>"
 ?//
 |2,1,1582660588,47,"/"
 ?/reviewType
 |2,1,1582660576,47,"reviewType"
-?/clear
-|2,1,1582660537,47,"clear"
 ??review
 |2,1,1582660266,63,"review"
 ?/review
@@ -289,12 +518,8 @@ $
 |2,1,1582821490,47,"getacc"
 ?/acc
 |2,1,1582821466,47,"acc"
-?/class
-|2,1,1582820995,47,"class"
 ?/testdb
 |2,1,1582820878,47,"testdb"
-?/test
-|2,1,1582820851,47,"test"
 ?/violent
 |2,1,1582820821,47,"violent"
 ? \<GetAccompanyingChildrenForOffender\>
@@ -453,8 +678,6 @@ $
 |2,1,1582776038,47,")"
 ?/paren
 |2,1,1582776036,47,"paren"
-??\a
-|2,1,1582776028,63,"\\a"
 ?/pare
 |2,1,1582776024,47,"pare"
 ?/swap
@@ -563,6 +786,12 @@ $
 |2,2,1582821873,,"p"
 
 # Input Line History (newest to oldest):
+@content.js
+|2,3,1584107387,,"content.js"
+@manifest.json
+|2,3,1584107296,,"manifest.json"
+@[{y(es)},n(o),a(ll),q(uit)] y
+|2,3,1583602290,,"[{y(es)},n(o),a(ll),q(uit)] y"
 @preto.vim
 |2,3,1582993772,,"preto.vim"
 @plain.vim
@@ -587,269 +816,1116 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	
-|3,0,0,1,1,0,1582993772,""
-""1	LINE	0
-	
-|3,1,1,1,1,0,1582993774,""
+"0	CHAR	0
+	 
+|3,0,0,0,1,0,1584480724," "
+"1	LINE	0
+	.package.json.swp
+|3,0,1,1,1,0,1584480721,".package.json.swp"
 "2	LINE	0
-	.yin.vim.swp
-|3,0,2,1,1,0,1582993770,".yin.vim.swp"
+	.README.md.swp
+|3,0,2,1,1,0,1584480721,".README.md.swp"
 "3	LINE	0
-	.yang.vom.swp
-|3,0,3,1,1,0,1582993770,".yang.vom.swp"
+	.gitignore
+|3,0,3,1,1,0,1584480721,".gitignore"
 "4	LINE	0
-	.yang.vim.swp
-|3,0,4,1,1,0,1582993770,".yang.vim.swp"
+	.dockerignore
+|3,0,4,1,1,0,1584480721,".dockerignore"
 "5	LINE	0
-	.plain.vim.swp
-|3,0,5,1,1,0,1582993770,".plain.vim.swp"
+	.browserslistrc
+|3,0,5,1,1,0,1584480721,".browserslistrc"
 "6	LINE	0
 	../
-|3,0,6,1,1,0,1582993770,"../"
+|3,0,6,1,1,0,1584480721,"../"
 "7	LINE	0
 	./
-|3,0,7,1,1,0,1582993770,"./"
+|3,0,7,1,1,0,1584480721,"./"
 "8	LINE	0
 	
-|3,0,8,1,1,0,1582993770,""
+|3,0,8,1,1,0,1584480721,""
 "9	LINE	0
 	
-|3,0,9,1,1,0,1582993750,""
-"q@	CHAR	0
-	veyA€ýa^ea: €ýaa"€ýabiax€kbc.€ýaea,€ýald$j^
-|3,2,26,0,1,0,1582844233,"veyA€ýa^ea: €ýaa\"€ýabiax€kbc.€ýaea,€ýald$j^"
+|3,0,9,1,1,0,1584480206,""
+"j	CHAR	0
+	k
+|3,0,19,0,1,0,1583601726,"k"
+"q	CHAR	0
+	ea,€ýajb
+|3,0,26,0,1,0,1584137916,"ea,€ýajb"
 "v	CHAR	0
-	jj"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk
-|3,0,31,0,1,0,1582821048,"jj\"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk"
-"-	CHAR	0
-	, !true
-|3,0,36,0,1,0,1582845289,", !true"
+	jj"*pkkkddddddwwcwaccompanying_childrenÂ€Ã½ajbbbwwvs---jjjkk
+|3,0,31,0,1,0,1582821048,"jj\"*pkkkddddddwwcwaccompanying_childrenÂ€Ã½ajbbbwwvs---jjjkk"
+""-	CHAR	0
+	development/vss-rails-vue
+|3,1,36,0,1,0,1584494027,"development/vss-rails-vue"
 
 # global variables:
 
 # File marks:
-'0  137  0  ~/.vim/colors/preto.vim
-|4,48,137,0,1582993962,"~/.vim/colors/preto.vim"
-'1  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,49,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
-'2  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,50,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
-'3  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,51,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
-'4  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,52,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
-'5  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,53,13,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
-'6  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,54,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
-'7  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,55,1,0,1582905177,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
-'8  62  18  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,56,62,18,1582905168,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
-'9  62  18  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,57,62,18,1582905168,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
+'0  368  30  ~/.vimrc
+|4,48,368,30,1584494034,"~/.vimrc"
+'1  237  0  ~/Documents/hes/cscie-28/project3/hw.txt
+|4,49,237,0,1584493993,"~/Documents/hes/cscie-28/project3/hw.txt"
+'2  293  24  ~/code/jssp-af/Makefile
+|4,50,293,24,1584480776,"~/code/jssp-af/Makefile"
+'3  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,51,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+'4  14  0  ~/code/personal-blog
+|4,52,14,0,1584244046,"~/code/personal-blog"
+'5  14  0  ~/code/personal-blog
+|4,53,14,0,1584244046,"~/code/personal-blog"
+'6  38  0  ~/code/covid-19/csse_covid_19_data/csse_covid_19_daily_reports/03-12-2020.csv
+|4,54,38,0,1584216977,"~/code/covid-19/csse_covid_19_data/csse_covid_19_daily_reports/03-12-2020.csv"
+'7  59  25  ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
+|4,55,59,25,1584138457,"~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt"
+'8  1  0  ~/code/vss/yarn.lock
+|4,56,1,0,1584133786,"~/code/vss/yarn.lock"
+'9  1  0  ~/code/vss/yarn.lock
+|4,57,1,0,1584133786,"~/code/vss/yarn.lock"
 
 # Jumplist (newest first):
--'  137  0  ~/.vim/colors/preto.vim
-|4,39,137,0,1582993962,"~/.vim/colors/preto.vim"
--'  20  0  ~/.vim/colors/plain.vim
-|4,39,20,0,1582993770,"~/.vim/colors/plain.vim"
--'  29  38  ~/.vim/colors/yang.vim
-|4,39,29,38,1582993743,"~/.vim/colors/yang.vim"
--'  1  0  ~/.vim/colors/yin.vim
-|4,39,1,0,1582993714,"~/.vim/colors/yin.vim"
--'  1  0  ~/.vim/colors
-|4,39,1,0,1582993699,"~/.vim/colors"
--'  1  0  ~/.vim/colors/yang.vom
-|4,39,1,0,1582993696,"~/.vim/colors/yang.vom"
--'  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
--'  624  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,624,15,1582911561,"~/code/vss-rails-vue/app/models/shift.rb"
--'  627  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,627,15,1582911467,"~/code/vss-rails-vue/app/models/shift.rb"
--'  627  15  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,627,15,1582911467,"~/code/vss-rails-vue/app/models/shift.rb"
--'  623  13  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,623,13,1582911466,"~/code/vss-rails-vue/app/models/shift.rb"
--'  623  13  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,623,13,1582911466,"~/code/vss-rails-vue/app/models/shift.rb"
--'  88  23  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,88,23,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  1  0  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,1,0,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  88  23  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,88,23,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  1  0  ~/code/vss-rails-vue/app/models/shift.rb
-|4,39,1,0,1582911465,"~/code/vss-rails-vue/app/models/shift.rb"
--'  4  0  ~/code/vss-rails-vue/app/models/user_shift_note.rb
-|4,39,4,0,1582911458,"~/code/vss-rails-vue/app/models/user_shift_note.rb"
--'  4  0  ~/code/vss-rails-vue/app/models/user_shift_note.rb
-|4,39,4,0,1582911458,"~/code/vss-rails-vue/app/models/user_shift_note.rb"
--'  412  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,412,6,1582911448,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  412  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,412,6,1582911448,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  535  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,535,8,1582911406,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  535  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,535,8,1582911406,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  486  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,486,6,1582911400,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  486  6  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,486,6,1582911400,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  470  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,470,8,1582911398,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  470  8  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,470,8,1582911398,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  302  18  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,302,18,1582911388,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  302  18  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,302,18,1582911388,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  1  0  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,1,0,1582911357,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  1  0  ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-|4,39,1,0,1582911357,"~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1582911313,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1582911313,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  1  0  ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-|4,39,1,0,1582908884,"~/code/vss-rails-vue/.git/COMMIT_EDITMSG"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  78  11  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,78,11,1582908878,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  62  19  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,62,19,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  8  8  ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-|4,39,8,8,1582908876,"~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908849,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  13  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,13,0,1582908842,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
--'  14  0  ~/code/vss-rails-vue/db/schema.rb
-|4,39,14,0,1582908830,"~/code/vss-rails-vue/db/schema.rb"
+-'  368  30  ~/.vimrc
+|4,39,368,30,1584494034,"~/.vimrc"
+-'  380  27  ~/.vimrc
+|4,39,380,27,1584494019,"~/.vimrc"
+-'  237  0  ~/Documents/hes/cscie-28/project3/hw.txt
+|4,39,237,0,1584493993,"~/Documents/hes/cscie-28/project3/hw.txt"
+-'  237  0  ~/Documents/hes/cscie-28/project3/hw.txt
+|4,39,237,0,1584493993,"~/Documents/hes/cscie-28/project3/hw.txt"
+-'  237  0  ~/Documents/hes/cscie-28/project3/hw.txt
+|4,39,237,0,1584493993,"~/Documents/hes/cscie-28/project3/hw.txt"
+-'  237  0  ~/Documents/hes/cscie-28/project3/hw.txt
+|4,39,237,0,1584493993,"~/Documents/hes/cscie-28/project3/hw.txt"
+-'  293  24  ~/code/jssp-af/Makefile
+|4,39,293,24,1584480776,"~/code/jssp-af/Makefile"
+-'  293  24  ~/code/jssp-af/Makefile
+|4,39,293,24,1584480776,"~/code/jssp-af/Makefile"
+-'  293  24  ~/code/jssp-af/Makefile
+|4,39,293,24,1584480776,"~/code/jssp-af/Makefile"
+-'  293  24  ~/code/jssp-af/Makefile
+|4,39,293,24,1584480776,"~/code/jssp-af/Makefile"
+-'  278  2  ~/code/jssp-af/Makefile
+|4,39,278,2,1584480013,"~/code/jssp-af/Makefile"
+-'  269  2  ~/code/jssp-af/Makefile
+|4,39,269,2,1584480013,"~/code/jssp-af/Makefile"
+-'  278  2  ~/code/jssp-af/Makefile
+|4,39,278,2,1584480013,"~/code/jssp-af/Makefile"
+-'  269  2  ~/code/jssp-af/Makefile
+|4,39,269,2,1584480013,"~/code/jssp-af/Makefile"
+-'  278  2  ~/code/jssp-af/Makefile
+|4,39,278,2,1584480013,"~/code/jssp-af/Makefile"
+-'  269  2  ~/code/jssp-af/Makefile
+|4,39,269,2,1584480013,"~/code/jssp-af/Makefile"
+-'  278  2  ~/code/jssp-af/Makefile
+|4,39,278,2,1584480013,"~/code/jssp-af/Makefile"
+-'  269  2  ~/code/jssp-af/Makefile
+|4,39,269,2,1584480013,"~/code/jssp-af/Makefile"
+-'  99  73  ~/code/jssp-af/Makefile
+|4,39,99,73,1584480010,"~/code/jssp-af/Makefile"
+-'  91  43  ~/code/jssp-af/Makefile
+|4,39,91,43,1584480010,"~/code/jssp-af/Makefile"
+-'  99  73  ~/code/jssp-af/Makefile
+|4,39,99,73,1584480010,"~/code/jssp-af/Makefile"
+-'  91  43  ~/code/jssp-af/Makefile
+|4,39,91,43,1584480010,"~/code/jssp-af/Makefile"
+-'  99  73  ~/code/jssp-af/Makefile
+|4,39,99,73,1584480010,"~/code/jssp-af/Makefile"
+-'  91  43  ~/code/jssp-af/Makefile
+|4,39,91,43,1584480010,"~/code/jssp-af/Makefile"
+-'  99  73  ~/code/jssp-af/Makefile
+|4,39,99,73,1584480010,"~/code/jssp-af/Makefile"
+-'  91  43  ~/code/jssp-af/Makefile
+|4,39,91,43,1584480010,"~/code/jssp-af/Makefile"
+-'  85  0  ~/code/jssp-af/Makefile
+|4,39,85,0,1584480009,"~/code/jssp-af/Makefile"
+-'  85  0  ~/code/jssp-af/Makefile
+|4,39,85,0,1584480009,"~/code/jssp-af/Makefile"
+-'  85  0  ~/code/jssp-af/Makefile
+|4,39,85,0,1584480009,"~/code/jssp-af/Makefile"
+-'  85  0  ~/code/jssp-af/Makefile
+|4,39,85,0,1584480009,"~/code/jssp-af/Makefile"
+-'  1  0  ~/code/jssp-af/web
+|4,39,1,0,1584480002,"~/code/jssp-af/web"
+-'  1  0  ~/code/jssp-af/web
+|4,39,1,0,1584480002,"~/code/jssp-af/web"
+-'  1  0  ~/code/jssp-af/web
+|4,39,1,0,1584480002,"~/code/jssp-af/web"
+-'  1  0  ~/code/jssp-af/web
+|4,39,1,0,1584480002,"~/code/jssp-af/web"
+-'  1  0  ~/code/jssp-af/web/package.json
+|4,39,1,0,1584480001,"~/code/jssp-af/web/package.json"
+-'  1  0  ~/code/jssp-af/web/package.json
+|4,39,1,0,1584480001,"~/code/jssp-af/web/package.json"
+-'  1  0  ~/code/jssp-af/web/package.json
+|4,39,1,0,1584480001,"~/code/jssp-af/web/package.json"
+-'  1  0  ~/code/jssp-af/web/package.json
+|4,39,1,0,1584480001,"~/code/jssp-af/web/package.json"
+-'  1  0  ~/code/jssp-af
+|4,39,1,0,1584479869,"~/code/jssp-af"
+-'  1  0  ~/code/jssp-af
+|4,39,1,0,1584479869,"~/code/jssp-af"
+-'  1  0  ~/code/jssp-af
+|4,39,1,0,1584479869,"~/code/jssp-af"
+-'  1  0  ~/code/jssp-af
+|4,39,1,0,1584479869,"~/code/jssp-af"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  50  14  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,50,14,1584304719,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  54  9  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,54,9,1584246717,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  52  222  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,52,222,1584246681,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
+-'  48  3  ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+|4,39,48,3,1584246429,"~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vimrc
+	*	1584494033	0
+	"	368	30
+	^	368	31
+	.	368	30
+	+	55	18
+	+	57	14
+	+	46	63
+	+	56	27
+	+	362	28
+	+	373	1
+	+	353	0
+	+	108	17
+	+	102	1
+	+	101	15
+	+	379	2
+	+	380	27
+	+	368	30
+
+> ~/Documents/hes/cscie-28/project3/hw.txt
+	*	1584493992	0
+	"	237	0
+
+> ~/code/jssp-af/Makefile
+	*	1584480775	0
+	"	293	24
+	^	293	25
+	.	293	24
+	+	281	0
+	+	280	0
+	+	282	14
+	+	283	11
+	+	286	18
+	+	289	0
+	+	288	0
+	+	289	19
+	+	282	13
+	+	290	17
+	+	293	24
+
+> ~/code/jssp-af/web/README.md
+	*	1584480772	0
+	"	53	0
+	^	74	3
+	.	74	2
+	+	55	90
+	+	64	0
+	+	59	2
+	+	60	0
+	+	61	135
+	+	62	0
+	+	63	2
+	+	61	161
+	+	66	0
+	+	66	4
+	+	66	0
+	+	65	0
+	+	66	0
+	+	64	0
+	+	66	0
+	+	55	55
+	+	68	0
+	+	76	2
+	+	75	0
+	+	74	2
+
+> ~/code/jssp-af/web/package.json
+	*	1584480769	0
+	"	13	44
+	^	14	60
+	.	14	59
+	+	14	59
+
+> ~/code/personal-blog/_posts/2020-03-14-tracking-nycs-coronavirus-case-count.md
+	*	1584304719	0
+	"	50	14
+	^	50	15
+	.	50	14
+	+	25	0
+	+	29	129
+	+	56	0
+	+	31	0
+	+	31	1
+	+	29	16
+	+	29	65
+	+	31	207
+	+	56	5
+	+	31	436
+	+	29	133
+	+	33	255
+	+	43	20
+	+	35	163
+	+	39	131
+	+	33	270
+	+	45	62
+	+	46	71
+	+	48	233
+	+	33	131
+	+	33	30
+	+	33	127
+	+	35	118
+	+	39	82
+	+	36	0
+	+	38	0
+	+	40	0
+	+	42	0
+	+	39	134
+	+	21	146
+	+	21	215
+	+	21	183
+	+	21	0
+	+	21	109
+	+	21	194
+	+	27	26
+	+	30	0
+	+	29	0
+	+	29	131
+	+	31	272
+	+	48	160
+	+	52	417
+	+	52	336
+	+	53	0
+	+	54	157
+	+	56	0
+	+	52	42
+	+	52	222
+	+	52	320
+	+	54	122
+	+	50	14
+
+> ~/code/personal-blog/Gemfile
+	*	1584244043	0
+	"	3	0
+
+> ~/code/covid-19/csse_covid_19_data/csse_covid_19_daily_reports/03-12-2020.csv
+	*	1584216977	0
+	"	38	0
+
+> ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
+	*	1584144271	0
+	"	28	2
+	^	110	0
+	.	110	0
+	+	34	49
+	+	34	72
+	+	34	70
+	+	34	72
+	+	35	0
+	+	34	85
+	+	36	127
+	+	36	1
+	+	38	24
+	+	37	35
+	+	39	24
+	+	37	113
+	+	38	0
+	+	38	1
+	+	39	1
+	+	38	0
+	+	39	0
+	+	38	45
+	+	40	1
+	+	36	27
+	+	41	22
+	+	44	17
+	+	43	8
+	+	44	0
+	+	43	22
+	+	44	8
+	+	42	23
+	+	43	3
+	+	44	3
+	+	41	55
+	+	42	0
+	+	41	63
+	+	21	28
+	+	57	0
+	+	53	20
+	+	47	23
+	+	53	8
+	+	54	8
+	+	55	13
+	+	56	7
+	+	55	8
+	+	49	10
+	+	50	8
+	+	51	8
+	+	52	4
+	+	61	29
+	+	60	31
+	+	59	31
+	+	58	29
+	+	57	31
+	+	56	31
+	+	55	31
+	+	65	32
+	+	68	11
+	+	72	9
+	+	72	6
+	+	77	26
+	+	74	60
+	+	76	0
+	+	78	14
+	+	74	105
+	+	80	42
+	+	77	22
+	+	78	26
+	+	80	3
+	+	72	3
+	+	82	72
+	+	84	27
+	+	82	1
+	+	83	40
+	+	84	10
+	+	86	40
+	+	90	23
+	+	91	25
+	+	89	0
+	+	90	30
+	+	94	30
+	+	95	0
+	+	72	0
+	+	70	67
+	+	94	24
+	+	97	0
+	+	94	62
+	+	96	68
+	+	106	58
+	+	102	2
+	+	99	0
+	+	98	86
+	+	80	0
+	+	104	0
+	+	103	0
+	+	105	0
+	+	109	146
+	+	109	68
+	+	109	25
+	+	100	52
+	+	109	0
+	+	110	2
+	+	108	5
+	+	110	0
+
+> ~/code/vss/yarn.lock
+	*	1584133784	0
+	"	1	0
+
+> ~/.tmux.conf
+	*	1584133642	0
+	"	163	47
+	^	187	2
+	.	188	0
+	+	156	1
+	+	163	1
+	+	188	0
+
+> ~/dotfiles/.git/COMMIT_EDITMSG
+	*	1584132514	0
+	"	1	0
+
+> ~/dotfiles/tmux.conf__nix
+	*	1584132484	0
+	"	38	0
+	.	38	0
+	+	66	0
+	+	38	0
+
+> ~/dotfiles/vimrc
+	*	1584132466	0
+	"	380	1
+	.	380	0
+	+	379	0
+	+	380	0
+
+> ~/code/covhider-extension/manifest.json
+	*	1584110645	0
+	"	10	5
+	^	11	30
+	.	11	29
+	+	1	0
+	+	2	0
+	+	17	0
+	+	15	3
+	+	9	7
+	+	8	0
+	+	9	6
+	+	8	19
+	+	14	0
+	+	15	2
+	+	12	20
+	+	13	0
+	+	11	29
+
+> ~/code/covhider-extension/content.js
+	*	1584110180	0
+	"	3	109
+	^	3	110
+	.	3	109
+	+	3	22
+	+	2	0
+	+	1	55
+	+	3	0
+	+	9	0
+	+	13	0
+	+	15	73
+	+	9	34
+	+	8	72
+	+	8	0
+	+	3	86
+	+	4	0
+	+	8	0
+	+	5	0
+	+	3	0
+	+	7	0
+	+	5	2
+	+	8	0
+	+	6	0
+	+	7	108
+	+	7	0
+	+	7	101
+	+	3	109
+
+> ~/.config/newsboat/urls
+	*	1583961421	0
+	"	53	111
+	^	53	112
+	.	53	111
+	+	48	37
+	+	51	0
+	+	45	0
+	+	50	0
+	+	49	0
+	+	1	1
+	+	2	1
+	+	3	1
+	+	5	0
+	+	1	0
+	+	13	0
+	+	1	37
+	+	53	111
+
+> ~/.config/newsboat/.git/config
+	*	1583961281	0
+	"	11	1
+	.	12	0
+	+	12	0
+
+> ~/.config/newsboat/.gitattributes
+	*	1583960989	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.config/newsboat/config
+	*	1583765634	0
+	"	51	0
+	^	3	24
+	.	3	23
+	+	3	23
+
+> /tmp/firefox.bookmarks
+	*	1583720664	0
+	"	293	0
+
+> ~/.config/newsboat/key
+	*	1583645122	0
+	"	1	0
+	^	1	10
+	.	1	0
+	+	1	0
+
+> ~/code/vss/bin/test_server
+	*	1583607384	0
+	"	18	16
+	^	18	17
+	.	18	16
+	+	16	44
+	+	17	20
+	+	16	19
+	+	17	20
+	+	19	0
+	+	18	16
+
+> ~/code/vss/.circleci/config.yml
+	*	1583604053	0
+	"	6	0
+	.	25	0
+	+	7	39
+	+	52	0
+	+	52	30
+	+	52	25
+	+	52	39
+	+	52	26
+	+	42	0
+	+	41	23
+	+	38	83
+	+	37	35
+	+	24	82
+	+	38	57
+	+	52	0
+	+	29	0
+	+	28	0
+	+	34	0
+	+	52	0
+	+	32	0
+	+	31	8
+	+	34	0
+	+	30	0
+	+	31	0
+	+	41	28
+	+	53	27
+	+	52	23
+	+	55	56
+	+	41	0
+	+	29	0
+	+	25	0
+
+> ~/code/vss/spec/vuetify_capybara_helper.rb
+	*	1583603570	0
+	"	35	0
+	^	41	4
+	.	41	3
+	+	42	0
+	+	35	0
+	+	42	0
+	+	41	2
+	+	42	0
+	+	41	3
+
+> ~/code/vss/spec/integration/client_cancels_shifts_spec.rb
+	*	1583603569	0
+	"	68	12
+	^	6	16
+	.	6	15
+	+	35	0
+	+	36	0
+	+	6	15
+
+> ~/code/vss/bin/setup
+	*	1583603436	0
+	"	19	0
+
+> ~/code/vss/bin/rspec
+	*	1583603406	0
+	"	29	0
+
+> ~/code/vss/bin/rake
+	*	1583603395	0
+	"	1	0
+
+> ~/code/vss/Rakefile
+	*	1583603373	0
+	"	6	0
+
+> ~/code/vss/spec/integration/client_current_shifts_spec.rb
+	*	1583603042	0
+	"	30	10
+	.	48	0
+	+	16	0
+	+	48	0
+
+> ~/code/vss/spec/rails_helper.rb
+	*	1583602977	0
+	"	61	20
+
+> ~/code/vss/spec/helpers/resources_helper_spec.rb
+	*	1583602286	0
+	"	1	0
+
+> ~/code/vss/spec/helpers/pages_helper_spec.rb
+	*	1583602285	0
+	"	1	0
+
+> ~/code/vss/config/initializers/shrine.rb
+	*	1583602128	0
+	"	66	17
+	^	66	18
+	.	66	17
+	+	35	35
+	+	42	0
+	+	35	0
+	+	35	17
+	+	35	44
+	+	35	48
+	+	35	0
+	+	35	30
+	+	35	36
+	+	35	27
+	+	35	26
+	+	35	0
+	+	43	0
+	+	61	0
+	+	43	0
+	+	67	0
+	+	65	0
+	+	68	0
+	+	67	39
+	+	65	47
+	+	64	39
+	+	35	0
+	+	63	19
+	+	66	17
+
+> ~/code/vss/spec/models/shift_spec.rb
+	*	1583602127	0
+	"	515	12
+	.	515	0
+	+	363	0
+	+	369	20
+	+	361	70
+	+	362	62
+	+	361	81
+	+	362	76
+	+	369	0
+	+	515	0
+	+	513	0
+	+	515	0
+	a	361	10
+
+> ~/code/vss/spec/spec_helper.rb
+	*	1583601817	0
+	"	105	0
+
+> ~/code/vss/config/database.yml
+	*	1583600590	0
+	"	63	2
+	.	63	0
+	+	63	0
+
+> ~/code/vss/config/initializers/knock.rb
+	*	1583599986	0
+	"	40	74
+	^	40	75
+	.	40	74
+	+	44	0
+	+	41	0
+	+	43	0
+	+	44	0
+	+	42	0
+	+	40	74
+
+> /tmp/4577.credentials.yml
+	*	1583555630	0
+	"	11	17
+
+> ~/code/vss/config/webpacker.yml
+	*	1583554293	0
+	"	61	0
+
+> ~/code/vss/.env
+	*	1583553534	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	4	0
+
+> ~/code/vss/.git/COMMIT_EDITMSG
+	*	1583553332	0
+	"	1	0
+
+> ~/code/vss/app/sendgrid_mailers/sendgrid_wrapper.rb
+	*	1583553072	0
+	"	24	27
+
+> ~/code/vss/config/environment.rb
+	*	1583552664	0
+	"	1	0
+
+> ~/code/vss/config/storage.yml
+	*	1583552580	0
+	"	22	0
+
+> ~/code/vss/config/newrelic.yml
+	*	1583552567	0
+	"	1	0
+
+> /tmp/14829.credentials.yml
+	*	1583552530	0
+	"	1	0
+
+> ~/dotfiles/falcon-tmux.conf
+	*	1583452012	0
+	"	7	0
+
+> ~/dotfiles/bashrc
+	*	1583451970	0
+	"	73	9
+
+> ~/code/vss/app/javascript/src/store/modules/employees.js
+	*	1583451955	0
+	"	112	0
+	^	112	1
+
+> ~/package-lock.json
+	*	1583451874	0
+	"	1	0
+
+> ~/quotes_script
+	*	1583451872	0
+	"	1	0
+
+> ~/.bashrc
+	*	1583293393	0
+	"	73	1
+	^	73	2
+	.	73	1
+	+	73	1
+
+> ~/code/vss/app/javascript/src/components/hr/employee-detail-for-manager.vue
+	*	1583169307	0
+	"	227	6
+	^	203	28
+	.	208	0
+	+	203	39
+	+	227	21
+	+	206	30
+	+	207	0
+	+	207	29
+	+	208	27
+	+	72	14
+	+	72	0
+	+	71	17
+	+	75	53
+	+	203	48
+	+	227	0
+	+	75	24
+	+	203	23
+	+	203	0
+	+	213	3
+	+	227	20
+	+	218	5
+	+	218	15
+	+	203	31
+	+	203	28
+	+	241	7
+	+	232	25
+	+	231	27
+	+	218	0
+	+	203	0
+	+	213	0
+	+	212	3
+	+	211	47
+	+	72	0
+	+	71	17
+	+	75	19
+	+	203	66
+	+	233	31
+	+	231	0
+	+	229	71
+	+	230	67
+	+	234	35
+	+	235	26
+	+	236	27
+	+	237	37
+	+	238	26
+	+	239	29
+	+	240	32
+	+	241	0
+	+	235	25
+	+	236	26
+	+	237	36
+	+	238	25
+	+	239	28
+	+	240	31
+	+	71	17
+	+	75	0
+	+	74	0
+	+	71	0
+	+	112	0
+	+	112	58
+	+	115	0
+	+	111	0
+	+	115	22
+	+	78	0
+	+	77	52
+	+	80	33
+	+	80	0
+	+	77	19
+	+	80	49
+	+	203	72
+	+	206	0
+	+	207	0
+	+	208	0
+	+	231	9
+	+	232	9
+	+	233	9
+	+	234	9
+	+	235	9
+	+	236	9
+	+	237	9
+	+	238	9
+	+	239	9
+	+	240	9
+	+	232	0
+	+	237	20
+	+	240	14
+	+	203	70
+	+	225	16
+	+	225	0
+	+	225	28
+	+	225	27
+	+	225	0
+	+	80	0
+	+	202	26
+	+	77	0
+	+	203	65
+	+	227	19
+	+	203	70
+	+	206	0
+	+	207	0
+	+	208	0
+
+> ~/code/vss/app/javascript/src/router.js
+	*	1583169306	0
+	"	264	8
+	^	246	6
+	.	243	0
+	+	292	5
+	+	251	0
+	+	249	26
+	+	251	0
+	+	250	7
+	+	248	15
+	+	242	0
+	+	248	26
+	+	249	18
+	+	251	7
+	+	252	0
+	+	253	32
+	+	254	24
+	+	257	0
+	+	262	0
+	+	267	0
+	+	272	0
+	+	277	0
+	+	282	0
+	+	287	0
+	+	292	0
+	+	258	36
+	+	259	28
+	+	263	27
+	+	264	19
+	+	268	28
+	+	269	15
+	+	273	38
+	+	274	31
+	+	278	27
+	+	279	19
+	+	283	30
+	+	284	22
+	+	288	33
+	+	289	20
+	+	292	28
+	+	292	0
+	+	243	44
+	+	246	5
+	+	243	0
+
+> ~/code/vss/app/javascript/src/components/hr/schedule.vue
+	*	1583168674	0
+	"	1	0
+
+> ~/code/vss/app/javascript/src/components/hr/manage.vue
+	*	1583168488	0
+	"	23	0
+
+> ~/code/vss/app/javascript/src/components/hr/info.vue
+	*	1583168481	0
+	"	66	6
+	.	66	0
+	+	66	0
+
+> ~/code/vss/app/javascript/src/components/hr/employee-detail-wrapper.vue
+	*	1583168453	0
+	"	36	4
+	.	36	0
+	+	36	4
+	+	39	0
+	+	36	0
+
+> ~/code/jssp-af/web/src/views/offender/OffenderProfile.vue
+	*	1583168249	0
+	"	339	20
+
+> ~/code/vss/app/javascript/src/components/reports/payroll.vue
+	*	1583168241	0
+	"	207	5
+
+> ~/code/jssp-af/web/src/components/offender/dashboard/OffenderRosterTable.vue
+	*	1583168192	0
+	"	87	2
+
+> ~/code/jssp-af/web/src/views/offender/IntakeStepper.vue
+	*	1583168162	0
+	"	1	0
+
+> ~/code/jssp-af/web/src/views/offender/OffenderTopSheet.vue
+	*	1583168158	0
+	"	194	2
+
+> ~/code/vss/app/javascript/src/components/reports/index.vue
+	*	1583168117	0
+	"	340	0
+
+> /tmp/bash-fc.RYpRsu
+	*	1583166231	0
+	"	1	128
+	^	1	129
+	.	1	128
+	+	1	3
+	+	1	128
+
+> ~/code/vss/app/javascript/src/components/hr/password-reset-dialog.vue
+	*	1583166161	0
+	"	2	0
+
+> ~/code/vss/package.json
+	*	1583163236	0
+	"	64	5
+
+> ~/code/vss/app/javascript/src/components/hr/employee-field.vue
+	*	1583161098	0
+	"	1	0
+
+> ~/code/vss/app/javascript/src/components/hr/team.vue
+	*	1583161088	0
+	"	1	0
+
+> /var/lib/locales/supported.d/en
+	*	1583087803	0
+	"	19	6
+	^	19	5
+	.	19	4
+	+	19	4
+
+> ~/.vim/README.md
+	*	1583016427	0
+	"	1	0
 
 > ~/.vim/colors/preto.vim
 	*	1582993783	0
@@ -1337,27 +2413,6 @@ $
 	+	27	78
 	+	5	25
 
-> ~/.tmux.conf
-	*	1582840470	0
-	"	3	0
-	^	156	2
-	.	156	1
-	+	156	1
-
-> ~/.vimrc
-	*	1582840446	0
-	"	107	17
-	^	107	18
-	.	107	17
-	+	55	18
-	+	57	14
-	+	46	63
-	+	56	27
-	+	361	28
-	+	372	1
-	+	352	0
-	+	107	17
-
 > /.vimrc
 	*	1582840433	0
 	"	1	0
@@ -1427,796 +2482,3 @@ $
 	+	52	17
 	+	50	29
 	+	51	64
-
-> ~/.config/dunst/dunstrc
-	*	1582840125	0
-	"	63	4
-	^	327	25
-	.	327	24
-	+	104	18
-	+	144	20
-	+	153	26
-	+	178	24
-	+	189	79
-	+	236	20
-	+	281	11
-	+	290	24
-	+	284	5
-	+	32	24
-	+	49	27
-	+	86	26
-	+	104	18
-	+	140	17
-	+	144	19
-	+	66	0
-	+	77	0
-	+	67	0
-	+	76	4
-	+	295	0
-	+	303	0
-	+	308	18
-	+	309	18
-	+	312	15
-	+	308	18
-	+	317	18
-	+	308	25
-	+	318	0
-	+	321	15
-	+	317	19
-	+	308	19
-	+	78	20
-	+	64	18
-	+	44	19
-	+	140	43
-	+	189	93
-	+	183	21
-	+	189	92
-	+	183	20
-	+	186	21
-	+	189	92
-	+	308	24
-	+	309	0
-	+	308	0
-	+	309	25
-	+	308	0
-	+	317	18
-	+	318	18
-	+	326	18
-	+	311	0
-	+	320	0
-	+	328	19
-	+	311	0
-	+	320	0
-	+	311	19
-	+	308	18
-	+	317	18
-	+	400	0
-	+	398	0
-	+	399	0
-	+	396	0
-	+	397	24
-	+	311	24
-	+	320	0
-	+	397	0
-	+	330	0
-	+	329	0
-	+	32	26
-	+	312	15
-	+	321	15
-	+	312	14
-	+	321	15
-	+	326	0
-	+	317	19
-	+	317	18
-	+	308	18
-	+	311	25
-	+	309	24
-	+	308	24
-	+	309	24
-	+	328	25
-	+	317	24
-	+	140	38
-	+	78	0
-	+	318	18
-	+	317	18
-	+	327	18
-	+	311	25
-	+	320	25
-	+	78	0
-	+	317	24
-	+	311	25
-	+	326	24
-	+	320	0
-	+	311	0
-	+	320	0
-	+	304	0
-	+	326	18
-	+	327	24
-
-> /tmp/bash-fc.GvSypA
-	*	1582839758	0
-	"	1	0
-
-> ~/.config/i3/i3blocks.conf
-	*	1582827526	0
-	"	108	8
-	^	108	9
-	.	108	8
-	+	102	0
-	+	103	0
-	+	104	0
-	+	105	0
-	+	65	9
-	+	105	0
-	+	76	0
-	+	31	36
-	+	31	9
-	+	31	8
-	+	31	0
-	+	107	0
-	+	111	0
-	+	105	0
-	+	108	0
-	+	86	0
-	+	108	8
-
-> ~/.config/i3/show_timetrap.sh
-	*	1582827009	0
-	"	2	0
-	^	2	0
-	.	1	11
-	+	3	48
-	+	1	11
-
-> ~/.config/newsboat/config
-	*	1582824005	0
-	"	36	75
-	^	3	24
-	.	3	23
-	+	3	23
-
-> ~/.config/newsboat/urls
-	*	1582823250	0
-	"	46	0
-	^	49	40
-	.	49	37
-	+	49	37
-
-> ~/code/jssp-af/docs/classification.md
-	*	1582822256	0
-	"	163	0
-	^	161	78
-	.	163	0
-	+	1	32
-	+	2	0
-	+	1	0
-	+	162	34
-	+	161	6
-	+	163	23
-	+	162	14
-	+	163	23
-	+	163	18
-	+	165	0
-	+	168	16
-	+	166	0
-	+	288	0
-	+	160	0
-	+	161	78
-	+	160	0
-	+	163	0
-
-> ~/code/jssp-af/web/src/components/BirthdateSelector.vue
-	*	1582821605	0
-	"	36	0
-
-> ~/code/jssp-af/web/src/vuex/offender/accompanyingChild.ts
-	*	1582821581	0
-	"	9	0
-	^	68	83
-	.	68	82
-	+	7	66
-	+	9	33
-	+	12	5
-	+	14	0
-	+	13	16
-	+	17	14
-	+	18	24
-	+	22	84
-	+	23	51
-	+	24	44
-	+	25	25
-	+	31	68
-	+	32	34
-	+	33	26
-	+	32	73
-	+	33	26
-	+	34	43
-	+	33	77
-	+	34	43
-	+	35	0
-	+	36	35
-	+	38	73
-	+	40	63
-	+	41	77
-	+	43	49
-	+	44	51
-	+	47	71
-	+	48	29
-	+	49	0
-	+	48	77
-	+	50	31
-	+	47	32
-	+	50	89
-	+	51	55
-	+	52	42
-	+	53	51
-	+	59	82
-	+	61	0
-	+	62	32
-	+	64	69
-	+	67	29
-	+	68	82
-
-> ~/code/jssp-af/internal/testdb/seeds/009 AccompanyingChildren.sql
-	*	1582821574	0
-	"	1	9
-	^	12	90
-	.	2	0
-	+	1	0
-	+	1	2
-	+	1	0
-	+	1	32
-	+	1	0
-	+	2	24
-	+	3	0
-	+	2	33
-	+	3	45
-	+	4	13
-	+	6	21
-	+	7	3
-	+	8	27
-	+	6	14
-	+	9	24
-	+	8	51
-	+	10	0
-	+	12	89
-	+	1	0
-	+	2	0
-
-> ~/code/jssp-af/internal/config/migrations/2020-02-20_10-00_CreateAccompanyingChildren.sql
-	*	1582821189	0
-	"	2	0
-
-> ~/code/jssp-af/internal/testdb/seeds/003 Offenders.sql
-	*	1582820995	0
-	"	5	7
-
-> ~/code/jssp-af/internal/testdb/seeds/007 Incidents.sql
-	*	1582820991	0
-	"	1	0
-
-> ~/code/jssp-af/internal/testdb/seeds/README.md
-	*	1582820926	0
-	"	12	0
-	^	6	82
-	.	6	79
-	+	6	79
-
-> ~/code/jssp-af/internal/testdb/seeds/005 Seeds.sql
-	*	1582820895	0
-	"	1	0
-
-> ~/code/jssp-af/internal/testdb/testdb.go
-	*	1582820887	0
-	"	87	0
-
-> ~/code/jssp-af/internal/person/person_test.go
-	*	1582820863	0
-	"	1	0
-	.	84	0
-	+	84	0
-
-> ~/code/jssp-af/internal/config/config_test.go
-	*	1582820846	0
-	"	96	0
-
-> ~/code/jssp-af/internal/cmsetl/testdata/01-19-17-00-1392-0250-00.json
-	*	1582820824	0
-	"	1	0
-
-> ~/code/jssp-af/db/devdata/default.sql
-	*	1582820788	0
-	"	52	0
-
-> ~/code/jssp-af/internal/platform/web/service.go
-	*	1582820072	0
-	"	1	0
-
-> ~/code/jssp-af/internal/domainmodel/model.go
-	*	1582820062	0
-	"	1	0
-
-> ~/code/jssp-af/internal/offender/offender.go
-	*	1582820050	0
-	"	11	1
-
-> ~/code/jssp-af/web/src/vuex/offender/leave.ts
-	*	1582820028	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/vuex/offender/offender.ts
-	*	1582820023	0
-	"	31	11
-	^	199	30
-	.	199	29
-	+	6	0
-	+	7	32
-	+	8	36
-	+	9	40
-	+	10	36
-	+	11	27
-	+	129	26
-	+	142	28
-	+	157	30
-	+	200	0
-	+	199	29
-
-> ~/code/jssp-af/web/src/vuex/offender/detentionExtension.ts
-	*	1582819764	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/vuex/offender/classificationOptions.ts
-	*	1582819369	0
-	"	23	8
-
-> ~/code/jssp-af/web/src/components/offender/housing/LeavesTable.vue
-	*	1582818578	0
-	"	255	0
-
-> /tmp/vu8Fxbz/15.fugitiveblame
-	*	1582818577	0
-	"	254	0
-
-> ~/code/jssp-af/web/src/components/offender/housing/LeaveRequestDialog.vue
-	*	1582818535	0
-	"	1	0
-
-> ~/code/jssp-af/README.md
-	*	1582817687	0
-	"	247	3
-
-> ~/code/jssp-af/internal/config/migrations/2020-02-27_15-00_AddMotherIncarceratedWithChildToClassifications.sql
-	*	1582817588	0
-	"	2	150
-	^	2	152
-	.	2	150
-	+	1	0
-	+	2	1
-	+	4	0
-	+	2	77
-	+	3	0
-	+	2	150
-
-> ~/code/jssp-af/internal/config/migrations/2019-12-12_17-28_CreateClassificationTables.sql
-	*	1582817340	0
-	"	114	0
-
-> ~/code/jssp-af/internal/offender/classification.go
-	*	1582817111	0
-	"	32	0
-
-> ~/code/jssp-af/internal/offender/classification_test.go
-	*	1582817109	0
-	"	90	0
-
-> ~/code/jssp-af/cmd/cms/cms.go
-	*	1582816656	0
-	"	1	0
-
-> /tmp/vQjFmNp/509.fugitiveblame
-	*	1582816133	0
-	"	32	0
-
-> ~/code/jssp-af/internal/housing/facility.go
-	*	1582816111	0
-	"	229	9
-	.	229	3
-	+	229	3
-
-> ~/code/jssp-af/internal/housing/facility_test.go
-	*	1582816104	0
-	"	72	0
-
-> ~/code/jssp-af/docs/mothers-incarcerated-with-children.md
-	*	1582815771	0
-	"	1	0
-
-> ~/go/src/hello/hello.go
-	*	1582813918	0
-	"	6	26
-	.	6	26
-	+	6	26
-
-> ~/code/jssp-af/internal/offender/intake-health-screening.go
-	*	1582812858	0
-	"	65	22
-
-> ~/code/jssp-af/internal/offender/flag.go
-	*	1582812853	0
-	"	32	59
-
-> ~/code/jssp-af/internal/offender/escape_test.go
-	*	1582812836	0
-	"	64	7
-
-> ~/code/jssp-af/internal/offender/escape.go
-	*	1582812828	0
-	"	131	7
-
-> ~/code/jssp-af/internal/offender/offender_test.go
-	*	1582812683	0
-	"	46	9
-
-> ~/code/jssp-af/internal/person/person.go
-	*	1582812659	0
-	"	229	1
-
-> ~/.config/i3/config
-	*	1582811938	0
-	"	260	28
-	^	143	57
-	.	143	58
-	+	72	24
-	+	71	0
-	+	71	24
-	+	31	0
-	+	34	74
-	+	355	0
-	+	354	0
-	+	355	26
-	+	213	30
-	+	212	29
-	+	212	37
-	+	213	32
-	+	213	0
-	+	212	30
-	+	214	0
-	+	144	0
-	+	34	0
-	+	34	24
-	+	30	45
-	+	143	58
-	u	260	28
-
-> ~/.config/i3/lock-with-dunst.sh
-	*	1582811928	0
-	"	25	1
-	^	28	2
-	.	28	1
-	+	3	27
-	+	4	12
-	+	12	0
-	+	4	0
-	+	21	0
-	+	14	45
-	+	22	0
-	+	24	32
-	+	4	0
-	+	24	32
-	+	5	4
-	+	25	27
-	+	23	9
-	+	8	0
-	+	7	0
-	+	8	10
-	+	8	102
-	+	8	0
-	+	6	0
-	+	7	12
-	+	21	21
-	+	8	23
-	+	7	14
-	+	15	11
-	+	19	0
-	+	14	19
-	+	18	0
-	+	21	24
-	+	15	34
-	+	14	0
-	+	20	0
-	+	13	24
-	+	23	23
-	+	10	36
-	+	11	0
-	+	11	100
-	+	27	0
-	+	26	0
-	+	27	16
-	+	28	98
-	+	11	82
-	+	28	0
-	+	11	99
-	+	10	48
-	+	11	1
-	+	28	1
-	k	21	8
-
-> /tmp/bash-fc.gdwFb2
-	*	1582811653	0
-	"	1	97
-	^	1	98
-	.	1	97
-	+	1	0
-	+	1	97
-
-> /tmp/bash-fc.pcqfeD
-	*	1582810916	0
-	"	1	24
-	^	1	25
-	.	1	24
-	+	1	24
-
-> /tmp/vQjFmNp/162.fugitiveblame
-	*	1582777940	0
-	"	25	0
-
-> ~/code/jssp-af/docker-compose.testdb.yml
-	*	1582777430	0
-	"	9	0
-
-> ~/code/jssp-af/.env
-	*	1582777408	0
-	"	41	43
-
-> ~/code/jssp-af/internal/offender/program_test.go
-	*	1582776941	0
-	"	159	5
-
-> ~/code/jssp-af/Makefile
-	*	1582775759	0
-	"	261	20
-
-> ~/code/jssp-af/docs/first-time-setup.md
-	*	1582775143	0
-	"	145	0
-
-> ~/code/jssp-af/docs/README.md
-	*	1582775119	0
-	"	1	0
-
-> ~/code/jssp-af/docker-compose.yml
-	*	1582775011	0
-	"	29	4
-
-> /tmp/vRzJ9PZ/15.fugitiveblame
-	*	1582774995	0
-	"	46	0
-
-> ~/code/jssp-af/internal/offender/mental-disorder_test.go
-	*	1582774881	0
-	"	1	0
-
-> ~/Documents/cscie-28/lecture5.md
-	*	1582772483	0
-	"	146	2
-	^	146	3
-	.	146	2
-	+	132	28
-	+	50	32
-	+	53	19
-	+	132	73
-	+	55	44
-	+	57	61
-	+	58	0
-	+	132	3
-	+	59	3
-	+	69	2
-	+	71	33
-	+	132	0
-	+	39	0
-	+	40	0
-	+	71	34
-	+	77	19
-	+	73	36
-	+	74	35
-	+	77	0
-	+	76	62
-	+	79	0
-	+	84	0
-	+	78	2
-	+	82	0
-	+	81	1
-	+	83	42
-	+	82	45
-	+	86	58
-	+	85	0
-	+	94	0
-	+	90	24
-	+	93	130
-	+	91	88
-	+	76	125
-	+	96	0
-	+	93	0
-	+	97	3
-	+	131	0
-	+	99	4
-	+	103	18
-	+	103	0
-	+	108	20
-	+	102	17
-	+	105	2
-	+	108	0
-	+	110	18
-	+	108	69
-	+	110	28
-	+	112	37
-	+	110	58
-	+	116	2
-	+	115	0
-	+	110	53
-	+	115	0
-	+	114	1
-	+	115	0
-	+	105	0
-	+	106	19
-	+	120	49
-	+	122	43
-	+	120	24
-	+	128	22
-	+	124	12
-	+	121	20
-	+	122	23
-	+	130	89
-	+	132	0
-	+	95	0
-	+	97	82
-	+	132	18
-	+	134	0
-	+	136	34
-	+	144	8
-	+	140	29
-	+	138	17
-	+	140	33
-	+	142	1
-	+	143	1
-	+	144	1
-	+	141	0
-	+	145	0
-	+	146	34
-	+	151	2
-	+	150	6
-	+	154	19
-	+	156	29
-	+	168	9
-	+	169	17
-	+	167	45
-	+	168	9
-	+	169	0
-	+	168	35
-	+	169	35
-	+	168	26
-	+	167	34
-	+	168	17
-	+	167	17
-	+	168	11
-	+	169	75
-	+	146	2
-
-> ~/dotfiles/readme.md
-	*	1582756460	0
-	"	77	0
-
-> ~/code/jssp-af/web/src/lib/vuex-domainmodel.ts
-	*	1582756300	0
-	"	105	3
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/resources.vue
-	*	1582749049	0
-	"	166	0
-
-> ~/test5.md
-	*	1582670656	0
-	"	38	0
-	^	69	59
-	.	69	59
-	+	26	30
-	+	18	31
-	+	43	11
-	+	45	82
-	+	47	39
-	+	50	16
-	+	32	1
-	+	30	39
-	+	31	0
-	+	32	52
-	+	34	54
-	+	32	9
-	+	34	88
-	+	41	2
-	+	40	0
-	+	51	86
-	+	53	79
-	+	66	2
-	+	59	31
-	+	66	0
-	+	63	9
-	+	63	0
-	+	66	0
-	+	63	39
-	+	69	33
-	+	4	82
-	+	5	21
-	+	6	83
-	+	8	22
-	+	9	86
-	+	10	61
-	+	13	26
-	+	12	0
-	+	22	41
-	+	23	40
-	+	24	75
-	+	33	79
-	+	40	0
-	+	37	49
-	+	39	61
-	+	38	51
-	+	39	62
-	+	37	0
-	+	48	35
-	+	51	83
-	+	51	0
-	+	52	21
-	+	61	4
-	+	65	0
-	+	63	40
-	+	63	0
-	+	69	59
-
-> ~/test3.js
-	*	1582665383	0
-	"	12	26
-	^	1	0
-	.	1	0
-	+	3	20
-	+	4	3
-	+	10	3
-	+	8	32
-	+	9	17
-	+	15	3
-	+	12	0
-	+	13	29
-	+	4	0
-	+	2	0
-	+	1	0
-
-> ~/test2.js
-	*	1582665368	0
-	"	1	0
-	^	2	0
-	.	2	0
-	+	3	14
-	+	5	44
-	+	7	22
-	+	9	3
-	+	8	11
-	+	5	25
-	+	8	30
-	+	7	20
-	+	8	31
-	+	12	3
-	+	11	28
-	+	2	1
-	+	1	0
-	+	2	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/employee-skill-box.vue
-	*	1582664109	0
-	"	29	0
-
-> ~/code/vss-rails-vue/app/javascript/src/store/modules/calendar.js
-	*	1582663592	0
-	"	159	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/certifications.vue
-	*	1582663582	0
-	"	196	3
