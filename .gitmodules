@@ -151,3 +151,6 @@
 [submodule "bundle/limelight.vim"]
 	path = bundle/limelight.vim
 	url = git@github.com:junegunn/limelight.vim.git
+[submodule "bundle/notational-fzf-vim"]
+	path = bundle/notational-fzf-vim
+	url = git@github.com:alok/notational-fzf-vim.git

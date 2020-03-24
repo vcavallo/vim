@@ -11,2453 +11,563 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/color
-
-# Last Substitute Search Pattern:
-~MSle0&user_review
+~MSle0~/track
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1583172023,,"q"
-:Goyo
-|2,0,1583171995,,"Goyo"
-:Limelight 0.8
-|2,0,1583171991,,"Limelight 0.8"
-:Limelight 1.0
-|2,0,1583171985,,"Limelight 1.0"
-:Limelight
-|2,0,1583171967,,"Limelight"
-:Goyo!
-|2,0,1583171885,,"Goyo!"
-:qa
-|2,0,1583170909,,"qa"
-:e ~/.vimrc
-|2,0,1583013633,,"e ~/.vimrc"
-:AirlineTheme badwolf
-|2,0,1583013628,,"AirlineTheme badwolf"
-:w
-|2,0,1583012576,,"w"
+|2,0,1584999797,,"q"
 :wq
-|2,0,1583011502,,"wq"
-:e ~/Documents/cscie-28/
-|2,0,1583008971,,"e ~/Documents/cscie-28/"
+|2,0,1584999795,,"wq"
+:w
+|2,0,1584999785,,"w"
+:!ls .
+|2,0,1584999560,,"!ls ."
 :wqa
-|2,0,1582995400,,"wqa"
-:w /home/vcavallo/code/vss-rails-vue/app/policies/shift_review_policy.rb
-|2,0,1582907407,,"w /home/vcavallo/code/vss-rails-vue/app/policies/shift_review_policy.rb"
-:%s/user_review/shift_review/g
-|2,0,1582905815,,"%s/user_review/shift_review/g"
-:!cp app/views/user_reviews/_user_review.json.jbuilder app/views/shift_reviews/_shift_review.json.jbuilder
-|2,0,1582905789,,"!cp app/views/user_reviews/_user_review.json.jbuilder app/views/shift_reviews/_shift_review.json.jbuilder"
-:w! app/javascript/src/components/calendar/sar-notes.vue
-|2,0,1582912038,,"w! app/javascript/src/components/calendar/sar-notes.vue"
-:w app/javascript/src/components/calendar/sar-notes.vue
-|2,0,1582912033,,"w app/javascript/src/components/calendar/sar-notes.vue"
-:w /home/vcavallo/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue
-|2,0,1582911801,,"w /home/vcavallo/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue"
-:tabnew
-|2,0,1582917159,,"tabnew"
-:colorscheme yin
-|2,0,1582995298,,"colorscheme yin"
-:AirlineTheme 
-|2,0,1582995294,,"AirlineTheme "
-:AirlineTheme badcat
-|2,0,1582993901,,"AirlineTheme badcat"
-:AirlineTheme ayu_dark
-|2,0,1582993893,,"AirlineTheme ayu_dark"
-:AirlineTheme gotham256
-|2,0,1582993889,,"AirlineTheme gotham256"
-:AirlineTheme gotham_256
-|2,0,1582993885,,"AirlineTheme gotham_256"
-:AirlineTheme dark_minimal
-|2,0,1582993877,,"AirlineTheme dark_minimal"
-:colorscheme yang
-|2,0,1582993808,,"colorscheme yang"
-:colorscheme preto
-|2,0,1582993800,,"colorscheme preto"
-:colorscheme 256_noir
-|2,0,1582993628,,"colorscheme 256_noir"
-:colorscheme paramount
-|2,0,1582993617,,"colorscheme paramount"
-:colorscheme plain
-|2,0,1582993753,,"colorscheme plain"
-:GoLint
-|2,0,1582845244,,"GoLint"
-:ALELint
-|2,0,1582845232,,"ALELint"
-:Ale
-|2,0,1582845222,,"Ale"
-:a
-|2,0,1582843362,,"a"
-:colorscheme smyck
-|2,0,1582840838,,"colorscheme smyck"
-:colorscheme tender
-|2,0,1582840833,,"colorscheme tender"
-:setw window-stat
-|2,0,1582840564,,"setw window-stat"
-:set window-status-attr "none"
-|2,0,1582840553,,"set window-status-attr \"none\""
-:set -g status "on"
-|2,0,1582840536,,"set -g status \"on\""
-:e
-|2,0,1582649860,,"e"
-:Gblame
-|2,0,1582659204,,"Gblame"
-:w ~/test3.js
-|2,0,1582662751,,"w ~/test3.js"
-:w ~/test2.js
-|2,0,1582662746,,"w ~/test2.js"
-:e ~/test.js
-|2,0,1582662731,,"e ~/test.js"
-:e ~/.tmux.conf
-|2,0,1582840292,,"e ~/.tmux.conf"
-:AirlineTheme tender
-|2,0,1582821319,,"AirlineTheme tender"
-:reg
-|2,0,1582821019,,"reg"
-:w web/src/vuex/offender/accompanyingChild.ts
-|2,0,1582819388,,"w web/src/vuex/offender/accompanyingChild.ts"
-:w web/src/vuex/offender/accompanying_
-|2,0,1582819378,,"w web/src/vuex/offender/accompanying_"
-:w /home/vcavallo/code/jssp-af/web/src/components/offender/housing/AddAccompanyingChildDialog.vue
-|2,0,1582818535,,"w /home/vcavallo/code/jssp-af/web/src/components/offender/housing/AddAccompanyingChildDialog.vue"
-:w /home/vcavallo/code/jssp-af/web/src/components/offender/housing/AccompanyingChildrenTable.vue
-|2,0,1582817815,,"w /home/vcavallo/code/jssp-af/web/src/components/offender/housing/AccompanyingChildrenTable.vue"
-:e ~/.config/i3/i3blocks.conf
-|2,0,1582826862,,"e ~/.config/i3/i3blocks.conf"
-:qw
-|2,0,1582826999,,"qw"
-:e ~/.config/newsboat/urls
-|2,0,1582822891,,"e ~/.config/newsboat/urls"
-:e /home/vcavallo/code/jssp-af/docs/classification.md
-|2,0,1582815661,,"e /home/vcavallo/code/jssp-af/docs/classification.md"
-:let g:go_test_show_name = 0
-|2,0,1582813826,,"let g:go_test_show_name = 0"
-:copen
-|2,0,1582813770,,"copen"
-:ccopen
-|2,0,1582813769,,"ccopen"
-:GoTest
-|2,0,1582813753,,"GoTest"
-:GoRun
-|2,0,1582813749,,"GoRun"
-:we
-|2,0,1582812972,,"we"
-:set noswapfile
-|2,0,1582812448,,"set noswapfile"
-:AirlineTheme molokai
-|2,0,1582812271,,"AirlineTheme molokai"
-:AirlineTheme molok
-|2,0,1582812268,,"AirlineTheme molok"
-:AirlineTheme ouo
-|2,0,1582812249,,"AirlineTheme ouo"
-:AirlineTheme deep_space
-|2,0,1582812243,,"AirlineTheme deep_space"
-:w!
-|2,0,1582777665,,"w!"
+|2,0,1584999461,,"wqa"
+:source ~/.vimrc
+|2,0,1584999278,,"source ~/.vimrc"
+:NV
+|2,0,1584999249,,"NV"
+:e ~/.vimrc
+|2,0,1584999070,,"e ~/.vimrc"
+:Startify
+|2,0,1584652726,,"Startify"
 :e .env
-|2,0,1582777399,,"e .env"
-:w ~/Desktop/vuex-and-api-notes.md
-|2,0,1582649970,,"w ~/Desktop/vuex-and-api-notes.md"
-:colorscheme elflord
-|2,0,1582667900,,"colorscheme elflord"
-:w ~/test5.md
-|2,0,1582667895,,"w ~/test5.md"
-:w ~/test4.js
-|2,0,1582666954,,"w ~/test4.js"
-:set background=light
-|2,0,1582666947,,"set background=light"
-:colorscheme solarized
-|2,0,1582666941,,"colorscheme solarized"
-:e test3.js
-|2,0,1582665180,,"e test3.js"
-:e test2.js
-|2,0,1582665031,,"e test2.js"
-:e ~/test*.js
-|2,0,1582664945,,"e ~/test*.js"
-:e ~/.config/i3/config
-|2,0,1582647954,,"e ~/.config/i3/config"
-:w ~/Dropbox/nvALT/2020-02-24_vss-review-notes.md
-|2,0,1582563950,,"w ~/Dropbox/nvALT/2020-02-24_vss-review-notes.md"
-:w 
-|2,0,1582563927,,"w "
-:.w
-|2,0,1582561493,,".w"
+|2,0,1584560289,,"e .env"
+:q!
+|2,0,1584556415,,"q!"
+:!date
+|2,0,1584543405,,"!date"
+:Start
+|2,0,1584543376,,"Start"
+:Goyo
+|2,0,1584500001,,"Goyo"
+:Limelight
+|2,0,1584494743,,"Limelight"
 
 # Search String History (newest to oldest):
+?/track
+|2,1,1584999533,47,"track"
 ? @$
-|2,1,1583171951,,"@$"
+|2,1,1584999481,,"@$"
+?/leader
+|2,1,1584999228,47,"leader"
+?/notation
+|2,1,1584999219,47,"notation"
+?/leader.*v
+|2,1,1584999207,47,"leader.*v"
 ??\a
-|2,1,1583171848,63,"\\a"
-?/color
-|2,1,1583013644,47,"color"
-?/yang
-|2,1,1583013643,47,"yang"
-??yin
-|2,1,1583013640,63,"yin"
-??slot
-|2,1,1583010175,63,"slot"
-??stat
-|2,1,1583009281,63,"stat"
-?/stic
-|2,1,1582905263,47,"stic"
-?/npm
-|2,1,1582909641,47,"npm"
-?/client
-|2,1,1582908271,47,"client"
-?/read
-|2,1,1582907810,47,"read"
-?/index
-|2,1,1582907757,47,"index"
-?/view
-|2,1,1582907430,47,"view"
-?/pol
-|2,1,1582907392,47,"pol"
-?/shiftre
-|2,1,1582907077,47,"shiftre"
-?/create
-|2,1,1582907064,47,"create"
-?/post
-|2,1,1582906977,47,"post"
-?/submit
-|2,1,1582906429,47,"submit"
-?/todo
-|2,1,1582906121,47,"todo"
-?/user
-|2,1,1582905906,47,"user"
-?/review
-|2,1,1582905856,47,"review"
-? user_review
-|2,1,1582905815,,"user_review"
-?/user_review
-|2,1,1582905806,47,"user_review"
-?/reviewable
-|2,1,1582910707,47,"reviewable"
-?/import
-|2,1,1582910683,47,"import"
-?/shiftreview
-|2,1,1582910681,47,"shiftreview"
-?/trade re
-|2,1,1582910672,47,"trade re"
-?/trade
-|2,1,1582910666,47,"trade"
-??shiftreview
-|2,1,1582910660,63,"shiftreview"
-?/then
-|2,1,1582910317,47,"then"
-?/anyRe
-|2,1,1582910240,47,"anyRe"
-?/canAu
-|2,1,1582910239,47,"canAu"
-?/contact
-|2,1,1582910151,47,"contact"
-?/sarnote
-|2,1,1582912702,47,"sarnote"
-?/notes
-|2,1,1582912681,47,"notes"
-??tab
-|2,1,1582912525,63,"tab"
-?/sarno
-|2,1,1582912518,47,"sarno"
-?/apifi
-|2,1,1582912105,47,"apifi"
-?/note
-|2,1,1582912062,47,"note"
-?/createNo
-|2,1,1582912058,47,"createNo"
-?/click
-|2,1,1582912053,47,"click"
-?/sar
-|2,1,1582912045,47,"sar"
-?/setup
-|2,1,1582911865,47,"setup"
-?/com
-|2,1,1582911853,47,"com"
-?/intern
-|2,1,1582911813,47,"intern"
-?/tab
-|2,1,1582911734,47,"tab"
-?/internal
-|2,1,1582911725,47,"internal"
-?/shifrt
-|2,1,1582917797,47,"shifrt"
-?/saractive
-|2,1,1582917739,47,"saractive"
-?/sara
-|2,1,1582917496,47,"sara"
-?/sarac
-|2,1,1582917477,47,"sarac"
-?/tabs
-|2,1,1582917442,47,"tabs"
-?/tab-item
-|2,1,1582917317,47,"tab-item"
-?/tab-itm
-|2,1,1582917315,47,"tab-itm"
-?/v-tab
-|2,1,1582917247,47,"v-tab"
-?/shiftHasPassed
-|2,1,1582916954,47,"shiftHasPassed"
-?/{{ shif
-|2,1,1582916838,47,"{{ shif"
-?/shift
-|2,1,1582916772,47,"shift"
-?/wrapp
-|2,1,1582916676,47,"wrapp"
-?/pick
-|2,1,1582916609,47,"pick"
-?/pickUp
-|2,1,1582916605,47,"pickUp"
-?/shif
-|2,1,1582916570,47,"shif"
-?/userId
-|2,1,1582916559,47,"userId"
-?/show
-|2,1,1582916538,47,"show"
-?/getShift
-|2,1,1582916524,47,"getShift"
-?/viewedShift
-|2,1,1582916490,47,"viewedShift"
-?/haveShift
-|2,1,1582916364,47,"haveShift"
-?/shiftInUser
-|2,1,1582916352,47,"shiftInUser"
-?/SAR
-|2,1,1582916044,47,"SAR"
-?/pdf
-|2,1,1582915674,47,"pdf"
-?/certifica
-|2,1,1582915622,47,"certifica"
-?/cer
-|2,1,1582915617,47,"cer"
-?/profile_picture
-|2,1,1582915305,47,"profile_picture"
-?/profile
-|2,1,1582915298,47,"profile"
-?/{{
-|2,1,1582993566,47,"{{"
-?/airl
-|2,1,1582995343,47,"airl"
-?/vimrc
-|2,1,1582995313,47,"vimrc"
-?/ntoe
-|2,1,1582911386,47,"ntoe"
-?/client notes
-|2,1,1582911356,47,"client notes"
-?/bonus
-|2,1,1582908876,47,"bonus"
-?/>>>>
-|2,1,1582908872,47,">>>>"
-?/>>>
-|2,1,1582908858,47,">>>"
-?/<<<
-|2,1,1582905074,47,"<<<"
-?/<>><<
-|2,1,1582905072,47,"<>><<"
-?/children
-|2,1,1582845448,47,"children"
-?/childrejk
-|2,1,1582845445,47,"childrejk"
-?/collection
-|2,1,1582845436,47,"collection"
-?/leave
-|2,1,1582845046,47,"leave"
-?/request
-|2,1,1582845033,47,"request"
-?/accom
-|2,1,1582845011,47,"accom"
-?/RequestLeave
-|2,1,1582844963,47,"RequestLeave"
-?/Request
-|2,1,1582844958,47,"Request"
-?/child
-|2,1,1582844892,47,"child"
-?/Leave
-|2,1,1582844878,47,"Leave"
-?/addAcc
-|2,1,1582844824,47,"addAcc"
-?/disp
-|2,1,1582844729,47,"disp"
-?/strco
-|2,1,1582844664,47,"strco"
-?/domainmodel
-|2,1,1582844578,47,"domainmodel"
-? \<ChildInformationUnknown\>
-|2,1,1582844380,,"\\<ChildInformationUnknown\\>"
-?/AccompanyingChild
-|2,1,1582844165,47,"AccompanyingChild"
-?/intakeDate
-|2,1,1582843849,47,"intakeDate"
-?/intakeDateMenu
-|2,1,1582843806,47,"intakeDateMenu"
-?/c
-|2,1,1582843503,47,"c"
-?/menu
-|2,1,1582843368,47,"menu"
-?/date
-|2,1,1582843272,47,"date"
-?/reset
-|2,1,1582843169,47,"reset"
-?/requestleave
-|2,1,1582842908,47,"requestleave"
-?/struct
-|2,1,1582842769,47,"struct"
-?/offenderAPI
-|2,1,1582842574,47,"offenderAPI"
-? \<user_review_params\>
-|2,1,1582660705,,"\\<user_review_params\\>"
-?//
-|2,1,1582660588,47,"/"
-?/reviewType
-|2,1,1582660576,47,"reviewType"
-?/clear
-|2,1,1582660537,47,"clear"
-??review
-|2,1,1582660266,63,"review"
-??refreshRe
-|2,1,1582659821,63,"refreshRe"
-?/save
-|2,1,1582659634,47,"save"
-?/setUserRe
-|2,1,1582659358,47,"setUserRe"
-?/setU
-|2,1,1582659310,47,"setU"
-?/setR
-|2,1,1582659305,47,"setR"
-?/mutation
-|2,1,1582659197,47,"mutation"
-?/getReview
-|2,1,1582659103,47,"getReview"
-??state
-|2,1,1582659083,63,"state"
-?/getRevi
-|2,1,1582658934,47,"getRevi"
-?/cancellable
-|2,1,1582577324,47,"cancellable"
-?/setdelet
-|2,1,1582669708,47,"setdelet"
-?/setDete
-|2,1,1582669705,47,"setDete"
-?/setDelete
-|2,1,1582669704,47,"setDelete"
-?/deletingResource
-|2,1,1582669697,47,"deletingResource"
-?/dialog
-|2,1,1582668997,47,"dialog"
-?/saveCerti
-|2,1,1582663573,47,"saveCerti"
-?/tag
-|2,1,1582823092,47,"tag"
-?/scrjkjkkjkj
-|2,1,1582840338,47,"scrjkjkkjkj"
-?/termgui
-|2,1,1582840317,47,"termgui"
-?/screen
-|2,1,1582840296,47,"screen"
-?/backgroundf
-|2,1,1582840279,47,"backgroundf"
-?/t_co
-|2,1,1582840272,47,"t_co"
-?/return
-|2,1,1582822080,47,"return"
-?/return true
-|2,1,1582822077,47,"return true"
-?/birthdate
-|2,1,1582821691,47,"birthdate"
-?/Acc
-|2,1,1582821559,47,"Acc"
-?/lkeave
-|2,1,1582821554,47,"lkeave"
-?/getacc
-|2,1,1582821490,47,"getacc"
-?/acc
-|2,1,1582821466,47,"acc"
-?/class
-|2,1,1582820995,47,"class"
-?/testdb
-|2,1,1582820878,47,"testdb"
-?/test
-|2,1,1582820851,47,"test"
-?/violent
-|2,1,1582820821,47,"violent"
-? \<GetAccompanyingChildrenForOffender\>
-|2,1,1582820408,,"\\<GetAccompanyingChildrenForOffender\\>"
-?/mother
-|2,1,1582820399,47,"mother"
-?/accomp
-|2,1,1582820331,47,"accomp"
-?/list.*dete
-|2,1,1582820306,47,"list.*dete"
-?/ListOffender
-|2,1,1582820299,47,"ListOffender"
-?/deten
-|2,1,1582820219,47,"deten"
-?/service
-|2,1,1582820048,47,"service"
-?/fetchAcc
-|2,1,1582819944,47,"fetchAcc"
-?/fetch
-|2,1,1582819932,47,"fetch"
-?/addincident
-|2,1,1582819851,47,"addincident"
-??jkkkjk<
-|2,1,1582819833,63,"jkkkjk<"
-? \<fetchAccompanyingChildren\>
-|2,1,1582819810,,"\\<fetchAccompanyingChildren\\>"
-?/computed
-|2,1,1582819280,47,"computed"
-?/data:
-|2,1,1582819278,47,"data:"
-?/accompanyingChildren
-|2,1,1582819275,47,"accompanyingChildren"
-?/details
-|2,1,1582819024,47,"details"
-?/scheduled
-|2,1,1582818929,47,"scheduled"
-?/facilitys
-|2,1,1582818887,47,"facilitys"
-?/fac
-|2,1,1582818883,47,"fac"
-?/offendername
-|2,1,1582818880,47,"offendername"
-?/leaves
-|2,1,1582818570,47,"leaves"
-?/addaccomp
-|2,1,1582818510,47,"addaccomp"
-?/addacc
-|2,1,1582818469,47,"addacc"
-?/canAdd
-|2,1,1582818288,47,"canAdd"
-? \<AccompanyingChildrenTable\>
-|2,1,1582817835,,"\\<AccompanyingChildrenTable\\>"
-?/compon
-|2,1,1582817765,47,"compon"
-?/Go
-|2,1,1582775074,47,"Go"
-?/rea
-|2,1,1582775073,47,"rea"
-?/go
-|2,1,1582775059,47,"go"
-?/normal
-|2,1,1582838664,47,"normal"
-?/notmal
-|2,1,1582838662,47,"notmal"
-??frame_
-|2,1,1582838624,63,"frame_"
-?/urgency_l
-|2,1,1582838440,47,"urgency_l"
-??%s
-|2,1,1582838412,63,"%s"
-?/theme
-|2,1,1582837631,47,"theme"
-?/airline
-|2,1,1582837621,47,"airline"
-?/time
-|2,1,1582827320,47,"time"
-?/block
-|2,1,1582826855,47,"block"
-?/sort
-|2,1,1582822941,47,"sort"
-?/flag
-|2,1,1582817334,47,"flag"
-?/classifi
-|2,1,1582817231,47,"classifi"
-?/moth
-|2,1,1582815729,47,"moth"
-?/classif
-|2,1,1582815426,47,"classif"
-?/ac2
-|2,1,1582813370,47,"ac2"
-?/ac
-|2,1,1582813182,47,"ac"
-?/update
-|2,1,1582812990,47,"update"
-?/nn
-|2,1,1582812989,47,"nn"
-?/hous
-|2,1,1582812884,47,"hous"
-?/1985
-|2,1,1582778177,47,"1985"
-?/rand
-|2,1,1582778103,47,"rand"
-?/birthDate
-|2,1,1582777961,47,"birthDate"
-?/makeTestPerson
-|2,1,1582777571,47,"makeTestPerson"
-?/ps
-|2,1,1582777403,47,"ps"
+|2,1,1584998845,63,"\\a"
 ?/zone
-|2,1,1582777400,47,"zone"
-??endedat
-|2,1,1582776633,63,"endedat"
-?/unix
-|2,1,1582776621,47,"unix"
-??done
-|2,1,1582775921,63,"done"
-?/mo
-|2,1,1582775772,47,"mo"
-?/test-server
-|2,1,1582775696,47,"test-server"
-?/timeout
-|2,1,1582814100,47,"timeout"
-?/geom
-|2,1,1582813987,47,"geom"
-?/mute
-|2,1,1582811693,47,"mute"
-?/bg-color
-|2,1,1582811050,47,"bg-color"
-?/backgr
-|2,1,1582811048,47,"backgr"
-?/lock
-|2,1,1582810788,47,"lock"
-?/spot
-|2,1,1582810784,47,"spot"
-?/pause
-|2,1,1582810697,47,"pause"
-?/dunst
-|2,1,1582810432,47,"dunst"
-??brack
-|2,1,1582776178,63,"brack"
-?/next
-|2,1,1582776169,47,"next"
-?/}
-|2,1,1582776153,47,"}"
-?/gaps
-|2,1,1582776145,47,"gaps"
-?/shift.*0
-|2,1,1582776088,47,"shift.*0"
-?/0
-|2,1,1582776077,47,"0"
-?/)
-|2,1,1582776038,47,")"
-?/paren
-|2,1,1582776036,47,"paren"
-?/pare
-|2,1,1582776024,47,"pare"
-?/swap
-|2,1,1582774208,47,"swap"
-?/interval
-|2,1,1582774120,47,"interval"
-?/volum
-|2,1,1582774112,47,"volum"
-?/i3
-|2,1,1582756468,47,"i3"
-?/ln
-|2,1,1582756402,47,"ln"
-?/context
-|2,1,1582755775,47,"context"
-?/action
-|2,1,1582755601,47,"action"
-?/exec
-|2,1,1582755314,47,"exec"
-?/noti/
-|2,1,1582755313,47,"noti/"
-?/push
-|2,1,1582755057,47,"push"
-?/fullscreen
-|2,1,1582755040,47,"fullscreen"
-??frame
-|2,1,1582754716,63,"frame"
-?/stat
-|2,1,1582754190,47,"stat"
-?/icon.*colo
-|2,1,1582753481,47,"icon.*colo"
-?/%s
-|2,1,1582753069,47,"%s"
-?/hello
-|2,1,1582753067,47,"hello"
-?/trans
-|2,1,1582752954,47,"trans"
-?/frame
-|2,1,1582752910,47,"frame"
-?/frme
-|2,1,1582752907,47,"frme"
-?/geome
-|2,1,1582752009,47,"geome"
-?/gemo
-|2,1,1582752007,47,"gemo"
-?/quiet
-|2,1,1582751999,47,"quiet"
-?/hide
-|2,1,1582751995,47,"hide"
-?/icon
-|2,1,1582751410,47,"icon"
-?/font
-|2,1,1582751310,47,"font"
-?/callout-color
-|2,1,1582751212,47,"callout-color"
-?/colors
-|2,1,1582751207,47,"colors"
-?/seconda
-|2,1,1582751205,47,"seconda"
-?/primary
-|2,1,1582751196,47,"primary"
-?/prim ary
-|2,1,1582751194,47,"prim ary"
-?/i
-|2,1,1582665038,47,"i"
-?/Ch
-|2,1,1582649357,47,"Ch"
-?/float
-|2,1,1582647958,47,"float"
-? \<shiftsOnDate\>
-|2,1,1582575456,,"\\<shiftsOnDate\\>"
-?/shiftsOnD
-|2,1,1582575447,47,"shiftsOnD"
-?/dateMap
-|2,1,1582575230,47,"dateMap"
-?/shiftCountOnDate
-|2,1,1582575218,47,"shiftCountOnDate"
-?/shifts
-|2,1,1582575159,47,"shifts"
-?/still expec
-|2,1,1582574986,47,"still expec"
-?/empl
-|2,1,1582574978,47,"empl"
-?/team
-|2,1,1582574903,47,"team"
-?/shiftinlist
-|2,1,1582574585,47,"shiftinlist"
-?/possible
-|2,1,1582565422,47,"possible"
-?/shiftToo
-|2,1,1582577046,47,"shiftToo"
-?/i under
-|2,1,1582576674,47,"i under"
-?/continue
-|2,1,1582576469,47,"continue"
-?/shiftTooSoon
-|2,1,1582576443,47,"shiftTooSoon"
-?/start
-|2,1,1582560885,47,"start"
+|2,1,1584980347,47,"zone"
+?/ig
+|2,1,1584980326,47,"ig"
+?/md5
+|2,1,1584573292,47,"md5"
+?/local
+|2,1,1584572912,47,"local"
+?/port
+|2,1,1584560290,47,"port"
+??made
+|2,1,1584499770,63,"made"
+??you
+|2,1,1584498966,63,"you"
+?/your
+|2,1,1584494906,47,"your"
 
 # Expression History (newest to oldest):
-=p
-|2,2,1582821873,,"p"
 
 # Input Line History (newest to oldest):
-@show.json.jbuilder
-|2,3,1582906660,,"show.json.jbuilder"
-@/home/vcavallo/code/vss-rails-vue/app/views/api/v1/shift_reviews
-|2,3,1582905934,,"/home/vcavallo/code/vss-rails-vue/app/views/api/v1/shift_reviews"
-@index.json.jbuilder
-|2,3,1582905901,,"index.json.jbuilder"
-@shift_review
-|2,3,1582905886,,"shift_review"
-@/home/vcavallo/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder
-|2,3,1582905796,,"/home/vcavallo/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder"
-@shift_reviews
-|2,3,1582905763,,"shift_reviews"
-@preto.vim
-|2,3,1582993772,,"preto.vim"
-@plain.vim
-|2,3,1582993748,,"plain.vim"
-@yin.vim
-|2,3,1582993711,,"yin.vim"
-@/home/vcavallo/.vim/colors/yang.vim
-|2,3,1582993699,,"/home/vcavallo/.vim/colors/yang.vim"
-@yang.vom
-|2,3,1582993692,,"yang.vom"
-@009 AccompanyingChildren.sql
-|2,3,1582821007,,"009 AccompanyingChildren.sql"
-@2020-02-27_15-00_AddMotherIncarceratedWithChildToClassifications.sql
-|2,3,1582817225,,"2020-02-27_15-00_AddMotherIncarceratedWithChildToClassifications.sql"
-@mothers-incarcerated-with-
-|2,3,1582815788,,"mothers-incarcerated-with-"
-@mothers-incarcerated-with-children.md
-|2,3,1582815652,,"mothers-incarcerated-with-children.md"
-@lock-with-dunst.sh
-|2,3,1582810417,,"lock-with-dunst.sh"
+@exniliox_2020-03-22_skinnydip-farm.md
+|2,3,1584933002,,"exniliox_2020-03-22_skinnydip-farm.md"
+@personalx_2020-03-23_thinkpad-trackpad.md
+|2,3,1584979777,,"personalx_2020-03-23_thinkpad-trackpad.md"
 
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
-	#
-|3,1,0,0,1,0,1583171952,"#"
+"0	LINE	0
+	installing xf86-input-mtrack
+	installed http://bitmath.org/code/mtdev/
+	installed xorg-dev
+	installed xorg-server-core ?
+	installed libmtdev1
+	installed libmtdev-dev, re-ran configure, re-ran make - working.
+|3,0,0,1,6,0,1584999596,"installing xf86-input-mtrack","installed http://bitmath.org/code/mtdev/","installed xorg-dev","installed xorg-server-core ?","installed libmtdev1","installed libmtdev-dev, re-ran configure, re-ran make - working."
 "1	LINE	0
-	.swp
-|3,0,1,1,1,0,1583171951,".swp"
+	- `ln -s ~/
+|3,0,1,1,1,0,1584999547,"- `ln -s ~/"
 "2	LINE	0
-	.netrwhist
-|3,0,2,1,1,0,1583171951,".netrwhist"
+	.wonderx_2015_bill-blass-production-setup.txt (YSLâ€™s MacBook Pro's conflicted copy 2015-12-08).swp
+|3,0,2,1,1,0,1584999481,".wonderx_2015_bill-blass-production-setup.txt (YSLâ€™s MacBook Pro's conflicted copy 2015-12-08).swp"
 "3	LINE	0
-	.gitmodules
-|3,0,3,1,1,0,1583171951,".gitmodules"
+	.testing-nv-vim.md.swp
+|3,0,3,1,1,0,1584999481,".testing-nv-vim.md.swp"
 "4	LINE	0
-	.git/
-|3,0,4,1,1,0,1583171951,".git/"
+	.running-listx_journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,4,1,1,0,1584999481,".running-listx_journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "5	LINE	0
-	../
-|3,0,5,1,1,0,1583171951,"../"
+	.running-listx_ideas.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,5,1,1,0,1584999481,".running-listx_ideas.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "6	LINE	0
-	./
-|3,0,6,1,1,0,1583171951,"./"
+	.running-listx_high-nonsense.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,6,1,1,0,1584999481,".running-listx_high-nonsense.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "7	LINE	0
-	
-|3,0,7,1,1,0,1583171951,""
+	.running-listx_favorite-albums.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,7,1,1,0,1584999481,".running-listx_favorite-albums.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "8	LINE	0
-	../
-|3,0,8,1,1,0,1583171853,"../"
+	.running-listx_code-development-programming-journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,8,1,1,0,1584999481,".running-listx_code-development-programming-journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "9	LINE	0
-	./
-|3,0,9,1,1,0,1583171853,"./"
-"q@	CHAR	0
-	veyA€ýa^ea: €ýaa"€ýabiax€kbc.€ýaea,€ýald$j^
-|3,2,26,0,1,0,1582844233,"veyA€ýa^ea: €ýaa\"€ýabiax€kbc.€ýaea,€ýald$j^"
-"v	CHAR	0
-	jj"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk
-|3,0,31,0,1,0,1582821048,"jj\"*pkkkddddddwwcwaccompanying_children€ýajbbbwwvs---jjjkk"
+	.running-listx_check-out.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
+|3,0,9,1,1,0,1584999481,".running-listx_check-out.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
 "-	CHAR	0
-	#
-|3,0,36,0,1,0,1583012541,"#"
+	intel
+|3,0,36,0,1,0,1584999569,"intel"
 
 # global variables:
 
 # File marks:
-'0  1  0  ~/.vim/README.md
-|4,48,1,0,1583172023,"~/.vim/README.md"
-'1  1  0  ~/.vim/README.md
-|4,49,1,0,1583171925,"~/.vim/README.md"
-'2  165  8  ~/Documents/cscie-28/lecture4.md
-|4,50,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
-'3  105  2  ~/.vimrc
-|4,51,105,2,1583013894,"~/.vimrc"
-'4  146  0  ~/Documents/cscie-28/lecture4.md
-|4,52,146,0,1583011502,"~/Documents/cscie-28/lecture4.md"
-'5  136  0  ~/Documents/cscie-28/lecture4.md
-|4,53,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
-'6  10  0  ~/Desktop/sticky.md
-|4,54,10,0,1582995400,"~/Desktop/sticky.md"
-'7  10  0  ~/Desktop/sticky.md
-|4,55,10,0,1582995400,"~/Desktop/sticky.md"
-'8  344  0  ~/code/jssp-af/Makefile
-|4,56,344,0,1582995375,"~/code/jssp-af/Makefile"
-'9  344  0  ~/code/jssp-af/Makefile
-|4,57,344,0,1582995375,"~/code/jssp-af/Makefile"
+'0  1  11  ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
+|4,48,1,11,1584999797,"~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md"
+'1  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
+|4,49,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
+'2  4  30  ~/scripts/nv
+|4,50,4,30,1584999461,"~/scripts/nv"
+'3  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,51,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+'4  86  16  ~/.vimrc
+|4,52,86,16,1584999325,"~/.vimrc"
+'5  65  59  ~/.vimrc
+|4,53,65,59,1584998979,"~/.vimrc"
+'6  65  59  ~/.vimrc
+|4,54,65,59,1584998979,"~/.vimrc"
+'7  17  0  ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
+|4,55,17,0,1584983930,"~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md"
+'8  1  0  ~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js
+|4,56,1,0,1584981358,"~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js"
+'9  16  0  ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
+|4,57,16,0,1584980366,"~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md"
 
 # Jumplist (newest first):
--'  1  0  ~/.vim/README.md
-|4,39,1,0,1583172023,"~/.vim/README.md"
--'  12  0  ~/.vim/README.md
-|4,39,12,0,1583172022,"~/.vim/README.md"
--'  14  0  ~/.vim/README.md
-|4,39,14,0,1583171994,"~/.vim/README.md"
--'  21  0  ~/.vim/README.md
-|4,39,21,0,1583171994,"~/.vim/README.md"
--'  23  0  ~/.vim/README.md
-|4,39,23,0,1583171993,"~/.vim/README.md"
--'  25  0  ~/.vim/README.md
-|4,39,25,0,1583171972,"~/.vim/README.md"
--'  27  0  ~/.vim/README.md
-|4,39,27,0,1583171972,"~/.vim/README.md"
--'  13  0  ~/.vim/README.md
-|4,39,13,0,1583171970,"~/.vim/README.md"
--'  1  0  ~/.vim
-|4,39,1,0,1583171951,"~/.vim"
--'  1  0  ~/.vim/README.md
-|4,39,1,0,1583171925,"~/.vim/README.md"
--'  1  0  ~/.vim
-|4,39,1,0,1583171839,"~/.vim"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1583171775,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1583171775,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1583171775,"~/code/vss-rails-vue"
--'  1  0  ~/code/vss-rails-vue
-|4,39,1,0,1583171775,"~/code/vss-rails-vue"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  165  8  ~/Documents/cscie-28/lecture4.md
-|4,39,165,8,1583170909,"~/Documents/cscie-28/lecture4.md"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  105  2  ~/.vimrc
-|4,39,105,2,1583013894,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  363  29  ~/.vimrc
-|4,39,363,29,1583013777,"~/.vimrc"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  1  0  ~/Documents/cscie-28/project2
-|4,39,1,0,1583013553,"~/Documents/cscie-28/project2"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  163  0  ~/Documents/cscie-28/lecture4.md
-|4,39,163,0,1583012365,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  150  0  ~/Documents/cscie-28/lecture4.md
-|4,39,150,0,1583011967,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  146  0  ~/Documents/cscie-28/lecture4.md
-|4,39,146,0,1583011517,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
--'  136  0  ~/Documents/cscie-28/lecture4.md
-|4,39,136,0,1583011502,"~/Documents/cscie-28/lecture4.md"
+-'  1  11  ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
+|4,39,1,11,1584999797,"~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md"
+-'  143  0  ~/dotfiles/readme.md
+|4,39,143,0,1584999594,"~/dotfiles/readme.md"
+-'  145  0  ~/dotfiles/readme.md
+|4,39,145,0,1584999590,"~/dotfiles/readme.md"
+-'  148  24  ~/dotfiles/readme.md
+|4,39,148,24,1584999590,"~/dotfiles/readme.md"
+-'  150  70  ~/dotfiles/readme.md
+|4,39,150,70,1584999578,"~/dotfiles/readme.md"
+-'  23  0  ~/dotfiles/readme.md
+|4,39,23,0,1584999533,"~/dotfiles/readme.md"
+-'  1  0  ~/dotfiles/readme.md
+|4,39,1,0,1584999528,"~/dotfiles/readme.md"
+-'  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
+|4,39,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
+-'  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
+|4,39,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  4  30  ~/scripts/nv
+|4,39,4,30,1584999461,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  3  0  ~/scripts/nv
+|4,39,3,0,1584999439,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  1  0  ~/scripts/nv
+|4,39,1,0,1584999425,"~/scripts/nv"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
+|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
 
 # History of marks within files (newest to oldest):
 
-> ~/.vim/README.md
-	*	1583172022	0
-	"	1	0
+> ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
+	*	1584999795	0
+	"	1	11
+	^	6	64
+	.	6	63
+	+	2	40
+	+	4	27
+	+	6	63
 
-> ~/Smyck-Color-Scheme/README.md
-	*	1583171882	0
-	"	15	0
+> ~/dotfiles/readme.md
+	*	1584999794	0
+	"	154	106
+	^	144	472
+	.	144	373
+	+	149	10
+	+	147	9
+	+	146	9
+	+	148	62
+	+	150	0
+	+	143	0
+	+	144	471
+	+	144	373
 
-> ~/Documents/cscie-28/lecture4.md
-	*	1583170907	0
-	"	165	8
-	^	176	4
-	.	176	3
-	+	105	0
-	+	106	0
-	+	107	19
-	+	120	0
-	+	115	14
-	+	118	14
-	+	120	0
-	+	100	44
-	+	119	35
-	+	117	13
-	+	114	13
-	+	119	12
-	+	114	14
-	+	113	0
-	+	114	0
-	+	119	34
-	+	107	27
-	+	101	81
-	+	119	34
-	+	108	33
-	+	131	0
-	+	121	79
-	+	122	14
-	+	115	10
-	+	100	37
-	+	119	53
-	+	100	1
-	+	101	1
-	+	99	0
-	+	85	0
-	+	102	47
-	+	101	89
-	+	102	83
-	+	103	76
-	+	102	150
-	+	101	101
-	+	103	143
-	+	93	66
-	+	95	150
-	+	96	71
-	+	139	4
-	+	139	36
-	+	139	0
-	+	98	6
-	+	95	11
-	+	94	0
-	+	88	54
-	+	141	11
-	+	142	7
-	+	142	6
-	+	144	25
-	+	143	63
-	+	145	30
-	+	145	67
-	+	147	0
-	+	145	75
-	+	139	0
-	+	137	2
-	+	150	0
-	+	129	2
-	+	128	7
-	+	129	6
-	+	128	6
-	+	130	6
-	+	133	59
-	+	134	0
-	+	150	0
-	+	152	81
-	+	155	66
-	+	158	16
-	+	164	25
-	+	165	23
-	+	164	32
-	+	165	7
-	+	166	15
-	+	164	19
-	+	165	8
-	+	166	38
-	+	164	30
-	+	166	19
-	+	170	29
-	+	172	32
-	+	174	0
-	+	173	5
-	+	174	0
-	+	161	59
-	+	163	103
-	+	163	0
-	+	178	32
-	+	180	0
-	+	179	43
-	+	181	23
-	+	178	73
-	+	179	56
-	+	181	55
-	+	182	2
-	+	175	0
-	+	177	1
-	+	162	74
-	+	176	3
+> ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
+	*	1584999489	0
+	"	1	4
+
+> ~/scripts/nv
+	*	1584999458	0
+	"	4	30
+	^	4	31
+	.	4	30
+	+	4	25
+	+	4	0
+	+	2	67
+	+	4	30
+
+> ~/Dropbox/wiki/notes/Notes.markdown
+	*	1584999333	0
+	"	193	0
 
 > ~/.vimrc
-	*	1583013650	0
-	"	114	5
-	^	363	30
-	.	363	29
-	+	55	18
-	+	57	14
-	+	46	63
-	+	56	27
-	+	362	28
-	+	374	1
-	+	353	0
-	+	107	17
-	+	108	15
-	+	107	1
-	+	362	2
-	+	363	29
+	*	1584999324	0
+	"	86	16
+	^	66	27
+	.	66	26
+	+	67	0
+	+	65	79
+	+	66	82
+	+	66	26
 
-> ~/reading.md
-	*	1582995726	0
+> ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
+	*	1584983927	0
+	"	17	0
+	^	17	0
+	.	17	0
+	+	8	42
+	+	15	75
+	+	15	0
+	+	16	72
+	+	10	49
+	+	8	104
+	+	17	0
+
+> ~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js
+	*	1584981356	0
 	"	1	0
+
+> ~/dotfiles/40-libinput.conf
+	*	1584980363	0
+	"	39	20
+	.	45	0
+	+	45	0
+
+> ~/dotfiles/50-mtrack.conf
+	*	1584980349	0
+	"	20	10
 	.	1	0
 	+	1	0
 
-> ~/xclip
-	*	1582995719	0
-	"	1	0
+> ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
+	*	1584980167	0
+	"	244	34
+	^	244	43
+	.	244	0
+	+	199	12
+	+	200	0
+	+	201	7
+	+	203	19
+	+	205	11
+	+	203	31
+	+	207	27
+	+	211	100
+	+	212	0
+	+	211	102
+	+	212	106
+	+	214	99
+	+	215	0
+	+	225	37
+	+	226	9
+	+	228	106
+	+	230	99
+	+	230	36
+	+	232	94
+	+	235	74
+	+	233	104
+	+	239	5
+	+	241	8
+	+	242	47
+	+	246	24
+	+	244	27
+	+	243	0
+	+	244	31
+	+	246	100
+	+	247	62
+	+	248	0
+	+	247	62
+	+	244	0
 
-> ~/time.txt
-	*	1582995717	0
-	"	1	0
+> /etc/postgresql/10/main/pg_hba.conf
+	*	1584573324	0
+	"	90	67
+	^	90	68
+	.	90	67
+	+	90	67
 
-> ~/package.json
-	*	1582995714	0
-	"	1	0
+> ~/Dropbox/nvALT/exniliox_2020-03-11_ldx-notes.md
+	*	1584564503	0
+	"	35	41
+	^	35	42
+	.	35	41
+	+	24	18
+	+	28	35
+	+	31	16
+	+	31	0
+	+	32	0
+	+	33	45
+	+	31	84
+	+	31	0
+	+	31	114
+	+	35	0
+	+	32	0
+	+	31	0
+	+	31	108
+	+	32	0
+	+	35	0
+	+	32	0
+	+	35	0
+	+	30	16
+	+	26	5
+	+	26	57
+	+	26	28
+	+	27	0
+	+	35	41
 
 > ~/code/jssp-af/Makefile
-	*	1582995375	0
-	"	344	0
+	*	1584560293	0
+	"	1	0
 
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/sar-notes.vue
-	*	1582995363	0
-	"	4	42
-	^	4	43
-	.	4	42
-	+	83	0
-	+	76	17
-	+	54	0
-	+	58	0
-	+	46	0
-	+	34	0
-	+	33	0
-	+	48	0
-	+	5	0
-	+	33	0
-	+	36	0
-	+	49	0
-	+	47	0
-	+	4	42
+> ~/code/jssp-af/.env
+	*	1584560291	0
+	"	9	9
 
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-boh.vue
-	*	1582995363	0
-	"	728	4
-	^	595	0
-	.	728	0
-	+	594	0
-	+	596	0
-	+	595	0
-	+	611	0
-	+	665	0
-	+	660	0
-	+	678	0
-	+	728	0
-
-> ~/code/vss-rails-vue/app/policies/shift_review_policy.rb
-	*	1582995363	0
-	"	33	4
-	^	32	0
-	.	32	0
-	+	1	16
-	+	9	0
-	+	11	0
-	+	16	22
-	+	16	60
-	+	16	23
-	+	24	0
-	+	16	26
-	+	16	38
-	+	16	61
-	+	23	0
-	+	23	76
+> ~/Dropbox/nvALT/personalx_2020-03-17_quarantine-coronavirus.md
+	*	1584500006	0
+	"	1	0
+	^	17	4
+	.	1	0
+	+	17	123
+	+	19	294
+	+	19	191
+	+	19	345
+	+	19	184
+	+	20	111
 	+	26	0
-	+	35	0
-	+	36	0
-	+	35	0
-	+	36	4
-	+	8	5
-	+	36	0
-	+	10	10
-	+	16	0
-	+	16	18
-	+	16	0
-	+	16	68
-	+	16	0
-	+	18	0
-	+	16	17
-	+	17	51
-	+	18	0
-	+	23	0
-	+	15	0
-	+	23	63
-	+	22	37
-	+	23	0
-	+	20	78
-	+	23	0
-	+	22	45
-	+	22	44
-	+	22	0
-	+	16	18
-	+	35	0
-	+	29	16
-	+	35	39
-	+	31	0
-	+	35	0
-	+	31	15
-	+	34	50
-	+	31	0
-	+	34	63
-	+	35	0
-	+	33	51
-	+	33	14
-	+	31	62
-	+	33	0
-	+	32	0
-
-> ~/.config/i3/config
-	*	1582995318	0
-	"	260	28
-	^	143	57
-	.	143	58
-	+	72	24
-	+	71	0
-	+	71	24
-	+	31	0
-	+	34	74
-	+	355	0
-	+	354	0
-	+	355	26
-	+	213	30
-	+	212	29
-	+	212	37
-	+	213	32
-	+	213	0
-	+	212	30
-	+	214	0
-	+	144	0
-	+	34	0
-	+	34	24
-	+	30	45
-	+	143	58
-	u	260	28
-
-> ~/code/vss-rails-vue/app/javascript/src/components/reports/all-time-ordered-tile.vue
-	*	1582995307	0
-	"	153	0
-	^	153	0
-	.	153	0
-	+	153	0
-
-> ~/code/vss-rails-vue/app/models/client_business.rb
-	*	1582993902	0
-	"	60	0
-
-> ~/.vim/colors/preto.vim
-	*	1582993783	0
-	"	137	0
-	.	1	0
-	+	1	0
-
-> ~/.vim/colors/plain.vim
-	*	1582993770	0
-	"	20	0
-	.	1	0
-	+	1	0
-
-> ~/.vim/colors/yang.vim
-	*	1582993743	0
-	"	29	38
-
-> ~/.vim/colors/yin.vim
-	*	1582993713	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/.vim/colors/yang.vom
-	*	1582993696	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/profile/employee-profile.vue
-	*	1582993560	0
-	"	36	8
-
-> ~/code/vss-rails-vue/app/models/user_shift_note.rb
-	*	1582993528	0
-	"	4	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/hr/employee-detail-for-client.vue
-	*	1582917198	0
-	"	75	10
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-wrapper.vue
-	*	1582916832	0
-	"	53	2
-	.	3	0
-	+	3	0
-
-> ~/code/vss-rails-vue/app/controllers/api/v1/shifts_controller.rb
-	*	1582916627	0
-	"	180	30
-	^	1	3
-	.	1	0
-	+	1	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/shifts/show.json.jbuilder
-	*	1582916627	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/shifts/for_user.json.jbuilder
-	*	1582916580	0
-	"	3	0
-
-> ~/code/vss-rails-vue/app/views/shifts/_shift.json.jbuilder
-	*	1582916559	0
-	"	38	5
-
-> ~/code/vss-rails-vue/app/javascript/src/api/shift.js
-	*	1582916534	0
-	"	89	2
-
-> ~/code/vss-rails-vue/app/javascript/src/store/modules/shifts.js
-	*	1582916515	0
-	"	124	15
-
-> ~/code/vss-rails-vue/app/views/employees/_employee.json.jbuilder
-	*	1582916027	0
-	"	25	0
-
-> ~/code/vss-rails-vue/app/uploaders/pdf_uploader.rb
-	*	1582915680	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/models/concerns/internal_notable.rb
-	*	1582915667	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/models/concerns/attachable.rb
-	*	1582915664	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/models/certification.rb
-	*	1582915660	0
-	"	37	0
-
-> ~/code/vss-rails-vue/db/migrate/20190429193444_add_profile_picture_to_user.rb
-	*	1582915618	0
-	"	3	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-employee.vue
-	*	1582912703	0
-	"	253	7
-	^	266	13
-	.	326	0
-	+	225	0
-	+	228	12
-	+	234	40
-	+	253	32
-	+	266	12
-	+	114	0
-	+	274	0
-	+	327	0
-	+	239	0
-	+	326	0
-
-> ~/code/vss-rails-vue/app/models/shift.rb
-	*	1582911559	0
-	"	624	15
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-manager.vue
-	*	1582910708	0
-	"	600	0
-	^	450	0
-	.	557	0
-	+	451	0
-	+	450	0
-	+	600	0
-	+	548	0
-	+	557	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-detail-client.vue
-	*	1582910212	0
-	"	453	9
-
-> ~/code/vss-rails-vue/.git/COMMIT_EDITMSG
-	*	1582908882	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/dashboard/shift-item.vue
-	*	1582908876	0
-	"	78	11
-	.	78	0
-	+	78	0
-	+	63	0
-	+	62	0
-	+	81	0
-	+	78	0
-
-> ~/code/vss-rails-vue/db/schema.rb
-	*	1582908848	0
-	"	14	0
-	.	14	0
-	+	13	0
-	+	14	0
-
-> ~/Desktop/sticky.md
-	*	1582908773	0
-	"	10	0
-	^	5	26
-	.	46	0
-	+	10	3
 	+	10	0
-	+	40	0
-	+	16	0
-	+	42	0
-	+	28	126
-	+	28	115
-	+	28	0
-	+	27	78
-	+	5	25
-	+	11	0
-	+	9	0
-	+	27	0
-	+	46	0
-
-> ~/code/vss-rails-vue/app/controllers/api/v1/shift_reviews_controller.rb
-	*	1582908348	0
-	"	10	8
-	^	8	40
-	.	6	0
-	+	15	68
-	+	18	0
-	+	14	10
-	+	18	0
+	+	26	0
+	+	26	291
+	+	17	456
 	+	19	0
-	+	20	0
-	+	6	47
-	+	6	0
-	+	10	0
-	+	6	15
-	+	10	22
-	+	26	42
-	+	21	14
-	+	27	0
-	+	25	23
-	+	15	8
-	+	17	0
-	+	16	16
-	+	20	0
-	+	23	0
-	+	24	0
-	+	22	0
-	+	23	73
-	+	8	0
-	+	7	0
-	+	9	0
-	+	8	39
-	+	20	0
-	+	6	0
-
-> ~/code/vss-rails-vue/app/controllers/api/v1/shift_trade_controller.rb
-	*	1582907793	0
-	"	8	0
-
-> ~/code/vss-rails-vue/app/policies/shift_policy.rb
-	*	1582907793	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/javascript/src/api/shiftReview.js
-	*	1582907792	0
-	"	5	8
-	^	6	43
-	.	6	42
-	+	6	42
-
-> ~/code/vss-rails-vue/app/javascript/src/store/modules/shift-reviews.js
-	*	1582907790	0
-	"	23	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/shift_reviews/show.json.jbuilder
-	*	1582907789	0
-	"	1	0
-	^	1	71
-	.	2	0
-	+	1	0
-	+	2	0
-	+	1	70
-	+	2	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/user_reviews/show.json.jbuilder
-	*	1582907789	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/shift_reviews/index.json.jbuilder
-	*	1582907788	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/shift_review/index.json.jbuilder
-	*	1582907787	0
-	"	1	0
-	^	1	77
-	.	1	76
-	+	1	76
-
-> ~/code/vss-rails-vue/app/controllers/api/v1/shift_notes_controller.rb
-	*	1582907787	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/pick-up-button.vue
-	*	1582907787	0
-	"	93	0
-
-> ~/code/vss-rails-vue/app/views/shift_reviews/_shift_review.json.jbuilder
-	*	1582907785	0
-	"	8	0
-	^	8	34
-	.	9	0
-	+	6	0
-	+	1	0
-	+	9	0
-	+	8	33
-	+	9	0
-
-> ~/code/vss-rails-vue/app/views/api/v1/user_reviews/index.json.jbuilder
-	*	1582907785	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/policies/coordinated_coverage_request_policy.rb
-	*	1582907776	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/policies/employee_policy.rb
-	*	1582907752	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/policies/internal_note_policy.rb
-	*	1582907748	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/policies/manager_policy.rb
-	*	1582907746	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/models/user.rb
-	*	1582907741	0
-	"	67	2
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/shift-review.vue
-	*	1582907058	0
-	"	100	13
-	^	25	14
-	.	25	13
-	+	43	0
-	+	43	34
-	+	57	0
-	+	43	0
-	+	42	0
-	+	41	38
-	+	53	21
-	+	53	0
-	+	51	35
-	+	52	47
-	+	54	36
-	+	53	0
-	+	52	66
-	+	51	36
-	+	54	34
-	+	4	30
-	+	30	37
-	+	30	0
-	+	21	21
-	+	33	18
-	+	30	0
-	+	21	0
-	+	22	17
-	+	32	11
-	+	30	0
+	+	27	28
+	+	27	116
+	+	29	134
+	+	29	49
 	+	22	44
-	+	21	0
+	+	29	240
+	+	31	2
+	+	27	118
+	+	31	138
+	+	31	53
+	+	33	210
+	+	33	15
+	+	33	474
+	+	26	48
+	+	27	75
+	+	22	381
 	+	22	0
-	+	22	17
-	+	21	43
-	+	22	0
-	+	22	31
-	+	22	0
-	+	24	0
-	+	22	0
-	+	23	16
-	+	28	0
-	+	29	0
-	+	31	13
-	+	28	13
-	+	30	0
-	+	24	0
-	+	23	0
-	+	24	0
-	+	27	85
-	+	25	0
+	+	23	224
 	+	26	0
-	+	25	13
-
-> ~/Desktop/st
-	*	1582905260	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/components/offender/housing/AccompanyingChildrenTable.vue
-	*	1582845480	0
-	"	112	6
-	^	112	67
-	.	112	0
-	+	4	46
-	+	114	0
-	+	5	16
-	+	6	26
-	+	7	31
-	+	8	36
-	+	17	40
-	+	21	0
-	+	7	29
-	+	85	23
-	+	86	0
-	+	110	0
-	+	115	0
-	+	118	57
-	+	120	36
-	+	123	53
-	+	127	0
-	+	129	0
-	+	130	0
-	+	129	23
-	+	66	0
-	+	67	0
-	+	66	67
-	+	129	29
-	+	7	34
-	+	66	0
-	+	64	0
-	+	74	0
-	+	29	0
-	+	28	46
-	+	33	64
-	+	34	31
-	+	35	0
-	+	37	37
-	+	38	63
-	+	39	0
-	+	40	0
-	+	43	57
-	+	44	41
-	+	46	0
-	+	52	0
-	+	53	0
-	+	33	39
-	+	113	5
-	+	113	15
-	+	112	20
-	+	110	0
-	+	64	67
-	+	114	0
-	+	75	22
-	+	77	0
-	+	76	0
-	+	112	66
-	+	113	0
-	+	112	0
-
-> ~/code/jssp-af/web/src/components/offender/housing/AddAccompanyingChildDialog.vue
-	*	1582845446	0
-	"	142	4
-	^	173	40
-	.	173	39
-	+	194	0
-	+	191	0
-	+	169	13
-	+	192	0
-	+	38	0
-	+	38	56
-	+	38	0
-	+	92	30
-	+	92	31
-	+	92	52
-	+	126	10
-	+	160	15
-	+	126	0
-	+	129	0
-	+	119	0
-	+	117	2
-	+	157	52
-	+	38	65
-	+	38	54
-	+	38	17
-	+	168	15
-	+	169	16
-	+	180	9
-	+	179	11
-	+	190	9
-	+	182	59
-	+	183	0
-	+	184	54
-	+	186	56
-	+	191	8
-	+	191	0
-	+	189	0
-	+	123	14
-	+	152	0
-	+	156	20
-	+	110	0
-	+	109	0
-	+	172	40
-	+	174	27
-	+	178	65
-	+	159	26
-	+	153	0
-	+	154	63
-	+	159	34
-	+	125	20
-	+	130	0
-	+	127	36
-	+	161	41
-	+	188	22
-	+	92	0
-	+	38	0
-	+	15	37
-	+	39	0
-	+	45	0
-	+	38	0
-	+	40	0
-	+	38	0
-	+	16	0
-	+	38	0
-	+	17	40
-	+	26	40
-	+	27	61
-	+	34	38
-	+	35	41
-	+	128	16
-	+	128	19
-	+	46	19
-	+	47	13
-	+	54	0
-	+	53	0
-	+	48	0
-	+	49	0
-	+	50	31
-	+	51	52
-	+	49	23
-	+	39	35
-	+	48	36
-	+	84	0
-	+	91	0
-	+	84	13
-	+	85	37
-	+	90	0
-	+	86	27
-	+	87	50
-	+	88	68
-	+	89	0
-	+	92	0
-	+	55	13
-	+	14	0
-	+	13	24
-	+	57	0
-	+	82	0
-	+	57	0
-	+	56	23
-	+	57	0
-	+	92	0
-	+	83	0
-	+	84	0
-	+	173	39
-	s	173	12
-
-> ~/code/jssp-af/internal/offender/mother-child-concern.go
-	*	1582845395	0
-	"	86	0
-	^	85	33
-	.	85	32
-	+	99	0
-	+	66	0
-	+	69	34
-	+	77	0
-	+	70	34
-	+	71	0
-	+	72	0
-	+	71	46
-	+	72	23
-	+	73	33
-	+	74	59
-	+	75	25
-	+	76	61
-	+	71	23
-	+	72	1
-	+	73	1
-	+	74	1
-	+	75	0
-	+	73	22
-	+	74	27
-	+	75	12
-	+	76	28
-	+	99	0
-	+	68	26
-	+	99	0
-	+	98	0
-	+	78	0
-	+	79	0
-	+	80	29
-	+	86	23
-	+	88	27
-	+	89	15
-	+	90	25
-	+	91	51
-	+	92	17
-	+	93	53
-	+	87	28
-	+	94	0
-	+	95	42
-	+	96	30
-	+	10	0
-	+	81	54
-	+	93	0
-	+	88	0
-	+	80	10
-	+	88	0
-	+	57	0
-	+	56	0
-	+	58	25
-	+	59	25
-	+	63	25
-	+	64	22
-	+	6	0
-	+	88	0
-	+	71	25
-	+	87	0
-	+	83	47
-	+	85	0
-	+	84	0
-	+	85	32
-
-> ~/code/jssp-af/cmd/cms/offenderservice/offenderservice_test.go
-	*	1582845306	0
-	"	65	8
-	^	67	14
-	.	67	14
-	+	50	0
-	+	51	40
-	+	54	74
-	+	70	0
-	+	70	3
-	+	70	0
-	+	62	0
-	+	60	0
-	+	59	0
-	+	62	0
-	+	61	3
-	+	62	3
-	+	61	80
-	+	62	0
-	+	61	75
-	+	62	80
-	+	62	0
-	+	64	0
-	+	63	0
-	+	64	36
-	+	65	9
-	+	68	0
-	+	67	31
-	+	67	14
-	a	58	0
-
-> ~/code/jssp-af/cmd/cms/offenderservice/offenderservice.go
-	*	1582845000	0
-	"	66	70
-	^	89	108
-	.	89	107
-	+	88	0
-	+	90	0
-	+	88	88
-	+	319	0
-	+	318	0
-	+	319	14
-	+	88	73
-	+	320	34
-	+	321	58
-	+	327	23
-	+	89	107
-
-> ~/code/jssp-af/internal/offender/mother-child-concern_test.go
-	*	1582844853	0
-	"	59	9
-	^	63	57
-	.	63	56
-	+	1	0
-	+	45	111
-	+	46	0
-	+	47	0
-	+	46	0
-	+	43	0
-	+	46	71
-	+	47	41
-	+	47	0
-	+	56	0
-	+	51	15
-	+	81	0
-	+	80	0
-	+	81	49
-	+	83	0
-	+	45	0
-	+	44	0
-	+	45	8
-	+	92	74
-	+	96	9
-	+	56	4
-	+	79	0
-	+	45	0
-	+	24	48
-	+	27	36
-	+	6	0
-	+	24	0
-	+	45	0
-	+	39	0
 	+	11	0
-	+	6	0
+	+	15	230
+	+	17	112
+	+	17	334
+	+	17	472
+	+	19	149
+	+	22	0
+	+	25	35
+	+	3	386
+	+	4	372
+	+	6	165
+	+	8	2
+	+	10	68
+	+	10	252
+	+	17	3
 	+	1	0
-	+	45	0
-	+	86	45
-	+	56	0
-	+	70	86
-	+	71	0
-	+	70	4
-	+	79	0
-	+	56	3
-	+	70	1
-	+	52	0
-	+	71	0
-	+	69	0
-	+	79	0
-	+	71	0
-	+	69	0
-	+	60	4
-	+	65	0
-	+	61	27
-	+	65	0
-	+	68	0
-	+	65	0
-	+	67	0
-	+	65	0
-	+	64	29
-	+	70	72
-	+	71	1
-	+	79	0
-	+	71	0
-	+	70	0
-	+	56	3
-	+	56	75
-	+	56	0
-	+	58	0
-	+	56	10
-	+	60	3
-	+	70	74
-	+	56	11
-	+	73	80
-	+	79	0
-	+	74	0
-	+	76	20
-	+	60	0
-	+	77	26
-	+	79	0
-	+	56	76
-	+	76	30
-	+	77	36
-	+	76	25
-	+	60	0
-	+	62	0
-	+	62	33
-	+	78	35
-	+	56	0
-	+	53	22
-	+	56	0
-	+	53	22
-	+	56	0
-	+	54	0
-	+	55	58
-	+	59	16
-	+	63	56
-
-> ~/code/jssp-af/internal/offender/leave.go
-	*	1582844665	0
-	"	7	2
-	^	102	0
-	.	102	0
-	+	102	0
-
-> ~/code/jssp-af/web/src/views/crime/CrimeForm.vue
-	*	1582843554	0
-	"	259	0
-
-> ~/code/jssp-af/web/src/components/offender/housing/TransferBackfillDialog.vue
-	*	1582843503	0
-	"	116	15
-
-> ~/code/jssp-af/web/src/components/offender/programs/EndOffenderProgramDialog.vue
-	*	1582842694	0
-	"	105	0
-
-> ~/.falcon-tmux.conf
-	*	1582840771	0
-	"	3	0
-
-> ~/.tmux.conf
-	*	1582840470	0
-	"	3	0
-	^	156	2
-	.	156	1
-	+	156	1
-
-> /.vimrc
-	*	1582840433	0
-	"	1	0
-
-> ~/code/vss-rails-vue/app/javascript/src/components/calendar/client-cancel-shift-button.vue
-	*	1582840402	0
-	"	186	9
-	^	183	36
-	.	183	35
-	+	3	0
-	+	3	35
-	+	3	15
-	+	115	0
-	+	170	9
-	+	170	36
-	+	170	0
-	+	169	16
-	+	170	0
-	+	171	0
-	+	166	29
-	+	167	34
-	+	168	87
-	+	179	35
-	+	158	26
-	+	52	65
-	+	52	0
-	+	41	25
-	+	26	15
-	+	76	0
-	+	58	0
-	+	57	0
-	+	59	0
-	+	61	37
-	+	63	16
-	+	73	16
-	+	71	0
-	+	75	0
-	+	71	0
-	+	2	30
-	+	138	19
-	+	138	0
-	+	136	0
-	+	137	41
-	+	138	0
-	+	139	0
-	+	137	23
-	+	183	35
-
-> ~/code/jssp-af/internal/offender/mother-child-concern.g
-	*	1582840222	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/views/offender/OffenderHousing.vue
-	*	1582840130	0
-	"	46	2
-	^	51	65
-	.	51	64
-	+	8	0
-	+	6	16
-	+	7	33
-	+	24	82
-	+	67	0
-	+	66	0
-	+	67	0
-	+	66	28
-	+	24	31
-	+	52	17
-	+	50	29
-	+	51	64
-
-> ~/.config/dunst/dunstrc
-	*	1582840125	0
-	"	63	4
-	^	327	25
-	.	327	24
-	+	104	18
-	+	144	20
-	+	153	26
-	+	178	24
-	+	189	79
-	+	236	20
-	+	281	11
-	+	290	24
-	+	284	5
-	+	32	24
-	+	49	27
-	+	86	26
-	+	104	18
-	+	140	17
-	+	144	19
-	+	66	0
-	+	77	0
-	+	67	0
-	+	76	4
-	+	295	0
-	+	303	0
-	+	308	18
-	+	309	18
-	+	312	15
-	+	308	18
-	+	317	18
-	+	308	25
-	+	318	0
-	+	321	15
-	+	317	19
-	+	308	19
-	+	78	20
-	+	64	18
-	+	44	19
-	+	140	43
-	+	189	93
-	+	183	21
-	+	189	92
-	+	183	20
-	+	186	21
-	+	189	92
-	+	308	24
-	+	309	0
-	+	308	0
-	+	309	25
-	+	308	0
-	+	317	18
-	+	318	18
-	+	326	18
-	+	311	0
-	+	320	0
-	+	328	19
-	+	311	0
-	+	320	0
-	+	311	19
-	+	308	18
-	+	317	18
-	+	400	0
-	+	398	0
-	+	399	0
-	+	396	0
-	+	397	24
-	+	311	24
-	+	320	0
-	+	397	0
-	+	330	0
-	+	329	0
-	+	32	26
-	+	312	15
-	+	321	15
-	+	312	14
-	+	321	15
-	+	326	0
-	+	317	19
-	+	317	18
-	+	308	18
-	+	311	25
-	+	309	24
-	+	308	24
-	+	309	24
-	+	328	25
-	+	317	24
-	+	140	38
-	+	78	0
-	+	318	18
-	+	317	18
-	+	327	18
-	+	311	25
-	+	320	25
-	+	78	0
-	+	317	24
-	+	311	25
-	+	326	24
-	+	320	0
-	+	311	0
-	+	320	0
-	+	304	0
-	+	326	18
-	+	327	24
-
-> /tmp/bash-fc.GvSypA
-	*	1582839758	0
-	"	1	0
-
-> ~/.config/i3/i3blocks.conf
-	*	1582827526	0
-	"	108	8
-	^	108	9
-	.	108	8
-	+	102	0
-	+	103	0
-	+	104	0
-	+	105	0
-	+	65	9
-	+	105	0
-	+	76	0
-	+	31	36
-	+	31	9
-	+	31	8
-	+	31	0
-	+	107	0
-	+	111	0
-	+	105	0
-	+	108	0
-	+	86	0
-	+	108	8
-
-> ~/.config/i3/show_timetrap.sh
-	*	1582827009	0
-	"	2	0
-	^	2	0
-	.	1	11
-	+	3	48
-	+	1	11
-
-> ~/.config/newsboat/config
-	*	1582824005	0
-	"	36	75
-	^	3	24
-	.	3	23
-	+	3	23
-
-> ~/.config/newsboat/urls
-	*	1582823250	0
-	"	46	0
-	^	49	40
-	.	49	37
-	+	49	37
-
-> ~/code/jssp-af/docs/classification.md
-	*	1582822256	0
-	"	163	0
-	^	161	78
-	.	163	0
-	+	1	32
-	+	2	0
-	+	1	0
-	+	162	34
-	+	161	6
-	+	163	23
-	+	162	14
-	+	163	23
-	+	163	18
-	+	165	0
-	+	168	16
-	+	166	0
-	+	288	0
-	+	160	0
-	+	161	78
-	+	160	0
-	+	163	0
-
-> ~/code/jssp-af/web/src/components/BirthdateSelector.vue
-	*	1582821605	0
-	"	36	0
-
-> ~/code/jssp-af/web/src/vuex/offender/accompanyingChild.ts
-	*	1582821581	0
-	"	9	0
-	^	68	83
-	.	68	82
-	+	7	66
-	+	9	33
-	+	12	5
-	+	14	0
-	+	13	16
-	+	17	14
-	+	18	24
-	+	22	84
-	+	23	51
-	+	24	44
-	+	25	25
-	+	31	68
-	+	32	34
-	+	33	26
-	+	32	73
-	+	33	26
-	+	34	43
-	+	33	77
-	+	34	43
-	+	35	0
-	+	36	35
-	+	38	73
-	+	40	63
-	+	41	77
-	+	43	49
-	+	44	51
-	+	47	71
-	+	48	29
-	+	49	0
-	+	48	77
-	+	50	31
-	+	47	32
-	+	50	89
-	+	51	55
-	+	52	42
-	+	53	51
-	+	59	82
-	+	61	0
-	+	62	32
-	+	64	69
-	+	67	29
-	+	68	82
-
-> ~/code/jssp-af/internal/testdb/seeds/009 AccompanyingChildren.sql
-	*	1582821574	0
-	"	1	9
-	^	12	90
-	.	2	0
-	+	1	0
-	+	1	2
-	+	1	0
-	+	1	32
-	+	1	0
-	+	2	24
-	+	3	0
-	+	2	33
-	+	3	45
-	+	4	13
-	+	6	21
-	+	7	3
-	+	8	27
-	+	6	14
-	+	9	24
-	+	8	51
-	+	10	0
-	+	12	89
-	+	1	0
-	+	2	0
-
-> ~/code/jssp-af/internal/config/migrations/2020-02-20_10-00_CreateAccompanyingChildren.sql
-	*	1582821189	0
-	"	2	0
-
-> ~/code/jssp-af/internal/testdb/seeds/003 Offenders.sql
-	*	1582820995	0
-	"	5	7
-
-> ~/code/jssp-af/internal/testdb/seeds/007 Incidents.sql
-	*	1582820991	0
-	"	1	0
-
-> ~/code/jssp-af/internal/testdb/seeds/README.md
-	*	1582820926	0
-	"	12	0
-	^	6	82
-	.	6	79
-	+	6	79
-
-> ~/code/jssp-af/internal/testdb/seeds/005 Seeds.sql
-	*	1582820895	0
-	"	1	0
-
-> ~/code/jssp-af/internal/testdb/testdb.go
-	*	1582820887	0
-	"	87	0
-
-> ~/code/jssp-af/internal/person/person_test.go
-	*	1582820863	0
-	"	1	0
-	.	84	0
-	+	84	0
-
-> ~/code/jssp-af/internal/config/config_test.go
-	*	1582820846	0
-	"	96	0
-
-> ~/code/jssp-af/internal/cmsetl/testdata/01-19-17-00-1392-0250-00.json
-	*	1582820824	0
-	"	1	0
-
-> ~/code/jssp-af/db/devdata/default.sql
-	*	1582820788	0
-	"	52	0
