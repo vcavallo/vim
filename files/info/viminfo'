@@ -11,563 +11,2424 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/track
+~MSle0~/discord
+
+# Last Substitute Search Pattern:
+~MSle0&<\/pre
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1584999797,,"q"
-:wq
-|2,0,1584999795,,"wq"
-:w
-|2,0,1584999785,,"w"
-:!ls .
-|2,0,1584999560,,"!ls ."
 :wqa
-|2,0,1584999461,,"wqa"
-:source ~/.vimrc
-|2,0,1584999278,,"source ~/.vimrc"
-:NV
-|2,0,1584999249,,"NV"
-:e ~/.vimrc
-|2,0,1584999070,,"e ~/.vimrc"
-:Startify
-|2,0,1584652726,,"Startify"
-:e .env
-|2,0,1584560289,,"e .env"
+|2,0,1595609544,,"wqa"
+:w
+|2,0,1595609542,,"w"
 :q!
-|2,0,1584556415,,"q!"
-:!date
-|2,0,1584543405,,"!date"
-:Start
-|2,0,1584543376,,"Start"
-:Goyo
-|2,0,1584500001,,"Goyo"
-:Limelight
-|2,0,1584494743,,"Limelight"
+|2,0,1595609488,,"q!"
+:q
+|2,0,1595609487,,"q"
+:.q
+|2,0,1595609485,,".q"
+:wq
+|2,0,1595539083,,"wq"
+:!
+|2,0,1595518973,,"!"
+:!mkdir lib/tasks/temporary
+|2,0,1595444614,,"!mkdir lib/tasks/temporary"
+:wa
+|2,0,1595340608,,"wa"
+:Ack! 'text-field'
+|2,0,1595370955,,"Ack! 'text-field'"
+:we
+|2,0,1595370420,,"we"
+:Gblame
+|2,0,1595367984,,"Gblame"
+:Ack! 'update\(key'
+|2,0,1595362884,,"Ack! 'update\\(key'"
+:Ack! 'update(key'
+|2,0,1595361919,,"Ack! 'update(key'"
+:e ~/Desktop/guidelines.md
+|2,0,1595361123,,"e ~/Desktop/guidelines.md"
+:e ~/Des
+|2,0,1595361114,,"e ~/Des"
+:ta
+|2,0,1595361104,,"ta"
+:help unimpaire
+|2,0,1595342647,,"help unimpaire"
+:help vinegar
+|2,0,1595342555,,"help vinegar"
+:help vingar
+|2,0,1595342550,,"help vingar"
+:Ack! 'v-text-field'
+|2,0,1595342086,,"Ack! 'v-text-field'"
+:r ~/Desktop/guidelines.md
+|2,0,1595364106,,"r ~/Desktop/guidelines.md"
+:Startify
+|2,0,1595285556,,"Startify"
+:set filetype=md
+|2,0,1594826758,,"set filetype=md"
+:set syntax=markdown
+|2,0,1594826752,,"set syntax=markdown"
+:set filetype=markdown
+|2,0,1594826739,,"set filetype=markdown"
+:colorscheme yang
+|2,0,1594826724,,"colorscheme yang"
+:e /backup.sh
+|2,0,1595022325,,"e /backup.sh"
+:qa
+|2,0,1595002966,,"qa"
+:Prettier
+|2,0,1594923862,,"Prettier"
+:tabnew
+|2,0,1594921983,,"tabnew"
+:e serviceaccount.json
+|2,0,1594743794,,"e serviceaccount.json"
+:e .gitignore
+|2,0,1594743785,,"e .gitignore"
+:vim .gitignore
+|2,0,1594743781,,"vim .gitignore"
+:qa!
+|2,0,1594416779,,"qa!"
+:w web/src/components/court/docketEntry/PresentRescheduleHearingAction.vue
+|2,0,1594150528,,"w web/src/components/court/docketEntry/PresentRescheduleHearingAction.vue"
+:w web/src/components/court/docketEntry/RescheduleHearingForm.vue
+|2,0,1594134424,,"w web/src/components/court/docketEntry/RescheduleHearingForm.vue"
+:e ../jssp-af/web/src/vuex/crime/crime.ts
+|2,0,1594057881,,"e ../jssp-af/web/src/vuex/crime/crime.ts"
+:r /home/vcavallo/code/project-hoot-ui/src/components/Feed.vue
+|2,0,1594055550,,"r /home/vcavallo/code/project-hoot-ui/src/components/Feed.vue"
+:filetype markdown
+|2,0,1593707711,,"filetype markdown"
+:filetype=markdown
+|2,0,1593707706,,"filetype=markdown"
+:color yang
+|2,0,1593700427,,"color yang"
+:e
+|2,0,1593725422,,"e"
+:e .env
+|2,0,1593725283,,"e .env"
+:colorscheme yin
+|2,0,1593528794,,"colorscheme yin"
+:r /home/vcavallo/code/jssp-af/web/src/components/court/docketEntry/PresentCreateHearing.vue
+|2,0,1593643215,,"r /home/vcavallo/code/jssp-af/web/src/components/court/docketEntry/PresentCreateHearing.vue"
+:w /home/vcavallo/code/jssp-af/internal/config/migrations/2020-07-01_20-54_AddIsCancelledToHearings.sql
+|2,0,1593636866,,"w /home/vcavallo/code/jssp-af/internal/config/migrations/2020-07-01_20-54_AddIsCancelledToHearings.sql"
+:w internal/court/hearing_actions_test.go
+|2,0,1593635947,,"w internal/court/hearing_actions_test.go"
+:w internal/court/hearing_actions.go
+|2,0,1593635455,,"w internal/court/hearing_actions.go"
+:w web/src/components/court/docketEntry/CancelHearingDialog.vue
+|2,0,1593633570,,"w web/src/components/court/docketEntry/CancelHearingDialog.vue"
+:e .git/hooks/post-update.sample
+|2,0,1593467824,,"e .git/hooks/post-update.sample"
+:qw
+|2,0,1593467810,,"qw"
+:'<,'>wo
+|2,0,1593457885,,"'<,'>wo"
+:go30
+|2,0,1593457869,,"go30"
+:go
+|2,0,1593457862,,"go"
+:'<,'>go
+|2,0,1593457861,,"'<,'>go"
+:'<,'>go30
+|2,0,1593457848,,"'<,'>go30"
+:w!
+|2,0,1593098192,,"w!"
+:w\
+|2,0,1593095114,,"w\\"
+:sort-
+|2,0,1593043954,,"sort-"
+:.w
+|2,0,1593042988,,".w"
+:'<,'>+y
+|2,0,1593012057,,"'<,'>+y"
+:new
+|2,0,1593011996,,"new"
+:enw
+|2,0,1593011995,,"enw"
+:r src/components/MovesDialog.vue
+|2,0,1592865020,,"r src/components/MovesDialog.vue"
+:w src/components/MakeMoveDialog.vue
+|2,0,1592865013,,"w src/components/MakeMoveDialog.vue"
+:.,.+219
+|2,0,1592863292,,".,.+219"
+:!cp ~/Desktop/ironsworn/action-menu.png ~/code/ironsworn-vue/public/images/action-menu.png
+|2,0,1592520171,,"!cp ~/Desktop/ironsworn/action-menu.png ~/code/ironsworn-vue/public/images/action-menu.png"
+:!cp ~/Desktop/ironsworn/action-menu.png
+|2,0,1592520153,,"!cp ~/Desktop/ironsworn/action-menu.png"
+:"w
+|2,0,1592767892,,"\"w"
+:%s/<\/pre/<\/code/g
+|2,0,1592688437,,"%s/<\\/pre/<\\/code/g"
+:%s/<pre/<code/g
+|2,0,1592688415,,"%s/<pre/<code/g"
+:PRe
+|2,0,1592589283,,"PRe"
+:!cp ~/Desktop/ironsworn/character-sheet.png ./public/images/
+|2,0,1592589227,,"!cp ~/Desktop/ironsworn/character-sheet.png ./public/images/"
+:!cp ~/Desktop/ironsworn/character-sheet-open.png ./public/images/
+|2,0,1592589169,,"!cp ~/Desktop/ironsworn/character-sheet-open.png ./public/images/"
+:tabnerw
+|2,0,1592603153,,"tabnerw"
+:w web/src/components/court/docketEntry/EditDocketEntryDialog.vue
+|2,0,1592602835,,"w web/src/components/court/docketEntry/EditDocketEntryDialog.vue"
+:reg
+|2,0,1592598230,,"reg"
+:re
+|2,0,1592598228,,"re"
+:"p
+|2,0,1592598192,,"\"p"
+:Ack! JSON
+|2,0,1592597753,,"Ack! JSON"
+:Ack! 'v-dialog'
+|2,0,1592588674,,"Ack! 'v-dialog'"
+:!rm -rf src/images
+|2,0,1592585386,,"!rm -rf src/images"
+:r !lorem-random
+|2,0,1592321264,,"r !lorem-random"
+:r !lorem
+|2,0,1592321254,,"r !lorem"
+:!lorem r
+|2,0,1592321231,,"!lorem r"
+:w!lorem
+|2,0,1592321201,,"w!lorem"
+:133,139t.
+|2,0,1592258153,,"133,139t."
+:w /home/vcavallo/code/ldx-api/ldx-frontend/src/components/boundary-report.vue
+|2,0,1592252870,,"w /home/vcavallo/code/ldx-api/ldx-frontend/src/components/boundary-report.vue"
+:Ack! bamboo
+|2,0,1591973752,,"Ack! bamboo"
 
 # Search String History (newest to oldest):
-?/track
-|2,1,1584999533,47,"track"
-? @$
-|2,1,1584999481,,"@$"
-?/leader
-|2,1,1584999228,47,"leader"
-?/notation
-|2,1,1584999219,47,"notation"
-?/leader.*v
-|2,1,1584999207,47,"leader.*v"
 ??\a
-|2,1,1584998845,63,"\\a"
-?/zone
-|2,1,1584980347,47,"zone"
-?/ig
-|2,1,1584980326,47,"ig"
-?/md5
-|2,1,1584573292,47,"md5"
-?/local
-|2,1,1584572912,47,"local"
-?/port
-|2,1,1584560290,47,"port"
-??made
-|2,1,1584499770,63,"made"
-??you
-|2,1,1584498966,63,"you"
-?/your
-|2,1,1584494906,47,"your"
+|2,1,1595534950,63,"\\a"
+? @$
+|2,1,1595534950,,"@$"
+?/discord
+|2,1,1595517656,47,"discord"
+?/i3
+|2,1,1595517653,47,"i3"
+?/linux
+|2,1,1595455980,47,"linux"
+?/dotfi
+|2,1,1595455973,47,"dotfi"
+?/valueForLocale
+|2,1,1595340535,47,"valueForLocale"
+?/value
+|2,1,1595340468,47,"value"
+?/valuefor
+|2,1,1595340457,47,"valuefor"
+?/v-model
+|2,1,1595371287,47,"v-model"
+?/movedialog
+|2,1,1595370960,47,"movedialog"
+?/occ
+|2,1,1595370245,47,"occ"
+?/isdelete
+|2,1,1595368363,47,"isdelete"
+??check
+|2,1,1595368330,63,"check"
+?/deleted
+|2,1,1595367980,47,"deleted"
+?/name
+|2,1,1595367903,47,"name"
+?/update.*)
+|2,1,1595367609,47,"update.*)"
+?/update
+|2,1,1595367593,47,"update"
+?/trim
+|2,1,1595366434,47,"trim"
+?/{{ party
+|2,1,1595362944,47,"{{ party"
+?/partyTypeID
+|2,1,1595362731,47,"partyTypeID"
+?/nation
+|2,1,1595362677,47,"nation"
+?/true
+|2,1,1595362633,47,"true"
+? \<number\>
+|2,1,1595362214,,"\\<number\\>"
+?/update.
+|2,1,1595362181,47,"update."
+?/updateq
+|2,1,1595362165,47,"updateq"
+?/update.*true
+|2,1,1595362160,47,"update.*true"
+??update
+|2,1,1595362147,63,"update"
+?/update(
+|2,1,1595361957,47,"update("
+?/isText
+|2,1,1595361838,47,"isText"
+?/party
+|2,1,1595345446,47,"party"
+?/event
+|2,1,1595345201,47,"event"
+?/court
+|2,1,1595345156,47,"court"
+?/text
+|2,1,1595344971,47,"text"
+?/summ
+|2,1,1595344958,47,"summ"
+??updateText
+|2,1,1595344556,63,"updateText"
+?/updateT
+|2,1,1595344531,47,"updateT"
+?/updatet
+|2,1,1595344512,47,"updatet"
+?/value_1
+|2,1,1595344298,47,"value_1"
+?/trimm
+|2,1,1595344265,47,"trimm"
+??true
+|2,1,1595344196,63,"true"
+?/facility
+|2,1,1595343056,47,"facility"
+?/slack
+|2,1,1595366146,47,"slack"
+?/fill
+|2,1,1595364668,47,"fill"
+?/userparam
+|2,1,1594924543,47,"userparam"
+?/linear
+|2,1,1594924542,47,"linear"
+? \<addResultSet\>
+|2,1,1594924473,,"\\<addResultSet\\>"
+?/setResult
+|2,1,1594924465,47,"setResult"
+?/resultSets
+|2,1,1594924454,47,"resultSets"
+?/created
+|2,1,1594924407,47,"created"
+?/menu
+|2,1,1594924105,47,"menu"
+?/date
+|2,1,1594924013,47,"date"
+?/relevant
+|2,1,1594923957,47,"relevant"
+?/rul
+|2,1,1594923848,47,"rul"
+?/addnew
+|2,1,1594923678,47,"addnew"
+?/addnewresul
+|2,1,1594923660,47,"addnewresul"
+?/newtest
+|2,1,1594923582,47,"newtest"
+?/opendialog
+|2,1,1594923575,47,"opendialog"
+?/add new
+|2,1,1594923527,47,"add new"
+?/res
+|2,1,1594923411,47,"res"
+?/resultObje
+|2,1,1594923076,47,"resultObje"
+?/jb
+|2,1,1594923017,47,"jb"
+?/focusfi
+|2,1,1594922891,47,"focusfi"
+?/focu
+|2,1,1594922675,47,"focu"
+?/save
+|2,1,1594922654,47,"save"
+?/setresultsets
+|2,1,1594922318,47,"setresultsets"
+?/service
+|2,1,1594743786,47,"service"
+?/cms_assets_bucket
+|2,1,1594743466,47,"cms_assets_bucket"
+?/rulingt
+|2,1,1594414136,47,"rulingt"
+?/ruling
+|2,1,1594414070,47,"ruling"
+?/news
+|2,1,1594412392,47,"news"
+?/vin
+|2,1,1594412374,47,"vin"
+?/pgadmin
+|2,1,1594409854,47,"pgadmin"
+?/pgad
+|2,1,1594409839,47,"pgad"
+?/8441
+|2,1,1594409830,47,"8441"
+?/pg
+|2,1,1594409808,47,"pg"
+?/>>>>>
+|2,1,1594409384,47,">>>>>"
+?/down
+|2,1,1594320222,47,"down"
+?/migrate-db-
+|2,1,1594320210,47,"migrate-db-"
+?/object
+|2,1,1594150733,47,"object"
+?/cancel
+|2,1,1594150618,47,"cancel"
+?/cancl
+|2,1,1594150558,47,"cancl"
+?/hearing
+|2,1,1594150551,47,"hearing"
+?/presentre
+|2,1,1594150542,47,"presentre"
+?/dossier
+|2,1,1594149783,47,"dossier"
+?/rh
+|2,1,1594149722,47,"rh"
+?/afdate
+|2,1,1594149153,47,"afdate"
+??afdate
+|2,1,1594149145,63,"afdate"
+?/updatepar
+|2,1,1594148918,47,"updatepar"
+?/updatepartyac
+|2,1,1594148911,47,"updatepartyac"
+?/tois
+|2,1,1594148803,47,"tois"
+?/hearingDate
+|2,1,1594146713,47,"hearingDate"
+?/addh
+|2,1,1594135348,47,"addh"
+?/addhearing
+|2,1,1594135341,47,"addhearing"
+?/heari
+|2,1,1594134881,47,"heari"
+? \<hearing\>
+|2,1,1594134784,,"\\<hearing\\>"
+?/ref
+|2,1,1594134674,47,"ref"
+?//
+|2,1,1594134669,47,"/"
+?/edit
+|2,1,1594134651,47,"edit"
+?/rescu
+|2,1,1594134571,47,"rescu"
+?/resdu
+|2,1,1594134482,47,"resdu"
+?/div
+|2,1,1594134348,47,"div"
+?/float
+|2,1,1594144465,47,"float"
+?/fetch
+|2,1,1594061381,47,"fetch"
+?/crimewithid
+|2,1,1594058274,47,"crimewithid"
+?/upv
+|2,1,1594059674,47,"upv"
+?/comm
+|2,1,1594059577,47,"comm"
+?/second
+|2,1,1594059417,47,"second"
+?/debugger
+|2,1,1594059069,47,"debugger"
+?/debugg
+|2,1,1594059064,47,"debugg"
+??click
+|2,1,1594058794,63,"click"
+?/cic
+|2,1,1594058793,47,"cic"
+? \<postWithID\>
+|2,1,1594058442,,"\\<postWithID\\>"
+?/opis
+|2,1,1594058063,47,"opis"
+?/getter
+|2,1,1594057883,47,"getter"
+?/moment
+|2,1,1594057602,47,"moment"
+?/this is 
+|2,1,1594056477,47,"this is "
+?/proj
+|2,1,1594056450,47,"proj"
+?/content
+|2,1,1594055655,47,"content"
+?/courty
+|2,1,1593708044,47,"courty"
+?/fed
+|2,1,1593725419,47,"fed"
+?/env
+|2,1,1593725026,47,"env"
+??to
+|2,1,1593702780,63,"to"
+?/entry
+|2,1,1593531537,47,"entry"
+?/entry.pay
+|2,1,1593531524,47,"entry.pay"
+?/docket
+|2,1,1593531425,47,"docket"
+?/void
+|2,1,1593531412,47,"void"
+?/create
+|2,1,1593531338,47,"create"
+?/payload
+|2,1,1593531178,47,"payload"
+?/payload()
+|2,1,1593531106,47,"payload()"
+?/payl
+|2,1,1593531096,47,"payl"
+?/dis
+|2,1,1593643010,47,"dis"
+?/docketentries
+|2,1,1593639714,47,"docketentries"
+?/orderedDocket
+|2,1,1593639516,47,"orderedDocket"
+?/hearingsFor
+|2,1,1593639432,47,"hearingsFor"
+?/table
+|2,1,1593639400,47,"table"
+?/data:
+|2,1,1593638910,47,"data:"
+?/cancelhearing
+|2,1,1593638779,47,"cancelhearing"
+?/leaveac
+|2,1,1593638694,47,"leaveac"
+?/cancelleave
+|2,1,1593638687,47,"cancelleave"
+?/gethearings
+|2,1,1593638324,47,"gethearings"
+?/listcasehear
+|2,1,1593638223,47,"listcasehear"
+? \<hearingID\>
+|2,1,1593638141,,"\\<hearingID\\>"
+?/cha
+|2,1,1593638119,47,"cha"
+?/domainmodel
+|2,1,1593637551,47,"domainmodel"
+?/action
+|2,1,1593637476,47,"action"
+?/cancelhear
+|2,1,1593637427,47,"cancelhear"
+?/sql
+|2,1,1593636975,47,"sql"
+?/True
+|2,1,1593636267,47,"True"
+?/action.*test
+|2,1,1593635986,47,"action.*test"
+?/hearing_act.*test
+|2,1,1593635960,47,"hearing_act.*test"
+?/actions_test
+|2,1,1593635931,47,"actions_test"
+?/updatehearin
+|2,1,1593635901,47,"updatehearin"
+?/updatecourt
+|2,1,1593635875,47,"updatecourt"
+?/false
+|2,1,1593635508,47,"false"
+?/updatecourtac
+|2,1,1593635409,47,"updatecourtac"
+??Patch
+|2,1,1593634395,63,"Patch"
+??actions
+|2,1,1593634356,63,"actions"
+?/acio
+|2,1,1593634352,47,"acio"
+?/courtjkk
+|2,1,1593634350,47,"courtjkk"
+?/cancelHerain
+|2,1,1593633805,47,"cancelHerain"
+?/cance
+|2,1,1593633777,47,"cance"
+?/filed
+|2,1,1593641794,47,"filed"
+? \<interlocuters\>
+|2,1,1593459538,,"\\<interlocuters\\>"
+?/feel
+|2,1,1593459477,47,"feel"
+?/women
+|2,1,1593459270,47,"women"
+?/dispa
+|2,1,1593459215,47,"dispa"
+?/deploy
+|2,1,1593467798,47,"deploy"
+?/hoo
+|2,1,1593467720,47,"hoo"
+?/Com
+|2,1,1593440700,47,"Com"
+?/Mine
+|2,1,1593440681,47,"Mine"
+?/Web
+|2,1,1593440668,47,"Web"
+?/Term
+|2,1,1593440655,47,"Term"
+?/layout
+|2,1,1593440634,47,"layout"
+?/case
+|2,1,1593197057,47,"case"
+?/judge
+|2,1,1593196985,47,"judge"
+?/genders
+|2,1,1593196462,47,"genders"
+?/option
+|2,1,1593196450,47,"option"
+?/namefor
+|2,1,1593196398,47,"namefor"
+?/partytype
+|2,1,1593196347,47,"partytype"
+?/partyName
+|2,1,1593196326,47,"partyName"
+? \<partiesForDossier\>
+|2,1,1593195767,,"\\<partiesForDossier\\>"
+?/ju
+|2,1,1593195682,47,"ju"
+?/criminal
+|2,1,1593194857,47,"criminal"
+?/criminnn
+|2,1,1593194840,47,"criminnn"
+?/civiil
+|2,1,1593194837,47,"civiil"
+?/type
+|2,1,1593194832,47,"type"
+?/tyope
+|2,1,1593194831,47,"tyope"
+?/inpu
+|2,1,1593194155,47,"inpu"
+?/entryTypeID
+|2,1,1593194114,47,"entryTypeID"
+?/docketEntry
+|2,1,1593193826,47,"docketEntry"
+?/goqu
+|2,1,1593098155,47,"goqu"
+?/import
+|2,1,1593097438,47,"import"
+?/submittedAt
+|2,1,1593097342,47,"submittedAt"
+?/conso
+|2,1,1593097083,47,"conso"
+?/docketentry
+|2,1,1593096741,47,"docketentry"
+?/setState
+|2,1,1593096486,47,"setState"
+?/addDocketEntry
+|2,1,1593096353,47,"addDocketEntry"
+?/sortingData
+|2,1,1593096219,47,"sortingData"
+?/sorting
+|2,1,1593096213,47,"sorting"
+?/adddocket
+|2,1,1593095004,47,"adddocket"
+?/prepend
+|2,1,1593094871,47,"prepend"
+?/prepent
+|2,1,1593094868,47,"prepent"
+?/insert
+|2,1,1593094791,47,"insert"
+?/newstate
+|2,1,1593094709,47,"newstate"
+?/state
+|2,1,1593094678,47,"state"
+?/dispatch
+|2,1,1593094648,47,"dispatch"
+?/adddock
+|2,1,1593093891,47,"adddock"
+?/dialog
+|2,1,1593093767,47,"dialog"
+?/createNewDo
+|2,1,1593044356,47,"createNewDo"
+?/rulin
+|2,1,1593044338,47,"rulin"
+?/paginat
+|2,1,1593043875,47,"paginat"
+?/pagin
+|2,1,1593043750,47,"pagin"
+?/tableop
+|2,1,1593043743,47,"tableop"
+?/tableoptions
+|2,1,1593043719,47,"tableoptions"
+?/tableOpe
+|2,1,1593043715,47,"tableOpe"
+?/pagination
+|2,1,1593043655,47,"pagination"
+? \<orderedDocketEntries\>
+|2,1,1593042077,,"\\<orderedDocketEntries\\>"
+?/ordred
+|2,1,1593041837,47,"ordred"
+?/return
+|2,1,1593041701,47,"return"
+?/ordere
+|2,1,1593041679,47,"ordere"
+?/clonedeep
+|2,1,1593041533,47,"clonedeep"
+?/dat
+|2,1,1593040650,47,"dat"
+?/header
+|2,1,1593040623,47,"header"
+?/app
+|2,1,1593040162,47,"app"
+?/get
+|2,1,1593024913,47,"get"
+?/out
+|2,1,1593013867,47,"out"
+?/OUT
+|2,1,1593013866,47,"OUT"
+?/in
+|2,1,1593013864,47,"in"
+?/CPU
+|2,1,1593013848,47,"CPU"
+?/CPu
+|2,1,1593013847,47,"CPu"
+?/mem
+|2,1,1593013487,47,"mem"
+??font
+|2,1,1593012638,63,"font"
+?/volume
+|2,1,1593012048,47,"volume"
+?/music
+|2,1,1593012044,47,"music"
+?/icon
+|2,1,1593012014,47,"icon"
+??color
+|2,1,1593011525,63,"color"
+?/bar
+|2,1,1593011506,47,"bar"
+?/callout
+|2,1,1593011466,47,"callout"
+?/callout-
+|2,1,1593011371,47,"callout-"
+?/color
+|2,1,1593011351,47,"color"
+?/green
+|2,1,1593011318,47,"green"
+?/receive
+|2,1,1593010753,47,"receive"
+?/null
+|2,1,1592603951,47,"null"
+?/Battle
+|2,1,1592866570,47,"Battle"
+?/Heal
+|2,1,1592866561,47,"Heal"
+?/heal
+|2,1,1592866556,47,"heal"
+?/console
+|2,1,1592866396,47,"console"
+?/moves
+|2,1,1592866299,47,"moves"
+?/movedis
+|2,1,1592866185,47,"movedis"
+?/1
+|2,1,1592866152,47,"1"
+?/moveID
+|2,1,1592866134,47,"moveID"
+?/selectedMove
+|2,1,1592866064,47,"selectedMove"
+?/openMake
+|2,1,1592865979,47,"openMake"
+?/makemove
+|2,1,1592865942,47,"makemove"
+?/nest tem
+|2,1,1592865930,47,"nest tem"
+?/openmake
+|2,1,1592865804,47,"openmake"
+?/selectedMoveID
+|2,1,1592865772,47,"selectedMoveID"
+?/selected
+|2,1,1592865736,47,"selected"
+?/selectedMoveId
+|2,1,1592865713,47,"selectedMoveId"
+? \<openMovesDialog\>
+|2,1,1592865504,,"\\<openMovesDialog\\>"
+?/movesdi
+|2,1,1592865476,47,"movesdi"
+?/openMovesDialog
+|2,1,1592865420,47,"openMovesDialog"
+?/makemovw
+|2,1,1592865377,47,"makemovw"
+?/octa
+|2,1,1592865149,47,"octa"
+?/movedi
+|2,1,1592865139,47,"movedi"
+?/movedisplay
+|2,1,1592865029,47,"movedisplay"
+?/oraclesDial
+|2,1,1592864859,47,"oraclesDial"
+?/oracl
+|2,1,1592864844,47,"oracl"
+? \<MovesDialog\>
+|2,1,1592864831,,"\\<MovesDialog\\>"
+?/boo
+|2,1,1592864516,47,"boo"
+?/home
+|2,1,1592864328,47,"home"
+?/admin
+|2,1,1592863565,47,"admin"
+?/admini
+|2,1,1592863563,47,"admini"
+?/colla
+|2,1,1592863547,47,"colla"
+?/prima
+|2,1,1592863488,47,"prima"
+?/session
+|2,1,1592863421,47,"session"
+?/sessionDi
+|2,1,1592863365,47,"sessionDi"
+?/openSession
+|2,1,1592863353,47,"openSession"
+?/click
+|2,1,1592863336,47,"click"
+?/systemOptions
+|2,1,1592863321,47,"systemOptions"
+?/systemOpions
+|2,1,1592863319,47,"systemOpions"
+?/fom
+|2,1,1592863298,47,"fom"
+?/primar
+|2,1,1592863216,47,"primar"
+?/draw
+|2,1,1592863210,47,"draw"
+?/navigation-dr
+|2,1,1592863185,47,"navigation-dr"
+?/toolbar
+|2,1,1592863127,47,"toolbar"
+?/app-bar-nav-i
+|2,1,1592863065,47,"app-bar-nav-i"
+?/systemOp
+|2,1,1592862987,47,"systemOp"
+?/drawer
+|2,1,1592862971,47,"drawer"
+?/app-bar
+|2,1,1592862923,47,"app-bar"
+?/navigat
+|2,1,1592862779,47,"navigat"
+?/nav
+|2,1,1592862738,47,"nav"
+?/reque
+|2,1,1592859773,47,"reque"
+?/coordinat
+|2,1,1592859187,47,"coordinat"
+?/coordinate
+|2,1,1592859127,47,"coordinate"
+??sou
+|2,1,1592857836,63,"sou"
+?/requests
+|2,1,1592857721,47,"requests"
+?/messages.*request
+|2,1,1592857714,47,"messages.*request"
+?/getRequests
+|2,1,1592857700,47,"getRequests"
+?/fetchData
+|2,1,1592857685,47,"fetchData"
+?/pre
+|2,1,1592846065,47,"pre"
+?/edge
+|2,1,1592844628,47,"edge"
+?/vitals
+|2,1,1592844574,47,"vitals"
+?/\\h
+|2,1,1592838489,47,"\\\\h"
+?/\\u
+|2,1,1592838482,47,"\\\\u"
+?/prompt
+|2,1,1592838439,47,"prompt"
+?/btn
+|2,1,1592768056,47,"btn"
+?/notes
+|2,1,1592692549,47,"notes"
+?/Sessions
+|2,1,1592692391,47,"Sessions"
+?/Sessois
+|2,1,1592692389,47,"Sessois"
+?/footer
+|2,1,1592692219,47,"footer"
+??mom
+|2,1,1592692207,63,"mom"
+??blue
+|2,1,1592692110,63,"blue"
+?/foot
+|2,1,1592691980,47,"foot"
+??currently
+|2,1,1592691957,63,"currently"
+??new sess
+|2,1,1592691880,63,"new sess"
+??iron
+|2,1,1592691814,63,"iron"
+??key
+|2,1,1592691776,63,"key"
+?/side
+|2,1,1592689238,47,"side"
+?/log
+|2,1,1592689183,47,"log"
+?/so:
+|2,1,1592688821,47,"so:"
+?/small
+|2,1,1592688710,47,"small"
+? <\/pre
+|2,1,1592688437,,"<\\/pre"
+? <pre
+|2,1,1592688415,,"<pre"
+?/the
+|2,1,1592688341,47,"the"
+?/mdi
+|2,1,1592688225,47,"mdi"
+?/expand
+|2,1,1592688154,47,"expand"
+?/lo
+|2,1,1592688052,47,"lo"
+?/llg
+|2,1,1592688051,47,"llg"
+?/v
+|2,1,1592687915,47,"v"
+?/onPages
+|2,1,1592593522,47,"onPages"
+?/promi
+|2,1,1592593505,47,"promi"
+?/speed
+|2,1,1592593491,47,"speed"
+?/pinned
+|2,1,1592593465,47,"pinned"
+?/row
+|2,1,1592590767,47,"row"
+?/back t
+|2,1,1592590755,47,"back t"
+?/mom
+|2,1,1592590653,47,"mom"
+?/chara
+|2,1,1592590651,47,"chara"
+?/addtrack
+|2,1,1592590587,47,"addtrack"
+?/addPr
+|2,1,1592590582,47,"addPr"
+?/close
+|2,1,1592590543,47,"close"
+?/pin
+|2,1,1592590184,47,"pin"
+?/charcter
+|2,1,1592589499,47,"charcter"
+?/center
+|2,1,1592589310,47,"center"
+?/ntoes
+|2,1,1592603364,47,"ntoes"
+?/subjectproperties
+|2,1,1592603187,47,"subjectproperties"
+?/subjectpropertyfordossi
+|2,1,1592603179,47,"subjectpropertyfordossi"
+?/withid
+|2,1,1592603052,47,"withid"
+??index
+|2,1,1592602781,63,"index"
+?/SubjectPr
+|2,1,1592602734,47,"SubjectPr"
+?/editsub
+|2,1,1592602628,47,"editsub"
+?/editDialog
+|2,1,1592602571,47,"editDialog"
+? \<actionType\>
+|2,1,1592600261,,"\\<actionType\\>"
+?/td
+|2,1,1592598144,47,"td"
+?/part
+|2,1,1592597876,47,"part"
+?/vue
+|2,1,1592597757,47,"vue"
+?/JSON
+|2,1,1592597729,47,"JSON"
+?/co
+|2,1,1592593246,47,"co"
+?/json
+|2,1,1592593087,47,"json"
+?/createruling
+|2,1,1592593061,47,"createruling"
+?/stat
+|2,1,1592588334,47,"stat"
+?/moveEnt
+|2,1,1592588244,47,"moveEnt"
+?/challen
+|2,1,1592588150,47,"challen"
+?/resulr
+|2,1,1592588144,47,"resulr"
+??Log
+|2,1,1592587889,63,"Log"
+?/addroll
+|2,1,1592587807,47,"addroll"
+? \<initializeLog\>
+|2,1,1592587682,,"\\<initializeLog\\>"
+?/commit
+|2,1,1592587663,47,"commit"
+?/root
+|2,1,1592587624,47,"root"
+?/ini
+|2,1,1592587616,47,"ini"
+?/getters
+|2,1,1592587576,47,"getters"
+?/l
+|2,1,1592587417,47,"l"
+?/HEAD
+|2,1,1592426986,47,"HEAD"
+?/>>>>
+|2,1,1592426791,47,">>>>"
+?/<<<
+|2,1,1592426758,47,"<<<"
+?/fro
+|2,1,1592417796,47,"fro"
+?/forcase
+|2,1,1592417753,47,"forcase"
+?/fetchDocket
+|2,1,1592417728,47,"fetchDocket"
+???
+|2,1,1592416580,63,"?"
+?/initial
+|2,1,1592412537,47,"initial"
+?/getcout
+|2,1,1592410537,47,"getcout"
+?/select
+|2,1,1592410409,47,"select"
+?/updateAc
+|2,1,1592410252,47,"updateAc"
+?/where
+|2,1,1592410193,47,"where"
+?/actionlogentry
+|2,1,1592407534,47,"actionlogentry"
+?/insert in
+|2,1,1592407435,47,"insert in"
+?/pa
+|2,1,1592407144,47,"pa"
+?/make
+|2,1,1592407051,47,"make"
+?/time
+|2,1,1592406910,47,"time"
+?/insertcrim
+|2,1,1592406367,47,"insertcrim"
+?/testdb
+|2,1,1592406353,47,"testdb"
+?/db :=
+|2,1,1592406351,47,"db :="
+?/data
+|2,1,1592406326,47,"data"
+?/db
+|2,1,1592406232,47,"db"
+?/dispatc
+|2,1,1592405948,47,"dispatc"
+?/createTEst
+|2,1,1592405778,47,"createTEst"
+?/valid
+|2,1,1592404130,47,"valid"
+?/domainid
+|2,1,1592404090,47,"domainid"
+?/NewState
+|2,1,1592404073,47,"NewState"
+?/domain
+|2,1,1592404037,47,"domain"
+?/domainmo
+|2,1,1592404021,47,"domainmo"
+?/validate
+|2,1,1592403980,47,"validate"
+?/actio
+|2,1,1592403890,47,"actio"
+?/Crime
+|2,1,1592403860,47,"Crime"
+?/interface
+|2,1,1592403848,47,"interface"
+?/a
+|2,1,1592403474,47,"a"
+?/lista
+|2,1,1592403428,47,"lista"
+?/geta
+|2,1,1592403427,47,"geta"
+??Crime
+|2,1,1592403335,63,"Crime"
+?/UpdateCrime
+|2,1,1592403237,47,"UpdateCrime"
+?/Update
+|2,1,1592403223,47,"Update"
+?/updatecrime
+|2,1,1592402863,47,"updatecrime"
+??Dispatch
+|2,1,1592402828,63,"Dispatch"
+?/Notes
+|2,1,1592402718,47,"Notes"
+?/string
+|2,1,1592402714,47,"string"
+?/begint
+|2,1,1592402401,47,"begint"
+?/persis
+|2,1,1592402274,47,"persis"
+?/add
+|2,1,1592401875,47,"add"
+?/conf
+|2,1,1592343494,47,"conf"
+?/wasAuth
+|2,1,1592343129,47,"wasAuth"
+?/optimal
+|2,1,1592258714,47,"optimal"
+?/updating
+|2,1,1592258698,47,"updating"
+?/opt
+|2,1,1592258620,47,"opt"
+?/updatingPara
+|2,1,1592258567,47,"updatingPara"
+?/disp
+|2,1,1592258374,47,"disp"
+?/boundaryDete
+|2,1,1592258345,47,"boundaryDete"
+?/label
+|2,1,1592258270,47,"label"
+?/explan
+|2,1,1592258215,47,"explan"
+?/Maxim
+|2,1,1592258200,47,"Maxim"
+?/expla
+|2,1,1592258113,47,"expla"
+?/bounda
+|2,1,1592257994,47,"bounda"
+?/boun
+|2,1,1592257890,47,"boun"
+?/thous
+|2,1,1592257411,47,"thous"
+?/what this
+|2,1,1592257391,47,"what this"
+?/resultText
+|2,1,1592257280,47,"resultText"
+?/resultEx
+|2,1,1592256666,47,"resultEx"
+?/expl
+|2,1,1592256587,47,"expl"
+?/options
+|2,1,1592256125,47,"options"
+?/chartright
+|2,1,1592256094,47,"chartright"
+?/chartrigh5t
+|2,1,1592256092,47,"chartrigh5t"
+?/yaxes
+|2,1,1592256028,47,"yaxes"
+?/stacked
+|2,1,1592255998,47,"stacked"
+?/dataCol
+|2,1,1592255846,47,"dataCol"
+?/options2
+|2,1,1592255813,47,"options2"
+?/what
+|2,1,1592255772,47,"what"
+?/dataCollection
+|2,1,1592255547,47,"dataCollection"
+?/white
+|2,1,1592255165,47,"white"
+?/horizon
+|2,1,1592255119,47,"horizon"
+?/hori
+|2,1,1592255109,47,"hori"
+?/chartLef
+|2,1,1592254967,47,"chartLef"
+?/chartRight
+|2,1,1592254707,47,"chartRight"
+?/chartValue
+|2,1,1592254639,47,"chartValue"
+??v
+|2,1,1592254385,63,"v"
+?/what is
+|2,1,1592254053,47,"what is"
+?/desired
+|2,1,1592254021,47,"desired"
+?/positive
+|2,1,1592254018,47,"positive"
+?/back
+|2,1,1592251690,47,"back"
+?/show
+|2,1,1592251643,47,"show"
+?/router-
+|2,1,1592251550,47,"router-"
+?/preview
+|2,1,1592251497,47,"preview"
+?/fetchdat
+|2,1,1592237413,47,"fetchdat"
+?/<
+|2,1,1592237383,47,"<"
+?/echo
+|2,1,1591979132,47,"echo"
+?/bashrc
+|2,1,1591979128,47,"bashrc"
+?/dotfiles
+|2,1,1591978979,47,"dotfiles"
+?/darwin
+|2,1,1591978962,47,"darwin"
+?/ts
+|2,1,1591978026,47,"ts"
+?/prettier
+|2,1,1591978015,47,"prettier"
+?/plugin
+|2,1,1591977808,47,"plugin"
+?/tscon
+|2,1,1591977802,47,"tscon"
+?/bamboo
+|2,1,1591973746,47,"bamboo"
+?/bash
+|2,1,1591973739,47,"bash"
+?/bamb
+|2,1,1591973730,47,"bamb"
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
-@exniliox_2020-03-22_skinnydip-farm.md
-|2,3,1584933002,,"exniliox_2020-03-22_skinnydip-farm.md"
-@personalx_2020-03-23_thinkpad-trackpad.md
-|2,3,1584979777,,"personalx_2020-03-23_thinkpad-trackpad.md"
+@/home/vcavallo/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_result_sets.rb
+|2,3,1595444499,,"/home/vcavallo/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_result_sets.rb"
+@/home/vcavallo/Dropbox/nvALT/unity2020-zoom-meeting_2020-07-19.md
+|2,3,1595180203,,"/home/vcavallo/Dropbox/nvALT/unity2020-zoom-meeting_2020-07-19.md"
+@/home/vcavallo/code/jssp-af/web/src/components/court/docketEntry/RescheduleHearingDialog.vue
+|2,3,1594134645,,"/home/vcavallo/code/jssp-af/web/src/components/court/docketEntry/RescheduleHearingDialog.vue"
+@/home/vcavallo/code/project-hoot-ui/src/views/Feed.vue
+|2,3,1594055740,,"/home/vcavallo/code/project-hoot-ui/src/views/Feed.vue"
+@PostShow.vue
+|2,3,1594055540,,"PostShow.vue"
+@views
+|2,3,1594055535,,"views"
+@Feed.vue
+|2,3,1594054778,,"Feed.vue"
+@PresentCancelHearingAction.vue
+|2,3,1593643204,,"PresentCancelHearingAction.vue"
+@[{y(es)},n(o),a(ll),q(uit)] kkk
+|2,3,1593196355,,"[{y(es)},n(o),a(ll),q(uit)] kkk"
+@MakeMoveDialog.vue
+|2,3,1592865003,,"MakeMoveDialog.vue"
+@PrimaryNav.vue
+|2,3,1592863238,,"PrimaryNav.vue"
+@/home/vcavallo/code/ironsworn-vue/src/images
+|2,3,1592584184,,"/home/vcavallo/code/ironsworn-vue/src/images"
+@images
+|2,3,1592520142,,"images"
+@im
+|2,3,1592519916,,"im"
+@[{y(es)},n(o),a(ll),q(uit)] y
+|2,3,1592602531,,"[{y(es)},n(o),a(ll),q(uit)] y"
+@ialg
+|2,3,1592602527,,"ialg"
+@_redirects
+|2,3,1592584977,,"_redirects"
+@[{y(es)},n(o),a(ll),q(uit)]
+|2,3,1592402308,,"[{y(es)},n(o),a(ll),q(uit)]"
+@2020-06-16_21-38_AddNotesToActions.sql
+|2,3,1592343563,,"2020-06-16_21-38_AddNotesToActions.sql"
+@lorem-random
+|2,3,1592320932,,"lorem-random"
+@[{y(es)},n(o),a(ll),q(uit)] 
+|2,3,1592257886,,"[{y(es)},n(o),a(ll),q(uit)] "
+@valence-report.vue
+|2,3,1592252436,,"valence-report.vue"
+@report-preview.vue
+|2,3,1592237378,,"report-preview.vue"
 
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	installing xf86-input-mtrack
-	installed http://bitmath.org/code/mtdev/
-	installed xorg-dev
-	installed xorg-server-core ?
-	installed libmtdev1
-	installed libmtdev-dev, re-ran configure, re-ran make - working.
-|3,0,0,1,6,0,1584999596,"installing xf86-input-mtrack","installed http://bitmath.org/code/mtdev/","installed xorg-dev","installed xorg-server-core ?","installed libmtdev1","installed libmtdev-dev, re-ran configure, re-ran make - working."
+"0	CHAR	0
+	 move scratchpad scratchpad show
+|3,0,0,0,1,0,1595534950," move scratchpad scratchpad show"
 "1	LINE	0
-	- `ln -s ~/
-|3,0,1,1,1,0,1584999547,"- `ln -s ~/"
+	
+|3,0,1,1,1,0,1595609154,""
 "2	LINE	0
-	.wonderx_2015_bill-blass-production-setup.txt (YSLâ€™s MacBook Pro's conflicted copy 2015-12-08).swp
-|3,0,2,1,1,0,1584999481,".wonderx_2015_bill-blass-production-setup.txt (YSLâ€™s MacBook Pro's conflicted copy 2015-12-08).swp"
+	
+|3,0,2,1,1,0,1595609153,""
 "3	LINE	0
-	.testing-nv-vim.md.swp
-|3,0,3,1,1,0,1584999481,".testing-nv-vim.md.swp"
+	
+|3,0,3,1,1,0,1595539077,""
 "4	LINE	0
-	.running-listx_journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,4,1,1,0,1584999481,".running-listx_journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
+	
+|3,0,4,1,1,0,1595535039,""
 "5	LINE	0
-	.running-listx_ideas.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,5,1,1,0,1584999481,".running-listx_ideas.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
+	
+|3,0,5,1,1,0,1595534982,""
 "6	LINE	0
-	.running-listx_high-nonsense.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,6,1,1,0,1584999481,".running-listx_high-nonsense.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
+	.wakatime.log
+|3,0,6,1,1,0,1595534950,".wakatime.log"
 "7	LINE	0
-	.running-listx_favorite-albums.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,7,1,1,0,1584999481,".running-listx_favorite-albums.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
+	.testing.c.swp
+|3,0,7,1,1,0,1595534950,".testing.c.swp"
 "8	LINE	0
-	.running-listx_code-development-programming-journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,8,1,1,0,1584999481,".running-listx_code-development-programming-journal.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
+	.test.md.die.swp
+|3,0,8,1,1,0,1595534950,".test.md.die.swp"
 "9	LINE	0
-	.running-listx_check-out.txt (Vinney retina 13's conflicted copy 2016-07-06).swp
-|3,0,9,1,1,0,1584999481,".running-listx_check-out.txt (Vinney retina 13's conflicted copy 2016-07-06).swp"
-"-	CHAR	0
-	intel
-|3,0,36,0,1,0,1584999569,"intel"
+	.test.js.swp
+|3,0,9,1,1,0,1595534950,".test.js.swp"
+"j	CHAR	0
+	kkkj
+|3,0,19,0,1,0,1595342222,"kkkj"
+"q@	CHAR	0
+	/v-modeleea.trim€ýa
+|3,2,26,0,1,0,1595342238,"/v-modeleea.trim€ýa"
+""-	CHAR	0
+	x
+|3,1,36,0,1,0,1595609538,"x"
 
 # global variables:
 
 # File marks:
-'0  1  11  ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
-|4,48,1,11,1584999797,"~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md"
-'1  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
-|4,49,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
-'2  4  30  ~/scripts/nv
-|4,50,4,30,1584999461,"~/scripts/nv"
-'3  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,51,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
-'4  86  16  ~/.vimrc
-|4,52,86,16,1584999325,"~/.vimrc"
-'5  65  59  ~/.vimrc
-|4,53,65,59,1584998979,"~/.vimrc"
-'6  65  59  ~/.vimrc
-|4,54,65,59,1584998979,"~/.vimrc"
-'7  17  0  ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
-|4,55,17,0,1584983930,"~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md"
-'8  1  0  ~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js
-|4,56,1,0,1584981358,"~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js"
-'9  16  0  ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
-|4,57,16,0,1584980366,"~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md"
+'0  8  0  ~/Dropbox/zettelkasten/ac0f1127.md
+|4,48,8,0,1595609544,"~/Dropbox/zettelkasten/ac0f1127.md"
+'1  1  0  ~/Dropbox/nvALT/process-mapping.md
+|4,49,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
+'2  8  0  ~/zettelkasten/7758446d.md
+|4,50,8,0,1595519427,"~/zettelkasten/7758446d.md"
+'3  7  11  ~/zettelkasten/a9d7def2.md
+|4,51,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+'4  83  49  ~/.config/i3/config
+|4,52,83,49,1595517683,"~/.config/i3/config"
+'5  3  13  ~/zettelkasten/bin/serve
+|4,53,3,13,1595456320,"~/zettelkasten/bin/serve"
+'6  214  9  ~/dotfiles/linux_bashrc.sh
+|4,54,214,9,1595456192,"~/dotfiles/linux_bashrc.sh"
+'7  1  4  /tmp/bash-fc.17vZWl
+|4,55,1,4,1595456180,"/tmp/bash-fc.17vZWl"
+'8  7  10  ~/zettelkasten/a6b574b2.md
+|4,56,7,10,1595456106,"~/zettelkasten/a6b574b2.md"
+'9  7  10  ~/zettelkasten/a6b574b2.md
+|4,57,7,10,1595456106,"~/zettelkasten/a6b574b2.md"
 
 # Jumplist (newest first):
--'  1  11  ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
-|4,39,1,11,1584999797,"~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md"
--'  143  0  ~/dotfiles/readme.md
-|4,39,143,0,1584999594,"~/dotfiles/readme.md"
--'  145  0  ~/dotfiles/readme.md
-|4,39,145,0,1584999590,"~/dotfiles/readme.md"
--'  148  24  ~/dotfiles/readme.md
-|4,39,148,24,1584999590,"~/dotfiles/readme.md"
--'  150  70  ~/dotfiles/readme.md
-|4,39,150,70,1584999578,"~/dotfiles/readme.md"
--'  23  0  ~/dotfiles/readme.md
-|4,39,23,0,1584999533,"~/dotfiles/readme.md"
--'  1  0  ~/dotfiles/readme.md
-|4,39,1,0,1584999528,"~/dotfiles/readme.md"
--'  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
-|4,39,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
--'  1  4  ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
-|4,39,1,4,1584999492,"~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  4  30  ~/scripts/nv
-|4,39,4,30,1584999461,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  3  0  ~/scripts/nv
-|4,39,3,0,1584999439,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  1  0  ~/scripts/nv
-|4,39,1,0,1584999425,"~/scripts/nv"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  193  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,193,0,1584999334,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
--'  1  0  ~/Dropbox/wiki/notes/Notes.markdown
-|4,39,1,0,1584999332,"~/Dropbox/wiki/notes/Notes.markdown"
+-'  8  0  ~/Dropbox/zettelkasten/ac0f1127.md
+|4,39,8,0,1595609544,"~/Dropbox/zettelkasten/ac0f1127.md"
+-'  1  0  ~/Dropbox/zettelkasten/ac0f1127.md
+|4,39,1,0,1595609506,"~/Dropbox/zettelkasten/ac0f1127.md"
+-'  1  0  ~/Dropbox/nvALT/process-mapping.md
+|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
+-'  1  0  ~/Dropbox/nvALT/process-mapping.md
+|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
+-'  1  0  ~/Dropbox/nvALT/process-mapping.md
+|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
+-'  1  0  ~/Dropbox/nvALT/process-mapping.md
+|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
+-'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
+|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
+-'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
+|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
+-'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
+|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
+-'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
+|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  1  0  ~/
+|4,39,1,0,1595534950,"~/"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  8  0  ~/zettelkasten/7758446d.md
+|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  7  11  ~/zettelkasten/a9d7def2.md
+|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
+-'  1  0  ~/zettelkasten/a9d7def2.md
+|4,39,1,0,1595518958,"~/zettelkasten/a9d7def2.md"
+-'  1  0  ~/zettelkasten/a9d7def2.md
+|4,39,1,0,1595518958,"~/zettelkasten/a9d7def2.md"
 
 # History of marks within files (newest to oldest):
 
-> ~/Dropbox/nvALT/personalx_2020-03-23_thinkpad-trackpad.md
-	*	1584999795	0
-	"	1	11
-	^	6	64
-	.	6	63
-	+	2	40
-	+	4	27
-	+	6	63
+> ~/Dropbox/zettelkasten/ac0f1127.md
+	*	1595609542	0
+	"	8	0
+	^	7	100
+	.	7	99
+	+	9	0
+	+	7	98
+	+	7	99
 
-> ~/dotfiles/readme.md
-	*	1584999794	0
-	"	154	106
-	^	144	472
-	.	144	373
-	+	149	10
-	+	147	9
-	+	146	9
-	+	148	62
-	+	150	0
-	+	143	0
-	+	144	471
-	+	144	373
+> ~/Dropbox/nvALT/process-mapping.md
+	*	1595604491	0
+	"	1	0
+	^	7	147
+	.	7	146
+	+	4	0
+	+	1	0
+	+	4	126
+	+	3	0
+	+	6	0
+	+	5	50
+	+	15	130
+	+	8	0
+	+	9	0
+	+	7	146
 
-> ~/Dropbox/nvALT/2016-08-17_process-jira-trello-call-with-jonathan-zacks.txt
-	*	1584999489	0
+> ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
+	*	1595539082	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/zettelkasten/7758446d.md
+	*	1595519427	0
+	"	8	0
+	^	7	24
+	.	7	23
+	+	7	115
+	+	8	0
+	+	7	23
+
+> ~/zettelkasten/a9d7def2.md
+	*	1595519017	0
+	"	7	11
+	^	7	12
+	.	7	12
+	+	7	12
+
+> ~/zettelkasten/a6b574b2.md
+	*	1595518977	0
+	"	7	10
+	^	7	11
+	.	7	10
+	+	7	10
+
+> ~/.config/i3/config
+	*	1595517673	0
+	"	83	49
+	.	84	53
+	+	77	0
+	+	85	0
+	+	84	53
+
+> ~/zettelkasten/bin/serve
+	*	1595456319	0
+	"	3	13
+	^	3	20
+	.	3	19
+	+	3	19
+
+> ~/dotfiles/linux_bashrc.sh
+	*	1595456191	0
+	"	214	9
+	^	235	0
+	.	234	50
+	+	234	17
+	+	234	50
+
+> /tmp/bash-fc.17vZWl
+	*	1595456048	0
 	"	1	4
 
-> ~/scripts/nv
-	*	1584999458	0
-	"	4	30
-	^	4	31
-	.	4	30
-	+	4	25
+> ~/.linux_bashrc
+	*	1595455964	0
+	"	1	0
+
+> ~/.bash_profile
+	*	1595455961	0
+	"	77	0
+	.	77	0
+	+	77	0
+
+> ~/dotfiles/bash_profile
+	*	1595455874	0
+	"	72	10
+	^	78	0
+	.	78	0
+	+	85	0
+	+	77	0
+	+	78	0
+
+> /nix/store/4vz8sh9ngx34ivi0bw5hlycxdhvy5hvz-nix-2.3.7/etc/profile.d/nix.sh
+	*	1595455701	0
+	"	1	0
+
+> ~/code/ldx-api/bin/deploy
+	*	1595449759	0
+	"	14	0
+	^	10	53
+	.	14	0
+	+	3	0
+	+	2	0
+	+	2	14
+	+	2	0
 	+	4	0
-	+	2	67
-	+	4	30
-
-> ~/Dropbox/wiki/notes/Notes.markdown
-	*	1584999333	0
-	"	193	0
-
-> ~/.vimrc
-	*	1584999324	0
-	"	86	16
-	^	66	27
-	.	66	26
-	+	67	0
-	+	65	79
-	+	66	82
-	+	66	26
-
-> ~/Dropbox/nvALT/exniliox_2020-03-22_skinnydip-farm.md
-	*	1584983927	0
-	"	17	0
-	^	17	0
-	.	17	0
-	+	8	42
-	+	15	75
-	+	15	0
-	+	16	72
-	+	10	49
-	+	8	104
-	+	17	0
-
-> ~/code/longevity-dx/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js
-	*	1584981356	0
-	"	1	0
-
-> ~/dotfiles/40-libinput.conf
-	*	1584980363	0
-	"	39	20
-	.	45	0
-	+	45	0
-
-> ~/dotfiles/50-mtrack.conf
-	*	1584980349	0
-	"	20	10
-	.	1	0
-	+	1	0
-
-> ~/Dropbox/nvALT/personalx_2020-03_coronavirus.txt
-	*	1584980167	0
-	"	244	34
-	^	244	43
-	.	244	0
-	+	199	12
-	+	200	0
-	+	201	7
-	+	203	19
-	+	205	11
-	+	203	31
-	+	207	27
-	+	211	100
-	+	212	0
-	+	211	102
-	+	212	106
-	+	214	99
-	+	215	0
-	+	225	37
-	+	226	9
-	+	228	106
-	+	230	99
-	+	230	36
-	+	232	94
-	+	235	74
-	+	233	104
-	+	239	5
-	+	241	8
-	+	242	47
-	+	246	24
-	+	244	27
-	+	243	0
-	+	244	31
-	+	246	100
-	+	247	62
-	+	248	0
-	+	247	62
-	+	244	0
-
-> /etc/postgresql/10/main/pg_hba.conf
-	*	1584573324	0
-	"	90	67
-	^	90	68
-	.	90	67
-	+	90	67
-
-> ~/Dropbox/nvALT/exniliox_2020-03-11_ldx-notes.md
-	*	1584564503	0
-	"	35	41
-	^	35	42
-	.	35	41
-	+	24	18
-	+	28	35
-	+	31	16
-	+	31	0
-	+	32	0
-	+	33	45
-	+	31	84
-	+	31	0
-	+	31	114
-	+	35	0
-	+	32	0
-	+	31	0
-	+	31	108
-	+	32	0
-	+	35	0
-	+	32	0
-	+	35	0
-	+	30	16
-	+	26	5
-	+	26	57
-	+	26	28
-	+	27	0
-	+	35	41
-
-> ~/code/jssp-af/Makefile
-	*	1584560293	0
-	"	1	0
-
-> ~/code/jssp-af/.env
-	*	1584560291	0
-	"	9	9
-
-> ~/Dropbox/nvALT/personalx_2020-03-17_quarantine-coronavirus.md
-	*	1584500006	0
-	"	1	0
-	^	17	4
-	.	1	0
-	+	17	123
-	+	19	294
-	+	19	191
-	+	19	345
-	+	19	184
-	+	20	111
-	+	26	0
+	+	3	0
 	+	10	0
-	+	26	0
-	+	26	291
-	+	17	456
-	+	19	0
-	+	27	28
-	+	27	116
-	+	29	134
-	+	29	49
-	+	22	44
-	+	29	240
-	+	31	2
-	+	27	118
-	+	31	138
-	+	31	53
-	+	33	210
-	+	33	15
-	+	33	474
-	+	26	48
-	+	27	75
-	+	22	381
-	+	22	0
-	+	23	224
-	+	26	0
+	+	8	0
+	+	3	0
+	+	2	0
+	+	9	0
+	+	3	0
+	+	10	52
 	+	11	0
-	+	15	230
-	+	17	112
-	+	17	334
-	+	17	472
-	+	19	149
+	+	12	0
+	+	13	0
+	+	14	0
+
+> lib/tasks/temporary/add_test_suite.rake
+	*	1595444802	0
+	"	5	66
+	^	10	21
+	.	5	66
+	+	12	0
+	+	2	40
+	+	3	6
+	+	1	21
+	+	11	0
+	+	6	0
+	+	3	21
+	+	6	30
+	+	7	0
+	+	4	37
+	+	9	0
+	+	4	0
+	+	5	68
+	+	8	14
+	+	10	20
+	+	5	66
+
+> ~/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_result_sets.rb
+	*	1595444502	0
+	"	2	0
+
+> ~/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_test_result_set.rb
+	*	1595444500	0
+	"	1	38
+	^	1	39
+	.	1	38
+	+	5	0
+	+	2	7
+	+	5	0
+	+	3	19
+	+	1	38
+
+> ~/code/jssp-af/web/src/components/court/docketEntry/PresentCreateRuling.vue
+	*	1595444431	0
+	"	79	56
+	^	76	55
+	.	79	54
+	+	77	0
+	+	76	54
+	+	77	0
+	+	15	0
+	+	21	0
+	+	27	0
+	+	33	0
+	+	77	0
+	+	76	37
+	+	79	54
+
+> ~/code/jssp-af/web/src/components/court/docketEntry/DocketEntryTable.vue
+	*	1595371496	0
+	"	38	14
+	.	38	0
+	+	118	48
+	+	130	28
+	+	134	0
+	+	130	0
+	+	16	0
+	+	127	0
+	+	122	0
+	+	128	0
+	+	124	18
+	+	129	54
+	+	121	40
+	+	3	0
+	+	100	0
+	+	130	0
+	+	4	0
 	+	22	0
-	+	25	35
-	+	3	386
-	+	4	372
-	+	6	165
-	+	8	2
-	+	10	68
-	+	10	252
-	+	17	3
+	+	38	0
+
+> ~/code/jssp-af/web/tests/e2e/support/commands.js
+	*	1595371315	0
+	"	60	24
+
+> ~/code/jssp-af/web/src/components/BirthdateSelector.vue
+	*	1595371310	0
+	"	41	13
+
+> ~/code/jssp-af/web/src/components/AFNCurrencyField.vue
+	*	1595371307	0
+	"	90	23
+
+> ~/code/jssp-af/web/src/components/translation/EditLookupTableRowDialog.vue
+	*	1595371291	0
+	"	52	19
+	^	44	30
+	.	44	29
+	+	33	0
+	+	44	29
+
+> ~/code/jssp-af/web/src/components/translation/NewLookupTableRowDialog.vue
+	*	1595371284	0
+	"	36	19
+	^	28	30
+	.	28	29
+	+	28	29
+
+> ~/code/jssp-af/web/src/components/translation/NewLocaleMessageDialog.vue
+	*	1595371281	0
+	"	39	19
+	^	40	30
+	.	40	29
+	+	14	29
+	+	40	29
+
+> ~/code/jssp-af/web/src/components/HousingForm.vue
+	*	1595371280	0
+	"	81	17
+	^	77	26
+	.	77	25
+	+	77	25
+
+> ~/code/jssp-af/web/src/components/translation/EditLocaleMessageDialog.vue
+	*	1595371280	0
+	"	21	19
+	^	22	30
+	.	22	29
+	+	22	29
+
+> ~/code/jssp-af/web/src/components/user/UserForm.vue
+	*	1595371279	0
+	"	47	11
+	^	41	22
+	.	41	0
+	+	13	21
+	+	20	21
+	+	27	21
+	+	33	33
+	+	41	0
+
+> ~/code/jssp-af/web/src/views/auth/Login.vue
+	*	1595371217	0
+	"	21	14
+	^	19	28
+	.	19	27
+	+	19	27
+	+	19	0
+	+	26	0
+	+	19	27
+
+> ~/code/jssp-af/web/src/components/FeedbackWidget.vue
+	*	1595371179	0
+	"	66	18
+	^	61	28
+	.	61	27
+	+	51	27
+	+	41	27
+	+	61	27
+
+> ~/code/jssp-af/web/src/components/housing/HousingFacilityAddLocationDialog.vue
+	*	1595371160	0
+	"	72	17
+	^	61	28
+	.	61	27
+	+	61	27
+
+> ~/code/jssp-af/web/src/components/housing/HousingFacilityAddFacilityDialog.vue
+	*	1595371097	0
+	"	30	27
+	^	30	28
+	.	30	27
+	+	30	27
+
+> ~/code/jssp-af/web/src/components/ClassificationScoreSlider.vue
+	*	1595371093	0
+	"	36	21
+
+> ~/code/jssp-af/web/src/components/corpus/CorpusSelector.vue
+	*	1595371088	0
+	"	5	11
+
+> ~/code/jssp-af/web/src/components/attachments/AddAttachmentDialog.vue
+	*	1595371086	0
+	"	36	17
+	^	39	28
+	.	39	27
+	+	31	0
+	+	39	27
+
+> ~/code/jssp-af/web/src/components/LocaleDateEntry.vue
+	*	1595370997	0
+	"	31	17
+
+> ~/code/jssp-af/web/src/components/offender/ReleaseDialog.vue
+	*	1595370993	0
+	"	37	21
+
+> ~/code/jssp-af/web/src/components/offender/programs/CompleteOffenderProgramDialog.vue
+	*	1595370990	0
+	"	48	23
+
+> ~/code/jssp-af/web/src/components/offender/programs/EndOffenderProgramDialog.vue
+	*	1595370987	0
+	"	48	23
+
+> ~/code/jssp-af/web/src/components/offender/housing/LeaveRequestDialog.vue
+	*	1595370984	0
+	"	62	19
+	^	63	30
+	.	63	29
+	+	57	29
+	+	63	29
+
+> ~/code/jssp-af/web/src/components/offender/programs/BeginOffenderProgramDialog.vue
+	*	1595370984	0
+	"	25	23
+
+> ~/code/jssp-af/web/src/components/offender/housing/MoveDialog.vue
+	*	1595370962	0
+	"	109	21
+	^	107	30
+	.	107	29
+	+	101	29
+	+	107	29
+
+> ~/code/jssp-af/web/src/components/offender/housing/TransferRequestDialog.vue
+	*	1595370928	0
+	"	50	21
+
+> ~/code/jssp-af/web/src/components/offender/housing/TransferBackfillDialog.vue
+	*	1595370918	0
+	"	34	25
+
+> ~/code/jssp-af/web/src/components/offender/housing/TransferCancelDialog.vue
+	*	1595370914	0
+	"	28	25
+
+> ~/code/jssp-af/web/src/components/offender/housing/AddAccompanyingChildDialog.vue
+	*	1595370911	0
+	"	72	27
+	^	39	32
+	.	39	31
+	+	39	31
+
+> ~/code/jssp-af/web/src/components/offender/housing/LeaveBackfillDialog.vue
+	*	1595370896	0
+	"	65	21
+	^	66	32
+	.	66	31
+	+	60	31
+	+	66	31
+
+> ~/code/jssp-af/web/src/components/offender/housing/LeaveCancelDialog.vue
+	*	1595370873	0
+	"	27	25
+
+> ~/code/jssp-af/web/src/components/offender/housing/TransferCompleteDialog.vue
+	*	1595370871	0
+	"	67	21
+	^	65	30
+	.	65	29
+	+	59	29
+	+	65	29
+
+> ~/code/jssp-af/web/src/components/offender/housing/AccompanyingChildEditDialog.vue
+	*	1595370812	0
+	"	62	25
+	^	38	30
+	.	38	29
+	+	38	29
+
+> ~/code/jssp-af/web/src/components/offender/profile/AddAnEscapeDialog.vue
+	*	1595370805	0
+	"	31	23
+
+> ~/code/jssp-af/web/src/components/offender/profile/AddDetentionExtensionDialog.vue
+	*	1595370799	0
+	"	22	21
+
+> ~/code/jssp-af/web/src/components/offender/profile/RecaptureDialog.vue
+	*	1595370794	0
+	"	43	19
+
+> ~/code/jssp-af/web/src/components/offender/profile/ProfileEditDialog.vue
+	*	1595370759	0
+	"	147	19
+	^	145	28
+	.	145	27
+	+	13	27
+	+	19	27
+	+	145	27
+
+> ~/code/jssp-af/web/src/components/offender/profile/IdentityEditDialog.vue
+	*	1595370746	0
+	"	33	19
+	^	31	28
+	.	31	27
+	+	13	27
+	+	19	27
+	+	25	27
+	+	31	27
+
+> ~/code/jssp-af/web/src/components/offender/profile/ReportIncidentDialog.vue
+	*	1595370734	0
+	"	89	25
+	^	88	34
+	.	88	33
+	+	64	29
+	+	88	33
+
+> ~/code/jssp-af/web/src/components/offender/medical/NewIntakeHealthScreeningDialog.vue
+	*	1595370652	0
+	"	446	21
+	^	444	30
+	.	444	29
+	+	85	37
+	+	117	37
+	+	149	37
+	+	181	37
+	+	328	37
+	+	360	37
+	+	392	37
+	+	444	29
+
+> ~/code/jssp-af/web/src/components/offender/medical/NewExamDialog.vue
+	*	1595370573	0
+	"	119	27
+	^	100	32
+	.	100	31
+	+	70	29
+	+	76	29
+	+	100	31
+
+> ~/code/jssp-af/web/src/components/offender/medical/NewTreatmentDialog.vue
+	*	1595370518	0
+	"	76	21
+	^	74	30
+	.	74	29
+	+	74	0
+	+	66	29
+	+	74	29
+
+> ~/code/jssp-af/web/src/components/offender/medical/NewHealthHistoryRecordDialog.vue
+	*	1595370482	0
+	"	41	21
+	^	39	30
+	.	39	29
+	+	39	29
+
+> ~/code/jssp-af/web/src/components/GeographySelector.vue
+	*	1595370414	0
+	"	601	31
+
+> ~/code/jssp-af/web/src/components/DossierNumberField.vue
+	*	1595370413	0
+	"	10	7
+
+> ~/code/jssp-af/web/src/components/court/dossier/PartyForm.vue
+	*	1595370404	0
+	"	211	15
+	^	219	32
+	.	3	0
+	+	228	0
+	+	228	31
+	+	21	44
+	+	30	47
+	+	39	50
+	+	48	55
+	+	69	50
+	+	89	50
+	+	97	51
+	+	105	52
+	+	228	0
+	+	218	0
+	+	225	31
+	+	21	46
+	+	30	49
+	+	39	52
+	+	69	52
+	+	89	52
+	+	97	53
+	+	105	54
+	+	48	57
+	+	3	14
+	+	220	0
+	+	219	31
+	+	3	0
+
+> ~/code/jssp-af/web/src/components/IdentificationForm.vue
+	*	1595370270	0
+	"	269	17
+	^	263	26
+	.	263	25
+	+	19	25
+	+	8	25
+	+	25	25
+	+	35	25
+	+	48	0
+	+	69	25
+	+	75	25
+	+	263	25
+
+> ~/code/jssp-af/web/src/components/court/EditAnAttorneyDialog.vue
+	*	1595369275	0
+	"	85	14
+	.	85	0
+	+	20	27
+	+	28	27
+	+	37	27
+	+	48	27
+	+	56	27
+	+	62	27
+	+	68	27
+	+	91	0
+	+	85	0
+	+	86	33
+	+	85	42
+	+	87	27
+	+	90	0
+	+	85	0
+
+> /tmp/vHtDekq/27.fugitiveblame
+	*	1595367987	0
+	"	86	0
+
+> ~/code/jssp-af/web/src/components/court/AddAnAttorneyDialog.vue
+	*	1595367918	0
+	"	79	27
+	^	79	28
+	.	79	27
+	+	21	27
+	+	32	27
+	+	41	27
+	+	54	27
+	+	61	27
+	+	70	27
+	+	79	27
+
+> ~/code/jssp-af/web/src/components/court/docketEntry/RecordSummonsServiceDialog.vue
+	*	1595367874	0
+	"	41	26
+	^	41	28
+	.	41	26
+	+	41	26
+
+> ~/code/jssp-af/web/src/components/court/docketEntry/DocketEntryForm.vue
+	*	1595367767	0
+	"	30	13
+	^	32	56
+	.	32	55
+	+	57	40
+	+	58	0
+	+	74	0
+	+	17	0
+	+	17	36
+	+	18	48
+	+	79	0
+	+	86	37
+	+	32	55
+
+> ~/code/jssp-af/web/src/components/court/docketEntry/RescheduleHearingDialog.vue
+	*	1595366431	0
+	"	66	24
+	^	66	28
+	.	66	27
+	+	86	0
+	+	87	0
+	+	81	33
+	+	83	39
+	+	84	0
+	+	21	0
+	+	28	0
+	+	66	27
+
+> ~/code/jssp-af/web/src/components/court/dossier/SubjectPropertyForm.vue
+	*	1595366421	0
+	"	90	0
+	^	24	53
+	.	146	0
+	+	33	45
+	+	164	0
+	+	164	75
+	+	145	4
+	+	145	0
+	+	164	0
+	+	163	0
+	+	164	0
+	+	150	41
+	+	158	0
+	+	164	0
+	+	161	41
+	+	164	0
+	+	151	0
+	+	158	0
+	+	151	0
+	+	157	29
+	+	158	0
+	+	164	0
+	+	33	47
+	+	24	52
+	+	147	10
+	+	150	10
+	+	146	0
+
+> ~/Dropbox/nvALT/unity2020-community-guidelines.md
+	*	1595366203	0
+	"	21	0
+	^	2	305
+	.	14	40
+	+	2	0
+	+	39	17
+	+	25	23
+	+	39	61
+	+	26	64
+	+	27	38
+	+	28	165
+	+	29	163
+	+	21	1
+	+	24	0
+	+	39	0
+	+	39	148
+	+	39	0
+	+	30	2
+	+	39	2
+	+	32	0
+	+	32	113
+	+	32	0
+	+	32	288
+	+	39	111
+	+	32	352
+	+	32	209
+	+	32	375
+	+	32	0
+	+	32	209
+	+	38	0
+	+	32	14
+	+	32	89
+	+	32	171
+	+	32	271
+	+	39	0
+	+	35	181
+	+	35	65
+	+	35	262
+	+	35	171
+	+	36	0
+	+	37	2
+	+	21	20
+	+	4	9
+	+	6	139
+	+	25	49
+	+	26	67
+	+	25	49
+	+	27	39
+	+	25	1
+	+	26	1
+	+	27	1
+	+	28	1
+	+	29	1
+	+	30	16
+	+	32	0
+	+	8	0
+	+	7	0
+	+	21	0
+	+	32	0
+	+	14	0
+	+	13	0
+	+	21	0
+	+	32	0
+	+	25	0
+	+	31	117
+	+	31	32
+	+	21	21
+	+	23	5
+	+	2	275
+	+	10	23
+	+	12	45
+	+	16	3
+	+	16	94
+	+	19	129
+	+	35	234
+	+	35	0
+	+	35	203
+	+	2	0
 	+	1	0
+	+	2	29
+	+	14	40
+
+> ~/code/jssp-af/web/src/components/court/judge/JudgeForm.vue
+	*	1595366005	0
+	"	65	11
+	^	66	22
+	.	66	21
+	+	6	21
+	+	14	21
+	+	22	21
+	+	30	21
+	+	60	21
+	+	66	21
+
+> ~/code/jssp-af/web/src/views/translation/LocaleMessageList.vue
+	*	1595366000	0
+	"	10	15
+
+> ~/code/jssp-af/web/src/views/investigation/EditProsecutorDialog.vue
+	*	1595365996	0
+	"	35	21
+	^	2	13
+	.	2	0
+	+	23	31
+	+	29	31
+	+	35	31
+	+	41	31
+	+	50	31
+	+	56	31
+	+	2	0
+
+> ~/code/jssp-af/web/src/views/investigation/NewProsecutorDialog.vue
+	*	1595365992	0
+	"	61	21
+	^	62	32
+	.	62	31
+	+	17	31
+	+	29	31
+	+	36	31
+	+	47	31
+	+	56	31
+	+	62	31
+
+> ~/code/jssp-af/web/src/views/investigation/ProsecutorsList.vue
+	*	1595365992	0
+	"	20	11
+
+> ~/code/jssp-af/web/src/views/courts/RulingTypeList.vue
+	*	1595365988	0
+	"	13	13
+
+> ~/code/jssp-af/web/src/views/courts/AttorneyList.vue
+	*	1595365988	0
+	"	7	11
+
+> ~/code/jssp-af/web/src/views/courts/CourtList.vue
+	*	1595365986	0
+	"	13	13
+
+> ~/code/jssp-af/web/src/views/courts/JudgeList.vue
+	*	1595365982	0
+	"	7	11
+
+> ~/code/jssp-af/web/src/components/court/ruling_type/RulingTypeForm.vue
+	*	1595365941	0
+	"	81	2
+	^	14	59
+	.	104	0
+	+	13	21
+	+	14	27
+	+	102	0
+	+	102	23
+	+	102	36
+	+	102	0
+	+	102	36
+	+	102	0
+	+	14	56
+	+	102	0
+	+	109	36
+	+	102	0
+	+	14	58
+	+	104	9
+	+	103	0
+	+	104	0
+
+> ~/Dropbox/nvALT/unity2020-brendan-chris-call.md
+	*	1595364745	0
+	"	22	14
+	^	13	36
+	.	13	35
+	+	2	36
+	+	3	0
+	+	2	174
+	+	6	50
+	+	10	8
+	+	13	21
+	+	14	33
+	+	13	35
+
+> ~/code/jssp-af/web/src/components/court/partyAttorney/PartyAttorneyForm.vue
+	*	1595362915	0
+	"	47	4
+
+> ~/code/jssp-af/web/src/components/court/CourtForm.vue
+	*	1595362909	0
+	"	99	4
+	^	100	32
+	.	100	31
+	+	37	0
+	+	14	56
+	+	99	57
+	+	104	37
+	+	99	58
+	+	14	56
+	+	104	0
+	+	104	18
+	+	104	0
+	+	104	10
+	+	104	0
+	+	99	110
+	+	104	0
+	+	99	86
+	+	106	65
+	+	99	41
+	+	104	9
+	+	99	58
+	+	104	44
+	+	104	0
+	+	104	26
+	+	104	22
+	+	104	8
+	+	106	66
+	+	99	56
+	+	14	58
+	+	102	36
+	+	101	10
+	+	100	31
+
+> ~/code/jssp-af/web/src/components/court/ruling_type/CustomFieldForm.vue
+	*	1595362906	0
+	"	122	6
+	^	21	45
+	.	122	0
+	+	12	18
+	+	20	17
+	+	13	25
+	+	21	25
+	+	131	13
+	+	131	71
+	+	131	31
+	+	131	65
+	+	12	14
+	+	12	0
+	+	131	0
+	+	121	0
+	+	121	37
+	+	131	0
+	+	13	55
+	+	21	42
+	+	121	0
+	+	128	37
+	+	121	0
+	+	13	57
+	+	21	44
+	+	123	0
+	+	122	0
+
+> ~/code/jssp-af/web/src/components/charges/ChargeForm.vue
+	*	1595361938	0
+	"	283	4
+
+> ~/Desktop/guidelines.md
+	*	1595361449	0
+	"	9	1
+	^	9	2
+	.	9	1
+	+	1	0
+	+	5	51
+	+	7	34
+	+	3	45
+	+	7	49
+	+	9	1
+
+> ~/code/jssp-af/web/src/components/court/summons/IssueSummonsDialog.vue
+	*	1595344990	0
+	"	101	35
+	^	101	36
+	.	101	35
+	+	37	27
+	+	101	35
+
+> ~/code/jssp-af/web/src/components/court/case/AddHearingDialog.vue
+	*	1595344932	0
+	"	84	15
+	^	86	28
+	.	86	27
+	+	163	0
+	+	86	27
+
+> ~/code/jssp-af/web/src/components/court/ruling_type/AddCustomFieldDialog.vue
+	*	1595344531	0
+	"	1	0
+
+> ~/code/jssp-af/web/src/components/court/case/NewCaseDialog.vue
+	*	1595343927	0
+	"	44	21
+
+> ~/code/jssp-af/web/src/components/court/case/AddRulingDialog.vue
+	*	1595343914	0
+	"	58	29
+	^	58	30
+	.	58	29
+	+	104	0
+	+	105	0
+	+	107	0
+	+	138	0
+	+	121	0
+	+	189	0
+	+	190	0
+	+	191	0
+	+	133	28
+	+	58	29
+
+> ~/code/jssp-af/web/src/components/ImprisonmentDurationField.vue
+	*	1595343217	0
+	"	24	9
+
+> ~/code/jssp-af/web/src/components/IntArrayField.vue
+	*	1595343210	0
+	"	3	5
+
+> ~/code/jssp-af/web/src/views/user/UserList.vue
+	*	1595343161	0
+	"	10	9
+
+> ~/code/jssp-af/web/src/views/housing/HousingFacilityList.vue
+	*	1595343130	0
+	"	14	11
+
+> ~/code/jssp-af/web/src/views/housing/HousingFacilityForm.vue
+	*	1595343114	0
+	"	57	15
+	^	13	24
+	.	13	23
+	+	13	23
+
+> ~/code/jssp-af/web/src/views/corpus/CorpusForm.vue
+	*	1595342971	0
+	"	38	11
+	^	39	24
+	.	39	23
+	+	17	0
+	+	39	23
