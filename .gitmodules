@@ -154,3 +154,6 @@
 [submodule "bundle/notational-fzf-vim"]
 	path = bundle/notational-fzf-vim
 	url = git@github.com:alok/notational-fzf-vim.git
+[submodule "bundle/neuron.vim"]
+	path = bundle/neuron.vim
+	url = git@github.com:ihsanturk/neuron.vim.git
