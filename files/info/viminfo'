@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/discord
+~MSle0~/fzf
 
 # Last Substitute Search Pattern:
 ~MSle0&<\/pre
@@ -21,17 +21,37 @@ $
 
 # Command Line History (newest to oldest):
 :wqa
-|2,0,1595609544,,"wqa"
+|2,0,1595615123,,"wqa"
 :w
-|2,0,1595609542,,"w"
+|2,0,1595614343,,"w"
+:e ~/.vimrc
+|2,0,1595613952,,"e ~/.vimrc"
 :q!
-|2,0,1595609488,,"q!"
+|2,0,1595614427,,"q!"
 :q
-|2,0,1595609487,,"q"
+|2,0,1595614423,,"q"
+:let g:fzf_preview_window = 'right:60%'
+|2,0,1595614212,,"let g:fzf_preview_window = 'right:60%'"
+:qw
+|2,0,1595614171,,"qw"
+:FzfAg
+|2,0,1595613881,,"FzfAg"
+:Fzf
+|2,0,1595613875,,"Fzf"
+:fzf
+|2,0,1595613872,,"fzf"
+:ZettelSearch()
+|2,0,1595610117,,"ZettelSearch()"
+:call Edi
+|2,0,1595612513,,"call Edi"
+:call ZettelSearch()
+|2,0,1595612467,,"call ZettelSearch()"
+:help neuron.vim
+|2,0,1595611806,,"help neuron.vim"
+:wq
+|2,0,1595612166,,"wq"
 :.q
 |2,0,1595609485,,".q"
-:wq
-|2,0,1595539083,,"wq"
 :!
 |2,0,1595518973,,"!"
 :!mkdir lib/tasks/temporary
@@ -122,8 +142,6 @@ $
 |2,0,1593633570,,"w web/src/components/court/docketEntry/CancelHearingDialog.vue"
 :e .git/hooks/post-update.sample
 |2,0,1593467824,,"e .git/hooks/post-update.sample"
-:qw
-|2,0,1593467810,,"qw"
 :'<,'>wo
 |2,0,1593457885,,"'<,'>wo"
 :go30
@@ -202,10 +220,32 @@ $
 |2,0,1591973752,,"Ack! bamboo"
 
 # Search String History (newest to oldest):
+?/fzf
+|2,1,1595613958,47,"fzf"
+?/fzf_
+|2,1,1595613956,47,"fzf_"
+? @$
+|2,1,1595613946,,"@$"
+?/search
+|2,1,1595612268,47,"search"
+?/serch
+|2,1,1595612248,47,"serch"
+?/insert_zettel
+|2,1,1595613315,47,"insert_zettel"
+?/insertzettel
+|2,1,1595613280,47,"insertzettel"
+?/zett
+|2,1,1595612483,47,"zett"
+?/alias
+|2,1,1595612153,47,"alias"
+?/bama
+|2,1,1595525352,47,"bama"
+?/start
+|2,1,1595609750,47,"start"
+?/startigy
+|2,1,1595609747,47,"startigy"
 ??\a
 |2,1,1595534950,63,"\\a"
-? @$
-|2,1,1595534950,,"@$"
 ?/discord
 |2,1,1595517656,47,"discord"
 ?/i3
@@ -1154,6 +1194,8 @@ $
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
+@N
+|2,3,1595614308,,"N"
 @/home/vcavallo/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_result_sets.rb
 |2,3,1595444499,,"/home/vcavallo/code/ldx-api/db/migrate/20200722185957_add_test_suite_reference_to_result_sets.rb"
 @/home/vcavallo/Dropbox/nvALT/unity2020-zoom-meeting_2020-07-19.md
@@ -1205,281 +1247,370 @@ $
 
 # Registers:
 "0	CHAR	0
-	 move scratchpad scratchpad show
-|3,0,0,0,1,0,1595534950," move scratchpad scratchpad show"
-"1	LINE	0
-	
-|3,0,1,1,1,0,1595609154,""
+	x
+|3,0,0,0,1,0,1595614175,"x"
+""1	LINE	0
+	 let g:fzf_preview_window = 'right:60%'
+|3,1,1,1,1,0,1595614342," let g:fzf_preview_window = 'right:60%'"
 "2	LINE	0
-	
-|3,0,2,1,1,0,1595609153,""
+	.gitignore
+|3,0,2,1,1,0,1595614175,".gitignore"
 "3	LINE	0
-	
-|3,0,3,1,1,0,1595539077,""
+	.github/
+|3,0,3,1,1,0,1595614175,".github/"
 "4	LINE	0
-	
-|3,0,4,1,1,0,1595535039,""
+	.gitattributes
+|3,0,4,1,1,0,1595614175,".gitattributes"
 "5	LINE	0
-	
-|3,0,5,1,1,0,1595534982,""
+	.git/
+|3,0,5,1,1,0,1595614175,".git/"
 "6	LINE	0
-	.wakatime.log
-|3,0,6,1,1,0,1595534950,".wakatime.log"
+	../
+|3,0,6,1,1,0,1595614175,"../"
 "7	LINE	0
-	.testing.c.swp
-|3,0,7,1,1,0,1595534950,".testing.c.swp"
+	./
+|3,0,7,1,1,0,1595614175,"./"
 "8	LINE	0
-	.test.md.die.swp
-|3,0,8,1,1,0,1595534950,".test.md.die.swp"
+	
+|3,0,8,1,1,0,1595614175,""
 "9	LINE	0
-	.test.js.swp
-|3,0,9,1,1,0,1595534950,".test.js.swp"
+	.neuron/
+|3,0,9,1,1,0,1595614059,".neuron/"
 "j	CHAR	0
 	kkkj
 |3,0,19,0,1,0,1595342222,"kkkj"
 "q@	CHAR	0
 	/v-modeleea.trim€ýa
 |3,2,26,0,1,0,1595342238,"/v-modeleea.trim€ýa"
-""-	CHAR	0
+"-	CHAR	0
 	x
-|3,1,36,0,1,0,1595609538,"x"
+|3,0,36,0,1,0,1595609538,"x"
 
 # global variables:
 
 # File marks:
-'0  8  0  ~/Dropbox/zettelkasten/ac0f1127.md
-|4,48,8,0,1595609544,"~/Dropbox/zettelkasten/ac0f1127.md"
-'1  1  0  ~/Dropbox/nvALT/process-mapping.md
-|4,49,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
-'2  8  0  ~/zettelkasten/7758446d.md
-|4,50,8,0,1595519427,"~/zettelkasten/7758446d.md"
-'3  7  11  ~/zettelkasten/a9d7def2.md
-|4,51,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
-'4  83  49  ~/.config/i3/config
-|4,52,83,49,1595517683,"~/.config/i3/config"
-'5  3  13  ~/zettelkasten/bin/serve
-|4,53,3,13,1595456320,"~/zettelkasten/bin/serve"
-'6  214  9  ~/dotfiles/linux_bashrc.sh
-|4,54,214,9,1595456192,"~/dotfiles/linux_bashrc.sh"
-'7  1  4  /tmp/bash-fc.17vZWl
-|4,55,1,4,1595456180,"/tmp/bash-fc.17vZWl"
-'8  7  10  ~/zettelkasten/a6b574b2.md
-|4,56,7,10,1595456106,"~/zettelkasten/a6b574b2.md"
-'9  7  10  ~/zettelkasten/a6b574b2.md
-|4,57,7,10,1595456106,"~/zettelkasten/a6b574b2.md"
+'0  37  0  ~/.vimrc
+|4,48,37,0,1595615123,"~/.vimrc"
+'1  1  0  /tmp/bash-fc.7aLVN3
+|4,49,1,0,1595614427,"/tmp/bash-fc.7aLVN3"
+'2  1  0  /tmp/bash-fc.LJyrRY
+|4,50,1,0,1595614423,"/tmp/bash-fc.LJyrRY"
+'3  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,51,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+'4  2  0  /tmp/bash-fc.X3tFXl
+|4,52,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+'5  5  0  ~/Dropbox/zettelkasten/ac0f1127.md
+|4,53,5,0,1595613976,"~/Dropbox/zettelkasten/ac0f1127.md"
+'6  11  11  ~/Dropbox/zettelkasten
+|4,54,11,11,1595613942,"~/Dropbox/zettelkasten"
+'7  11  11  ~/Dropbox/zettelkasten
+|4,55,11,11,1595613942,"~/Dropbox/zettelkasten"
+'8  11  11  ~/Dropbox/zettelkasten
+|4,56,11,11,1595613942,"~/Dropbox/zettelkasten"
+'9  11  11  ~/Dropbox/zettelkasten
+|4,57,11,11,1595613942,"~/Dropbox/zettelkasten"
 
 # Jumplist (newest first):
--'  8  0  ~/Dropbox/zettelkasten/ac0f1127.md
-|4,39,8,0,1595609544,"~/Dropbox/zettelkasten/ac0f1127.md"
--'  1  0  ~/Dropbox/zettelkasten/ac0f1127.md
-|4,39,1,0,1595609506,"~/Dropbox/zettelkasten/ac0f1127.md"
--'  1  0  ~/Dropbox/nvALT/process-mapping.md
-|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
--'  1  0  ~/Dropbox/nvALT/process-mapping.md
-|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
--'  1  0  ~/Dropbox/nvALT/process-mapping.md
-|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
--'  1  0  ~/Dropbox/nvALT/process-mapping.md
-|4,39,1,0,1595604493,"~/Dropbox/nvALT/process-mapping.md"
--'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
-|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
--'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
-|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
--'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
-|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
--'  1  0  ~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md
-|4,39,1,0,1595539083,"~/Dropbox/nvALT/vss-seasonal-and-new-features_2020-07-23.md"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  1  0  ~/
-|4,39,1,0,1595534950,"~/"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  8  0  ~/zettelkasten/7758446d.md
-|4,39,8,0,1595519427,"~/zettelkasten/7758446d.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  7  11  ~/zettelkasten/a9d7def2.md
-|4,39,7,11,1595519018,"~/zettelkasten/a9d7def2.md"
--'  1  0  ~/zettelkasten/a9d7def2.md
-|4,39,1,0,1595518958,"~/zettelkasten/a9d7def2.md"
--'  1  0  ~/zettelkasten/a9d7def2.md
-|4,39,1,0,1595518958,"~/zettelkasten/a9d7def2.md"
+-'  37  0  ~/.vimrc
+|4,39,37,0,1595615123,"~/.vimrc"
+-'  1  0  /tmp/bash-fc.7aLVN3
+|4,39,1,0,1595614427,"/tmp/bash-fc.7aLVN3"
+-'  1  0  /tmp/bash-fc.LJyrRY
+|4,39,1,0,1595614423,"/tmp/bash-fc.LJyrRY"
+-'  1  0  /tmp/bash-fc.LJyrRY
+|4,39,1,0,1595614423,"/tmp/bash-fc.LJyrRY"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  38  29  ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+|4,39,38,29,1595614303,"~/.vim/bundle/neuron.vim/plugin/neuron.vim"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614175,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  1  0  ~/Dropbox/zettelkasten
+|4,39,1,0,1595614059,"~/Dropbox/zettelkasten"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
+-'  2  0  /tmp/bash-fc.X3tFXl
+|4,39,2,0,1595614056,"/tmp/bash-fc.X3tFXl"
 
 # History of marks within files (newest to oldest):
 
+> /tmp/bash-fc.7aLVN3
+	*	1595614425	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /tmp/bash-fc.LJyrRY
+	*	1595614422	0
+	"	1	0
+
+> ~/.vimrc
+	*	1595614343	0
+	"	37	0
+	.	37	0
+	+	72	116
+	+	57	32
+	+	36	25
+	+	37	0
+
+> /tmp/bash-fc.X3tFXl
+	*	1595614055	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
 > ~/Dropbox/zettelkasten/ac0f1127.md
-	*	1595609542	0
-	"	8	0
+	*	1595613975	0
+	"	5	0
 	^	7	100
 	.	7	99
 	+	9	0
 	+	7	98
 	+	7	99
+
+> ~/.vim/bundle/neuron.vim/plugin/neuron.vim
+	*	1595613913	0
+	"	38	29
+
+> ~/.vim/bundle/neuron.vim/autoload/neuron.vim
+	*	1595613894	0
+	"	5	6
+
+> ~/Dropbox/zettelkasten/index.md
+	*	1595613877	0
+	"	1	0
+
+> ~/Dropbox/zettelkasten/a6b574b2.md
+	*	1595612492	0
+	"	1	0
+
+> ~/Dropbox/zettelkasten/7758446d.md
+	*	1595612490	0
+	"	7	0
+
+> ~/Dropbox/zettelkasten/36349072.md
+	*	1595612489	0
+	"	5	0
+	^	5	2
+	.	5	0
+	+	5	0
+
+> ~/Dropbox/zettelkasten/0266988e.md
+	*	1595612487	0
+	"	1	2
+
+> ~/.vim/bundle/neuron.vim/ftdetect/neuron.vim
+	*	1595612335	0
+	"	1	0
+
+> ~/.vim/bundle/neuron.vim/autoload/util.vim
+	*	1595612330	0
+	"	1	0
+
+> ~/.vim/bundle/neuron.vim/autoload/rpc.vim
+	*	1595612328	0
+	"	1	0
+
+> ~/.vim/bundle/neuron.vim/doc/neuron.vim.txt
+	*	1595612317	0
+	"	1	0
+
+> ~/.vim/bundle/neuron.vim/doc/tags
+	*	1595612315	0
+	"	3	0
+
+> ~/.bashrc
+	*	1595612166	0
+	"	29	15
+	^	29	16
+	.	29	15
+	+	29	15
+
+> ~/iivie
+	*	1595612144	0
+	"	1	0
 
 > ~/Dropbox/nvALT/process-mapping.md
 	*	1595604491	0
@@ -2241,194 +2372,3 @@ $
 > ~/code/jssp-af/web/src/views/courts/JudgeList.vue
 	*	1595365982	0
 	"	7	11
-
-> ~/code/jssp-af/web/src/components/court/ruling_type/RulingTypeForm.vue
-	*	1595365941	0
-	"	81	2
-	^	14	59
-	.	104	0
-	+	13	21
-	+	14	27
-	+	102	0
-	+	102	23
-	+	102	36
-	+	102	0
-	+	102	36
-	+	102	0
-	+	14	56
-	+	102	0
-	+	109	36
-	+	102	0
-	+	14	58
-	+	104	9
-	+	103	0
-	+	104	0
-
-> ~/Dropbox/nvALT/unity2020-brendan-chris-call.md
-	*	1595364745	0
-	"	22	14
-	^	13	36
-	.	13	35
-	+	2	36
-	+	3	0
-	+	2	174
-	+	6	50
-	+	10	8
-	+	13	21
-	+	14	33
-	+	13	35
-
-> ~/code/jssp-af/web/src/components/court/partyAttorney/PartyAttorneyForm.vue
-	*	1595362915	0
-	"	47	4
-
-> ~/code/jssp-af/web/src/components/court/CourtForm.vue
-	*	1595362909	0
-	"	99	4
-	^	100	32
-	.	100	31
-	+	37	0
-	+	14	56
-	+	99	57
-	+	104	37
-	+	99	58
-	+	14	56
-	+	104	0
-	+	104	18
-	+	104	0
-	+	104	10
-	+	104	0
-	+	99	110
-	+	104	0
-	+	99	86
-	+	106	65
-	+	99	41
-	+	104	9
-	+	99	58
-	+	104	44
-	+	104	0
-	+	104	26
-	+	104	22
-	+	104	8
-	+	106	66
-	+	99	56
-	+	14	58
-	+	102	36
-	+	101	10
-	+	100	31
-
-> ~/code/jssp-af/web/src/components/court/ruling_type/CustomFieldForm.vue
-	*	1595362906	0
-	"	122	6
-	^	21	45
-	.	122	0
-	+	12	18
-	+	20	17
-	+	13	25
-	+	21	25
-	+	131	13
-	+	131	71
-	+	131	31
-	+	131	65
-	+	12	14
-	+	12	0
-	+	131	0
-	+	121	0
-	+	121	37
-	+	131	0
-	+	13	55
-	+	21	42
-	+	121	0
-	+	128	37
-	+	121	0
-	+	13	57
-	+	21	44
-	+	123	0
-	+	122	0
-
-> ~/code/jssp-af/web/src/components/charges/ChargeForm.vue
-	*	1595361938	0
-	"	283	4
-
-> ~/Desktop/guidelines.md
-	*	1595361449	0
-	"	9	1
-	^	9	2
-	.	9	1
-	+	1	0
-	+	5	51
-	+	7	34
-	+	3	45
-	+	7	49
-	+	9	1
-
-> ~/code/jssp-af/web/src/components/court/summons/IssueSummonsDialog.vue
-	*	1595344990	0
-	"	101	35
-	^	101	36
-	.	101	35
-	+	37	27
-	+	101	35
-
-> ~/code/jssp-af/web/src/components/court/case/AddHearingDialog.vue
-	*	1595344932	0
-	"	84	15
-	^	86	28
-	.	86	27
-	+	163	0
-	+	86	27
-
-> ~/code/jssp-af/web/src/components/court/ruling_type/AddCustomFieldDialog.vue
-	*	1595344531	0
-	"	1	0
-
-> ~/code/jssp-af/web/src/components/court/case/NewCaseDialog.vue
-	*	1595343927	0
-	"	44	21
-
-> ~/code/jssp-af/web/src/components/court/case/AddRulingDialog.vue
-	*	1595343914	0
-	"	58	29
-	^	58	30
-	.	58	29
-	+	104	0
-	+	105	0
-	+	107	0
-	+	138	0
-	+	121	0
-	+	189	0
-	+	190	0
-	+	191	0
-	+	133	28
-	+	58	29
-
-> ~/code/jssp-af/web/src/components/ImprisonmentDurationField.vue
-	*	1595343217	0
-	"	24	9
-
-> ~/code/jssp-af/web/src/components/IntArrayField.vue
-	*	1595343210	0
-	"	3	5
-
-> ~/code/jssp-af/web/src/views/user/UserList.vue
-	*	1595343161	0
-	"	10	9
-
-> ~/code/jssp-af/web/src/views/housing/HousingFacilityList.vue
-	*	1595343130	0
-	"	14	11
-
-> ~/code/jssp-af/web/src/views/housing/HousingFacilityForm.vue
-	*	1595343114	0
-	"	57	15
-	^	13	24
-	.	13	23
-	+	13	23
-
-> ~/code/jssp-af/web/src/views/corpus/CorpusForm.vue
-	*	1595342971	0
-	"	38	11
-	^	39	24
-	.	39	23
-	+	17	0
-	+	39	23
