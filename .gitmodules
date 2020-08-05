@@ -157,3 +157,9 @@
 [submodule "bundle/neuron.vim"]
 	path = bundle/neuron.vim
 	url = git@github.com:ihsanturk/neuron.vim.git
+[submodule "bundle/vim-zettel.git"]
+	path = bundle/vim-zettel.git
+	url = https://github.com/michal-h21/vim-zettel.git
+[submodule "bundle/vim-zettel"]
+	path = bundle/vim-zettel
+	url = https://github.com/michal-h21/vim-zettel.git
